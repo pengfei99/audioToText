@@ -1,3 +1,5 @@
+from typing import Optional
+
 from faster_whisper import WhisperModel
 from pathlib import Path
 
@@ -44,12 +46,18 @@ class Transcriptor:
         return model
 
     def transcribe_multilingual_audio(self, audio_path: str, language: str = "fr", beam_size: int = 5,
-                                      vad_filter: bool = True):
+                                      vad_filter: bool = True, output_file: Optional[str] = None):
+        audio_path = Path(audio_path)
+        if not audio_path.is_file() or audio_path.suffix != ".mp3":
+            err_msg = f"the provided audio path does not exist {audio_path.as_posix()}"
+            print(err_msg)
+            return
+
         print("Start transcription...")
         print("Detecting language...")
         # the core transcribe logic
         segments, info = self.model.transcribe(
-            audio_path,
+            audio_path.as_posix(),
             language=language,  # if none, means auto-detect
             beam_size=beam_size,  # search beam size, 5 is the best balance between speed and accuracy
             vad_filter=vad_filter,  # turn on VAD filter enables multiple language switch in the same audio.
@@ -61,16 +69,38 @@ class Transcriptor:
         )
 
         # info.language indicates the main language in the audio
-        print(
-            f"\nDetecting language: {info.language.upper()} (language_probability: {info.language_probability:.2%})\n")
+        lang_info = f"\nDetecting language: {info.language.upper()} (language_probability: {info.language_probability:.2%})\n"
+        print(lang_info)
         print("-" * 50)
+
+        # Prepare output file (if provided)
+        file_handle = None
+        if output_file:
+            try:
+                file_handle = open(output_file, "w", encoding="utf-8")
+                # Write header
+                file_handle.write(f"Transcription of: {audio_path}\n")
+                file_handle.write(f"Detected language: {info.language.upper()}\n")
+                file_handle.write("-" * 60 + "\n\n")
+            except Exception as e:
+                print(f"Could not open output file: {e}")
+                file_handle = None
 
         # print the transcription
         for segment in segments:
             # reformat timestamp
             start_time = self.format_timestamp(segment.start)
             end_time = self.format_timestamp(segment.end)
-            print(f"[{start_time} -> {end_time}] {segment.text.strip()}")
+            output_text = f"[{start_time} -> {end_time}] {segment.text.strip()}"
+            print(f"{output_text}")
+            # Write to file (very memory efficient - writes line by line)
+            if file_handle:
+                file_handle.write(output_text + "\n")
+
+        # Close file properly
+        if file_handle:
+            file_handle.close()
+            print(f"\n Transcription saved to: {output_file}")
 
     @staticmethod
     def format_timestamp(seconds: float):
