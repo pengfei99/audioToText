@@ -1,7 +1,7 @@
 [project]
 name = "audiototext"
 version = "0.1.0"
-description = "Add your description here"
+description = "this tool convert audio to text"
 readme = "README.md"
 requires-python = ">=3.14"
-dependencies = ["faster-whisper"]
+dependencies = ["faster-whisper","huggingface_hub"]
