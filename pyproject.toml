@@ -1,7 +1,64 @@
 [project]
 name = "audiototext"
 version = "0.1.0"
-description = "this tool convert audio to text"
+description = "Convert audio files to text using Faster-Whisper"
 readme = "README.md"
-requires-python = ">=3.14"
-dependencies = ["faster-whisper","huggingface_hub"]
+requires-python = ">=3.11"
+license = { text = "MIT" }
+
+authors = [
+    { name = "Pengfei Liu" }
+]
+
+keywords = [
+    "speech-to-text",
+    "transcription",
+    "whisper",
+    "audio",
+    "asr"
+]
+
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Multimedia :: Sound/Audio",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+dependencies = [
+    "faster-whisper>=1.1.0",
+    "huggingface_hub>=0.34.0",
+    "torch>=2.7.0",
+    "librosa>=0.11.0",
+    "transformers>=4.53.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-cov>=6.0",
+    "ruff>=0.12.0",
+    "mypy>=1.17.0",
+]
+
+[project.scripts]
+audiototext = "audiototext.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/att"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
