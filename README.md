@@ -22,6 +22,7 @@ We have few inference engines:
 > The choice of inference engine will be highly influenced by the model choice. For example, Faster-Whisper does not support
 Voxtral models. If you choose Voxtal, the inference engines must be `vllm` or `Hugging Face Transformers`
 
+> There are inference engines(e.g. mlx-audio) developed for MacOS. As we will never use MacOS, we don't evaluate them.
 
 ### 2.1 faster-whisper
 
@@ -55,12 +56,21 @@ The below metric shows a bench on running `whisper-Large-v2` model on GPU which 
 
 There are many ASR models, if you want a full list, you can visit the hugging face [repo](https://huggingface.co/models?pipeline_tag=automatic-speech-recognition)
 
+We have only tested:
+- voxtral-Mini-3B-2507:
+- 
 
-### 3.1  Voxtral asr models 
+### 3.1  Voxtral models 
 
-Voxtral is a serious next-generation ASR model
-Mini 4B Realtime 2602
+Voxtral is a serious next-generation ASR model families. It provides different type models for difference use case:
+
+- VoxtralMini-4B-Realtime-2602 : for streaming
+- Voxtral-Mini-3B-2507 : 
+
+> our benchmark uses a quantified model(Q5_K_M) from https://huggingface.co/bartowski/mistralai_Voxtral-Mini-3B-2507-GGUF
+
 ###
+
 ## 
 
 
