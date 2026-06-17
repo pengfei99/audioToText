@@ -217,4 +217,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 .idea
-src/att/conf/creds.py
+./src/att/conf/creds.py
