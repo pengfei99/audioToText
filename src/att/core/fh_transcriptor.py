@@ -3,10 +3,11 @@ from typing import Optional
 from faster_whisper import WhisperModel
 from pathlib import Path
 
+
 from src.att.conf.constants import MODEL_ROOT_DIR, MODEL_NAME
 
 
-class Transcriptor:
+class WhisperTranscriptor:
     def __init__(self, model_path: str = None, device_type: str = "cpu", compute_type: str = "int8"):
         self.model = self._init_model(model_path, device_type, compute_type)
 
@@ -25,7 +26,6 @@ class Transcriptor:
         :param model_path:
         :param device_type:
         :param compute_type:
-        :param language:
         :return:
         """
         # 1. we highly recommend "large-v3" as model
@@ -59,8 +59,12 @@ class Transcriptor:
         segments, info = self.model.transcribe(
             audio_path.as_posix(),
             language=language,  # if none, means auto-detect
-            beam_size=beam_size,  # search beam size, 5 is the best balance between speed and accuracy
+            beam_size=beam_size,  # search beam size, 5 is the best balance between speed and accuracy, the bigger the number, it will explore more translation paths, it much slower, but finds the most accurate sentence structure.
             vad_filter=vad_filter,  # turn on VAD filter enables multiple language switch in the same audio.
+            condition_on_previous_text=True, # Helps the model use the context of the previous French sentence to correctly transcribe the next one.
+            initial_prompt="Bonjour, ceci est une transcription en français avec des passages en anglais.",
+            # ^ This single line forces the model to expect French vocabulary and punctuation.
+            no_speech_threshold=0.6,  # Prevents the model from hallucinating text during silent pauses
             vad_parameters=dict(
                 min_silence_duration_ms=500,  # 500ms silence means a new sentence split 即视为句子结束并切分
                 speech_pad_ms=100  # set 100ms cap before and after each speech to avoid word split
@@ -89,8 +93,8 @@ class Transcriptor:
         # print the transcription
         for segment in segments:
             # reformat timestamp
-            start_time = self.format_timestamp(segment.start)
-            end_time = self.format_timestamp(segment.end)
+            start_time = format_timestamp(segment.start)
+            end_time = format_timestamp(segment.end)
             output_text = f"[{start_time} -> {end_time}] {segment.text.strip()}"
             print(f"{output_text}")
             # Write to file (very memory efficient - writes line by line)
@@ -102,15 +106,19 @@ class Transcriptor:
             file_handle.close()
             print(f"\n Transcription saved to: {output_file}")
 
-    @staticmethod
-    def format_timestamp(seconds: float):
-        """
-        This function convert seconds into timestamp in HH:MM:SS.mmm format.
-        :param seconds:
-        :return:
-        """
-        hours = int(seconds // 3600)
-        minutes = int((seconds % 3600) // 60)
-        secs = int(seconds % 60)
-        millis = int((seconds - int(seconds)) * 1000)
-        return f"{hours:02d}:{minutes:02d}:{secs:02d}.{millis:03d}"
+
+
+def format_timestamp(seconds: float):
+    """
+    This function convert seconds into timestamp in HH:MM:SS.mmm format.
+    :param seconds:
+    :return:
+    """
+    hours = int(seconds // 3600)
+    minutes = int((seconds % 3600) // 60)
+    secs = int(seconds % 60)
+    millis = int((seconds - int(seconds)) * 1000)
+    return f"{hours:02d}:{minutes:02d}:{secs:02d}.{millis:03d}"
+
+
+
