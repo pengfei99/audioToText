@@ -49,23 +49,28 @@ The below metric shows a bench on running `whisper-Large-v2` model on GPU which 
 
 ### 2.3 vllm
 
-### 2.4
+### 2.4 whisper.cpp 
 
 
 ## 3. Automatic Speech Recognition model evaluation
 
 There are many ASR models, if you want a full list, you can visit the hugging face [repo](https://huggingface.co/models?pipeline_tag=automatic-speech-recognition)
 
-We have only tested:
-- voxtral-Mini-3B-2507:
-- 
 
 ### 3.1  Voxtral models 
 
 Voxtral is a serious next-generation ASR model families. It provides different type models for difference use case:
 
-- VoxtralMini-4B-Realtime-2602 : for streaming
-- Voxtral-Mini-3B-2507 : 
+| Model Variant           | Size | Best For          | CPU Suitability    | Notes                  |
+|-------------------------|------|-------------------|--------------------|------------------------|
+| Voxtral Realtime 4B     | ~4B  | Real-time + files | Excellent (pure C) | Recommended            |
+| Voxtral Mini (original) | ~3B  | General use       | Good               | Less optimized tooling |
+| Voxtral Small / 24B     | 24B  | High accuracy     | Poor               | Too big for most CPUs  |
+
+
+The model name which you can download from hugging face
+- VoxtralMini-4B-Realtime-2602 : A pure C implementation exsits [here](https://github.com/antirez/voxtral.c)
+- Voxtral-Mini-3B-2507 : The model is 17.4GB in safe tensor format.
 
 > our benchmark uses a quantified model(Q5_K_M) from https://huggingface.co/bartowski/mistralai_Voxtral-Mini-3B-2507-GGUF
 
