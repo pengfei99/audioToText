@@ -48,7 +48,7 @@ class WhisperTranscriptor:
     def transcribe_multilingual_audio(self, audio_path: str, language: str = "fr", beam_size: int = 5,
                                       vad_filter: bool = True, output_file: Optional[str] = None):
         audio_path = Path(audio_path)
-        if not audio_path.is_file() or audio_path.suffix != ".mp3":
+        if not audio_path.is_file() or audio_path.suffix not in [".mp3",".wav"]:
             err_msg = f"the provided audio path does not exist {audio_path.as_posix()}"
             print(err_msg)
             return

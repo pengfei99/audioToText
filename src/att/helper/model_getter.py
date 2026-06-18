@@ -1,5 +1,6 @@
 import logging
 from pathlib import Path
+from typing import Optional
 
 from huggingface_hub import snapshot_download, model_info
 from huggingface_hub.errors import RepositoryNotFoundError, HFValidationError, HfHubHTTPError
@@ -120,5 +121,5 @@ if __name__ == "__main__":
     log_dir = Path(__file__).parent.parent.parent / "logs"
     print(log_dir.as_posix())
     setup_logger(log_dir=log_dir)
-    model_name = "mistralai/Voxtral-Mini-3B-2507"
+    model_name = "bartowski/mistralai_Voxtral-Mini-3B-2507-GGUF/mistralai_Voxtral-Mini-3B-2507-Q5_K_S.gguf"
     download_model(model_name)
