@@ -87,9 +87,76 @@ we want to compare the Voxtral model with the faster-whisper
 | Accuracy (EN/FR)    | Superior. Consistently outperforms Whisper on the 13 languages it covers.        | Excellent. Still highly accurate, but slightly behind Voxtral on mainstream languages." |
 | Ease of Use (MP3)   | Harder. Requires decoding MP3 to raw PCM chunks and streaming them.              | Easier. Natively accepts .mp3 file paths directly.                                      |
 
+### 4 audio data cleaning
+
+### 4.1 ffmpeg introduction
+
+`ffmpeg` is a free, open-source, command-line tool used to record, convert, stream, and edit audio and video files. 
+In fact, it is the underlying engine that powers almost all media software in the world, including VLC Media Player, 
+YouTube, Spotify, Zoom, and professional video editors.
+
+> In my project, all the python lib that I used(e.g. faster-whisper, whisper-cpp, pydub) to process audio files(e.g. mp3, wav, etc)
+> it's actually ffmpeg that reads the raw file and send the `raw sound waves` to the python library.
+> 
+Key Characteristics of FFmpeg:
+- `Command-Line Only`: Unlike normal software, FFmpeg does not have a graphical user interface (GUI).
+- `incredibly fast`: It is written in C and highly optimized. It can convert a 2-hour movie file in seconds.
+- `supports almost every format`: It can handle virtually every audio and video format ever created (MP3, WAV, MP4, MKV, FLAC, AAC, etc.).
+
+Installation via package manager in windows
+
+```powershell
+# run this command in powershell, tested on win 10/11
+winget install ffmpeg
+
+# if you have choco
+choco install ffmpeg
+```
+
+Installation via package manager in debian
+
+```shell
+sudo apt update
+sudo apt install ffmpeg
+
+# check version after install
+ffmpeg -version
+```
+
+> You can also download the pre-built from [here](https://www.gyan.dev/ffmpeg/builds/?spm=a2ty_o01.29997173.0.0.572e55fb3irbCV)
+
+### 4.2 Improve the input audio file `quality`
+
+First, a very important clarification: `Converting audio to Mono 16kHz WAV actually decreases the audio quality for human listening`, 
+but it drastically `improves the accuracy, stability, and speed for the AI model`.
+
+The recommendation is to convert your audio files into `Mono 16kHz wav`. Because:
+
+- human speech almost entirely lives between 85 Hz and 8,000 Hz (8kHz). ASR training data all in 16kHz
+- audio files has two channel(i.e. left and right). ASR model only need one
+- uncompressed WAV file is just a list raw PCM(Pulse Code Modulation) with metadata(e.g. 1 channel, sample rate is 16KHz)
+
+> PCM(Pulse Code Modulation): is the digital representation of audio wave, which all ASR model reads as input
+
+We can use `ffmpeg` to convert any audio format to `Mono 16kHz wav`. The below example shows how to convert mp3.
+
+```shell
+ffmpeg -i your_messy_audio.mp3 -ar 16000 -ac 1 -c:a pcm_s16le perfect_ai_audio.wav
+```
+- `-i your_messy_audio.mp3`: specify The input file.
+- `-ar 16000`: sets the sample rate to exactly 16kHz.
+- `-ac 1`: Forces the audio into Mono (1 channel).
+- `-c:a pcm_s16le`: encodes the output as a standard 16-bit uncompressed WAV file.
+- `perfect_ai_audio.wav`: The output file name.
+
+Open a cmd, and run the below command, all mp3 file will be converted to wav and the output will be stored in `./wav_files`
+```cmd
+for %i in (*.mp3) do ffmpeg -i "%i" -ar 16000 -ac 1 -c:a pcm_s16le "wav_files\%~ni.wav"
+```
 
 
-## 4. The prototype
+
+## 5. The prototype
 
 We also developed a tool which can read a `.mp3` file and output the transcript in the console or/and a file.
 
@@ -115,29 +182,7 @@ if __name__ == "__main__":
         transcriptor.transcribe_multilingual_audio(f"{audio_dir}/{name}", output_file=f"{audio_dir}/{name}_transcript.txt")
 ```
 
-### 4.1 data cleaning
 
-Poor audio quality often hurts accuracy more than the model choice. The recommendation is to convert your audio files
-into `Mono 16kHz wav`. For example, we can use `ffmpeg`
-
-```shell
-ffmpeg -i input.mp3 \
-       -ac 1 \
-       -ar 16000 \
-       output.wav
-```
-
-```python
-import subprocess
-
-subprocess.run([
-    "ffmpeg",
-    "-i", "input.mp3",
-    "-ac", "1",
-    "-ar", "16000",
-    "output.wav"
-])
-```
 
 ### 4.2  Main workflow
 
