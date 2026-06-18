@@ -36,10 +36,10 @@ def convert_mp3_to_wav(
     ]
 
     if not audio_files:
-        logging.warning(f"No supported audio files found in '{src_path.resolve()}'.")
+        logger.warning(f"No supported audio files found in '{src_path.resolve()}'.")
         return
 
-    logging.info(f"Found {len(audio_files)} file(s) to convert.")
+    logger.info(f"Found {len(audio_files)} file(s) to convert.")
 
     for file_path in audio_files:
         wav_file = out_path / f"{file_path.stem}.wav"
@@ -53,15 +53,15 @@ def convert_mp3_to_wav(
             str(wav_file),
         ]
 
-        logging.info(f"Converting ({file_path.suffix.upper()}): {file_path.name} -> {wav_file.name}")
+        logger.info(f"Converting ({file_path.suffix.upper()}): {file_path.name} -> {wav_file.name}")
 
         try:
             subprocess.run(cmd, check=True, capture_output=True, text=True)
         except FileNotFoundError:
-            logging.critical("FFmpeg is not installed or not found in your system PATH.")
+            logger.critical("FFmpeg is not installed or not found in your system PATH.")
             sys.exit(1)
         except subprocess.CalledProcessError as e:
-            logging.error(f"Failed to convert {file_path.name}. Error: {e.stderr.strip()}")
+            logger.error(f"Failed to convert {file_path.name}. Error: {e.stderr.strip()}")
 
 
 if __name__ == "__main__":

@@ -12,7 +12,7 @@ def run_whisper_mp3_example():
 
     for name in names:
         transcriptor.transcribe_multilingual_audio(f"{audio_dir}/{name}",
-                                                   output_file=f"{audio_dir}/{name}_mp3_transcript.txt")
+                                                   output_file=f"{audio_dir}/{name}_transcript.txt")
 
 def run_whisper_wav_example():
     # create transcriptor
@@ -24,7 +24,7 @@ def run_whisper_wav_example():
 
     for name in names:
         transcriptor.transcribe_multilingual_audio(f"{audio_dir}/{name}",
-                                                   output_file=f"{audio_dir}/{name}_wav_transcript.txt")
+                                                   output_file=f"{audio_dir}/{name}_transcript.txt")
 
 
 def run_voxtral_example():

@@ -1,3 +1,4 @@
+import logging
 from typing import Optional
 
 from faster_whisper import WhisperModel
@@ -6,6 +7,7 @@ from pathlib import Path
 
 from src.att.conf.constants import MODEL_ROOT_DIR, MODEL_NAME
 
+logger = logging.getLogger(__name__)
 
 class WhisperTranscriptor:
     def __init__(self, model_path: str = None, device_type: str = "cpu", compute_type: str = "int8"):
@@ -15,7 +17,7 @@ class WhisperTranscriptor:
     def _is_model_path_valid(local_model_path: Path) -> bool:
         if not local_model_path.is_dir():
             err_msg = f"the provided model path does not exist {local_model_path.as_posix()}"
-            print(err_msg)
+            logger.error(err_msg)
             return False
         else:
             return True
@@ -37,7 +39,7 @@ class WhisperTranscriptor:
         # if the provided path is not valid, use the default one
         if not self._is_model_path_valid(local_model_path):
             local_model_path = MODEL_ROOT_DIR / f"{MODEL_NAME}"
-        print(local_model_path)
+        logger.info(f"loading model from {local_model_path}")
         model = WhisperModel(
             model_size_or_path=local_model_path.as_posix(),
             device=device_type,
@@ -50,11 +52,11 @@ class WhisperTranscriptor:
         audio_path = Path(audio_path)
         if not audio_path.is_file() or audio_path.suffix not in [".mp3",".wav"]:
             err_msg = f"the provided audio path does not exist {audio_path.as_posix()}"
-            print(err_msg)
+            logger.error(err_msg)
             return
 
-        print("Start transcription...")
-        print("Detecting language...")
+        logger.info("Start transcription...")
+        logger.info("Detecting language...")
         # the core transcribe logic
         segments, info = self.model.transcribe(
             audio_path.as_posix(),
@@ -74,8 +76,8 @@ class WhisperTranscriptor:
 
         # info.language indicates the main language in the audio
         lang_info = f"\nDetecting language: {info.language.upper()} (language_probability: {info.language_probability:.2%})\n"
-        print(lang_info)
-        print("-" * 50)
+        logger.info(lang_info)
+        logger.info("-" * 50)
 
         # Prepare output file (if provided)
         file_handle = None
@@ -87,7 +89,7 @@ class WhisperTranscriptor:
                 file_handle.write(f"Detected language: {info.language.upper()}\n")
                 file_handle.write("-" * 60 + "\n\n")
             except Exception as e:
-                print(f"Could not open output file: {e}")
+                logger.info(f"Could not open output file: {e}")
                 file_handle = None
 
         # print the transcription
@@ -96,7 +98,7 @@ class WhisperTranscriptor:
             start_time = format_timestamp(segment.start)
             end_time = format_timestamp(segment.end)
             output_text = f"[{start_time} -> {end_time}] {segment.text.strip()}"
-            print(f"{output_text}")
+            logger.info(f"{output_text}")
             # Write to file (very memory efficient - writes line by line)
             if file_handle:
                 file_handle.write(output_text + "\n")
@@ -104,7 +106,7 @@ class WhisperTranscriptor:
         # Close file properly
         if file_handle:
             file_handle.close()
-            print(f"\n Transcription saved to: {output_file}")
+            logger.info(f"\n Transcription saved to: {output_file}")
 
 
 
