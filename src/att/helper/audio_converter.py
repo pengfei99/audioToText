@@ -17,11 +17,11 @@ SUPPORTED_FORMATS = (".mp3", ".m4a", ".flac", ".aac", ".ogg", ".wma", ".opus")
 def convert_mp3_to_wav(
     source_dir: str | Path = ".", output_dir: str | Path = "wav_files"
 ) -> None:
-    """Converts all .mp3 files in source_dir to 16kHz, mono, 16-bit PCM .wav files.
-
-    Args:
-        source_dir: Directory to scan for MP3 files. Defaults to current directory.
-        output_dir: Directory where WAV files will be saved.
+    """
+    Converts all .mp3 files in source_dir to 16kHz, mono, 16-bit PCM .wav files.
+    :param source_dir: Directory to scan for MP3 files. Defaults to current directory.
+    :param output_dir: Directory where WAV files will be saved.
+    :return:
     """
     src_path = Path(source_dir)
     out_path = Path(output_dir)

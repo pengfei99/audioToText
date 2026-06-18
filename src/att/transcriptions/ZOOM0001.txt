@@ -1,0 +1,1952 @@
+Merci beaucoup. Tout d'abord, je suis très heureux de vous accueillir au Conseil scientifique.
+Comme l'a dit Lars, je veux aussi le redire à chaque fois, c'est des discussions très riches et très intéressantes
+et qui nous servent aussi pour le reste de l'année énormément comme guide.
+Il y a plein de choses qui ont été inspirées par le Conseil scientifique et qui ont été implémentées.
+Alors des fois, ça prend un peu... Suivant les cas, ça prend pas mal de temps.
+Un petit mot peut-être en introduction simplement pour dire que les comptes rendus du Conseil scientifique,
+que vous venez d'approuver, ils sont systématiquement transmis à l'Assemblée générale et élus,
+très en détail par la présidente du GIP, comme elle le dit, la directrice générale du GIP,
+parce qu'elle me fait toujours des remarques.
+Elle me... À chaque fois, quand on a des discussions, elle me dit,
+« Ah bah tiens, le Conseil scientifique, il va y parler, etc. »
+Donc voilà, c'est vraiment très important, c'est très utile, ces discussions qui sont toujours très riches.
+Donc là, le premier point, la l'heure du jour, on a un peu, comme l'a dit Lars, un peu déplacé,
+l'heure du jour a été un peu adaptée pour que la famille puisse faire le tour de table,
+même si la partie de présentation est en actualité pour les nouveaux membres.
+Il y en a deux.
+Donc là, aujourd'hui, je vais vous parler.
+Je vais simplement relancer le partage, parce que techniquement,
+j'espère pouvoir vous faire une démonstration.
+Donc, je suis sur un poste pour faire la démonstration.
+Je relance aussi de ce côté-là.
+Elle est lancée sur les deux machines.
+Normalement, ça va arriver.
+Dès que ça arrive, je partage.
+Alors, je ne crois pas que Louise, pardon, soit...
+Je vais vous dire, ah non, elle n'est pas connectée.
+On peut se voir ici, mais elle n'est pas connectée.
+Alors, juste un instant, ça va se lancer.
+Ou sinon, je fais...
+Mais je crois qu'elle avait quelque chose à plat.
+Oui, elle a...
+Alors, ce que je vais faire, c'est que comme ça m'est du temps à se lancer,
+je vais faire comme ça, puis re-switcher après.
+Pour la démon.
+Donc, je fais comme ça, et ça va revenir sur...
+Eh, merci beaucoup.
+Alors, voilà.
+Et maintenant, je vais partir.
+Je vais voir si c'était pas la peine.
+Je crois qu'à je parle, parce qu'au moment,
+le cerveau est là, va tout ce qu'il y a.
+Voilà.
+Voilà.
+C'est parti.
+C'est parti.
+C'est parti.
+J'espère qu'au fond vous arrivez à le dire.
+Bon, c'est l'heure du jour.
+Alors, je vais simplement passer directement sur la présentation d'un prototype d'infrastructure
+pour des données moins sensibles.
+Donc, ça, c'est un projet qui est en cours.
+L'objet...
+Alors, la demande.
+On a des...
+Là, on commence à dire une administration qui travaille déjà avec nous,
+c'est le ministère de la Santé et du Travail,
+qui nous a demandé d'étudier, dans le cadre du projet sur lequel on travaille,
+on travaille en collaboration avec eux,
+la possibilité d'avoir un complément des accès sécurisés pour des données sensibles,
+d'avoir un complément à un accès équivalent,
+et pour des données moins sensibles,
+et du coup, pas avec le boîtier d'authentification biométrique.
+Donc, ça, c'est la demande de la direction numérique de ce ministère qu'on a eue.
+Alors, là, en fait, pourquoi ?
+Parce qu'en fait, on travaille déjà avec eux,
+avec la solution boîtier sécurisé,
+ils font la production sur leurs données sensibles avec le boîtier sécurisé,
+et ils sont satisfaits,
+et ils veulent avoir une transposition pour devenir moins sensible,
+histoire d'avoir une continuité, au moins sur les usages,
+et sur les types d'organisations en groupe,
+et aussi.
+Donc, on a commencé à travailler sur un pilote,
+qui s'appelle, alors,
+Nom de Code, c'est AfraCalc.
+Je vais faire une description très rapide,
+j'ai raccourcé d'ailleurs la description,
+mais on va avec le principe,
+c'est aussi sur le tir en français,
+en anglais,
+qu'on a, vous traduirez pas les deux mois à non,
+c'est en français.
+L'idée, c'est de pouvoir avoir un accès simplifié,
+comme c'est assez expliquant,
+depuis, en remote desktop,
+depuis l'ordinateur de l'utilisateur,
+sans donc passer par le boîtier.
+Avoir quand même,
+au lieu d'avoir une double authentification,
+avec la biometrie,
+avoir quand même une double authentification,
+voire aussi avoir des mécanismes,
+tout de même,
+de régulation en termes d'entrée et de sortie,
+avoir une tracéabilité,
+avoir quelque chose qui puisse
+assurer un minimum de sécurité
+pour pouvoir être homologé.
+Pouvoir aussi paramétrer,
+éventuellement,
+la puissance de calcul,
+et avoir, évidemment,
+toute l'offre logicielle,
+qu'on peut avoir l'équivalent.
+Au fil des années,
+on a quand même pas mal capitalisé
+sur le type de logiciel,
+le type de paquet,
+à mettre en environnement fermé,
+à mettre à disposition,
+en environnement fermé,
+qui est une contrainte très forte,
+parce qu'aujourd'hui,
+la plupart des trucs qui s'est
+dans l'environnement ouvert.
+Et ça inclut
+des travaux
+qu'on est en train de faire
+sur l'intégration de LLM,
+d'agents,
+d'agents,
+pour un usage
+interne,
+pour ne pas envoyer les informations
+à l'extérieur,
+même si c'est des données
+moins sensibles.
+Voilà.
+Si je peux poser la question...
+C'est sûr que vous êtes libre
+de m'interrompre.
+C'est un grand problème.
+Pour moi, le CSV,
+c'est toujours le boîtier,
+comme bois d'accès,
+où on trouve l'accès
+et la bulle à laquelle
+tu te connectes
+qui a l'infrastructure là-dedans.
+Est-ce que je pourrais concevoir
+ceci comme étant...
+C'est la même bulle,
+les données sont différentes,
+c'est la même bulle,
+et le mode d'accès,
+est-ce qui est la principale différence ?
+Alors,
+ou est-ce que la bulle
+est la même différente ?
+Si tu parles d'un template
+ou si tu parles
+de la vraie bulle ?
+Apparemment,
+avec le boîtier,
+tu n'accepteres pas
+aux mêmes bulles,
+aux mêmes instances de bulle
+que sans boîtier.
+Oui.
+Ah, mais sur le principe,
+si c'est le template,
+oui, si c'est le...
+On peut prendre la copie,
+il y a d'autres données là-dedans,
+mais c'est la voie d'accès
+qui est différente.
+C'est la voie d'accès.
+La technologie de la bulle
+est la même.
+Oui, c'est exactement la même.
+D'accord.
+Parce que, effectivement,
+j'avais quasiment la même question,
+c'était sur l'isolation
+entre utilisateurs,
+parce qu'avec des GPU
+et des LLM,
+j'imagine,
+ce seront plutôt des services mutualisés,
+je pense,
+ou à moins qu'il y ait des GPU
+pour chaque utilisateur,
+en tout cas,
+ça pourrait coûter très cher.
+Pour moi,
+ce n'était pas limpide
+l'isolation entre utilisateurs,
+donc les bulles,
+tu vois.
+Alors,
+ça dépend si tu parles
+d'utilisateurs ou de bulles.
+Oui, enfin,
+projet,
+projet, pardon.
+Isolation entre projets.
+Non,
+ça serait sur les mêmes principes.
+Ça serait dédié.
+D'accord.
+Sur le projet,
+l'isolation serait assurée
+de la même façon.
+D'accord.
+Et ça serait dédié.
+Alors, un élément
+que je n'ai pas dit là,
+mais aussi ça,
+du fait de la caractéristique
+d'être sur des données
+moins sensibles,
+enfin,
+des données qui ont été confiées,
+on irait aussi vers du cloud.
+Ok.
+Alors,
+du point de vue
+d'utilisateur,
+donc,
+c'est quand même important
+parce que du coup,
+il ne faut travailler plus chez lui,
+c'est ça ?
+Alors,
+il ne faut travailler plus
+les...
+C'est pareil,
+il faut travailler plus
+dans le droit
+où il est autorisé.
+Oui, voilà,
+il faut aussi marquer le travail.
+Ben oui,
+mais avec...
+Oui,
+mais avec le boîtier,
+donc c'est comme...
+Oui,
+c'est comme avec un boîtier.
+Il faut qu'il ait un boîtier en plus.
+Oui.
+Et alors,
+les données sensibles,
+moins sensibles,
+ça veut dire quoi,
+on va sortir.
+Ah,
+là,
+c'est,
+en gros,
+dans le cadre
+de ce projet,
+il y a une gouvernance
+des données
+qui est mise en place
+par ces ministères sociaux
+où ils ont défini
+des niveaux de sensibilité
+en fonction des types de données,
+des contraintes associées
+et réglementaires
+de ce qu'on tient
+du HPD.
+Donc,
+il y a une classification
+en quatre niveaux.
+Les niveaux 1 et 2,
+c'est des données
+qui sont quand même
+des données individuelles
+mais quasi anonymisées.
+On va dire,
+pour simplifier,
+et niveau 3 et 4,
+c'est des données
+déjà plus détaillées
+qui sont soumises
+à des réglementations
+et elles passent par
+ces...
+Voilà,
+pour synthétiser.
+Voilà,
+vraiment,
+en très...
+Bref,
+ça serait des données
+quasi anonymisées,
+des données courantes.
+C'est,
+par exemple,
+les données préparées
+après production.
+Et ça,
+le rôle de définition,
+il est en amont
+et fait par le...
+C'est pas le ventre
+par le pilot.
+Non.
+Je vais...
+C'est une question
+qui...
+Quoi ?
+Si on lâche
+la contrainte de sécurité,
+donc là,
+la contrainte de confidentialité
+de données
+et de données
+de la santé sensible,
+pourquoi c'est vers le CRT
+qu'ils se sont tournés
+au...
+C'est ça ?
+Alors,
+ils se sont pas tournés
+les lames,
+enfin,
+pilotes,
+ils se sont pas tournés
+que vers ces...
+Ils évaluent plusieurs solutions
+et on nous a demandé
+d'en fournir une.
+Pourquoi ?
+Parce que
+on a quand même
+besoin de sécurité,
+il faut être homologuée.
+C'est pas...
+C'est pas le fait
+d'enlever le boîtier
+qui fait que c'est pas du tout sécurisé.
+C'est un reste,
+un niveau de sécurité
+élevé,
+mais pas aussi élevé,
+pas garanti
+comme ça peut être
+avec le boîtier.
+Deuxièmement,
+on capitalise beaucoup
+en outils
+à mettre à disposition,
+etc.
+Et ça,
+ils veulent réutiliser
+en organisation,
+en process sur les groupes
+de gestion des permissions,
+des droits,
+et aussi toute la partie
+système d'information
+où on va...
+Par exemple,
+maintenant,
+on a avec eux,
+on a une interface
+où eux,
+ils peuvent faire
+une demande d'ajout
+d'un utilisateur.
+Ça,
+Eric,
+pour moi,
+il fait toute la mise en œuvre
+en son équipe
+et lui,
+ils font toute la mise en œuvre.
+Donc,
+c'est tout ça
+qui est aussi
+pour
+pour le demandeur.
+Et donc,
+vous avez mentionné
+cloud ?
+Oui.
+Et aussi,
+on va nous en faire
+oui.
+Oui,
+oui,
+on peut...
+Alors,
+c'est les machines
+qui sont sur...
+On se referait
+des machines dédiées
+sur un cloud.
+Là,
+le pilote,
+on a deux pilotes.
+On a un sur OVH
+et un sur Scaleway.
+Sur OVH,
+c'est celui
+qu'on va vous montrer.
+Sur Scaleway,
+c'est en train d'être
+qui est-ce que
+c'est en train d'être.
+Les bulles sécurisées
+avec Wacky,
+elles ne sont pas
+dans le plan ?
+Non.
+Ça,
+c'est une chance
+et c'est important.
+Oui.
+Et ça,
+les distances
+qui ont des coupes.
+Alors,
+c'est très cher,
+je me disais.
+Oui,
+c'est cher.
+Oui,
+c'est cher.
+Les prix qu'on a vus
+sont assez...
+Après,
+ça dépend.
+Dès lors,
+on commence à demander
+un niveau de sécurité
+pour les stations
+de la panique sociale.
+Oui,
+en termes de coûts,
+on est encore
+en train de faire
+des études.
+Oui,
+il n'y aura pas
+des gains
+entre la solution
+CRLD
+et la solution
+Lite.
+Nous,
+on peut,
+ça va être un peu
+cultif,
+un peu assez proche.
+Ça ne va pas être...
+Et encore,
+on ne peut pas
+finir les études.
+Ça pourrait même
+être plus élevé
+suivant
+le prix
+du cœur.
+Et le niveau
+de sécurité
+demandé,
+pareil.
+Plusieurs niveaux
+de sécurité
+demandé
+au niveau
+du cloud.
+Les services
+complètement mutualisés,
+les services
+vers Metalpro,
+dès qu'on demande
+une certification
+CECO de Cloud,
+ça multiplie par
+le simple prix.
+Oui.
+On va sans ça.
+Oui,
+c'est quoi.
+Alors,
+aller au cloud
+si c'est plus cher.
+C'est pas...
+Ah, pour nous ?
+Ou pour nos clients ?
+Les clients
+sont fous,
+ils veulent juste
+aller calculer
+quelque part.
+Alors,
+pourquoi ?
+Pour nous ?
+C'est bien que j'ai écrit
+sur la table
+si tu veux dire
+quelque chose.
+Moi,
+je ne sais pas
+pas,
+mais je ne sais pas
+si tu veux compléter.
+Déjà,
+ça me permet
+de protéger
+très rapidement
+si on va
+faire une mobilisation
+d'achat de service.
+Là,
+ce stade,
+c'est de faire
+un peu d'offre.
+Je vais découper
+une achat
+à faire un peu
+de remerciement
+d'attente
+pour développer.
+Pour développer,
+je suis d'accord,
+mais si en déploiement
+ça coûte plus tard,
+là,
+ou si moi,
+ça va être
+très rapidement.
+C'est une nécessité
+qui est de plus en plus rapide.
+J'ai vu qu'on arrive
+à commander
+dans le plan
+qu'ils sont déjà
+disponibles
+dans le plan
+de l'étance financier
+pour deux jours
+d'utilisation.
+Ça,
+on n'aura jamais
+à réaliser
+en termes de l'étude.
+Là,
+ce qu'on part
+qu'un est,
+c'est qu'on modise
+tout le cas
+sur un an.
+On part avec
+l'achat de la Chine
+qui sera activée
+sur un an.
+Et si,
+pour un trajet,
+on demande un projet
+de trois semaines
+qui demande un GPU,
+il ne faut pas
+sur les trois semaines
+d'utilisation.
+Je pense que
+le CLD peut
+difficilement
+nous faire
+une façon
+de la solution.
+Là,
+il est mieux
+pour voir
+la proximité
+pour ses choses
+et par ailleurs
+pour une situation
+dont on considère
+à ce par rapport
+à ce point.
+Si on estime
+que les besoins
+vont être
+à l'arrivée
+pour ne pas
+le projet
+par projet
+sur la communauté
+et de ressources
+qui sont,
+par exemple,
+le CIDAC.
+En quoi,
+j'ai pu,
+comme les armes,
+les expats,
+c'est une autre chose.
+de la vie.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+Merci.
+financièrement, etc. Mais l'impact sur l'accessibilité d'autres données à la clientèle existante, académique ou autre, comment est-ce que ça va se régler ?
+D'accord, j'ai donné la genèse du passé aussi, on avait dû vous en parler, vous avez aussi lu cette idée-là,
+en tant que pressentis ce moment-là lors de ces premières versions des axes stratégiques en 2021, on a vu ces discussions,
+c'est-à-dire qu'elle était là, ça rejoint quand même le concept. J'ai donné la genèse, c'est que là on a une demande concrète,
+pertinente, et en plus une collaboration très fructueuse dans les deux sens avec les cas sociaux, on a répondu à ces demandes,
+tout le monde en époque, et on a aussi travaillé sur tous les postes, la prévention, les conséquences modèles, etc.
+Après, pour côté, on a aussi en parallèle une autre demande, c'est-à-dire Eric l'a évoquée, c'est qu'il y a aussi un sujet sur l'accès des API,
+des plateformes, des valeurs, c'est-à-dire un environnement juridique, réglementaire européen qui évolue,
+des SA, on va citer le service ISAC, et on discute avec la Commission européenne aussi sur la possibilité de trouver une plateforme,
+pour pouvoir accéder à des API, des plateformes, et ça, en fait, quand l'État nous a demandé il y a trois ans,
+on n'avait pas donné suite, il y a deux ans, je crois, on n'avait pas donné suite, parce qu'on n'avait pas de...
+dans ce moment, il n'avait pas cette volonté d'aller vers ce dispositif, quand la Commission européenne nous a demandé,
+on a reconsidéré la question, donc on a une conjonction entre ces deux projets, et là, on échange aussi avec la Commission,
+et là, ça peut affecter, c'est l'accès des chercheurs qui est visé, l'article 42,
+42 qui est visé, pour cet aspect-là, donc on s'y prépare,
+on a des demandes, on commence à avoir des premières demandes des chercheurs pour l'accès aux données des plateformes,
+et là, pourquoi, en fait, ça peut aussi avoir un impact sur les chercheurs.
+Après, nous, sur les données, pour l'instant, en tout cas, sur l'accès aux données fiscales,
+aux données judiciaires, aux données d'armes,
+on est toujours sur le... on héberge les données,
+voilà, l'administration fiscale, pour l'instant,
+on ne cherche pas du tout à les convaincre,
+les données sont, par exemple,
+on soit hébergées au sein de notre là,
+on peut donner un petit...
+une explication de pourquoi on va dans cette direction.
+Il y avait Constance, par exemple,
+qui a eu des demandes, un peu dans ce genre-là,
+c'est-à-dire, en fait, à la fois,
+pouvoir utiliser des anecdotes très cyclisées,
+et puis, à la fois, plus facile,
+et puis, on l'avait même mis dans le projet d'équipex,
+de la banque,
+c'est des choses qui étaient là,
+et elles ne peuvent pas dire préjugés,
+mais bien, il y a des autres qui vont devant.
+Parce que bien, sur ce projet-là,
+comme je le disais,
+on a une coopération étroite,
+je trouve que dans le sens,
+ça fait du travail,
+et, en fait, là, dans les retours,
+là, on aura pour la mise en place concrète,
+sur le financement,
+le participant au financement,
+c'est aussi une opportunité qui est très bien,
+pour le CRT,
+on ne s'en fait pas besoin.
+Merci, ça.
+Alors, je vais juste présenter les principes
+et vous faire une démo.
+Donc, le principe, c'est,
+alors, on s'est simplifié,
+mais on pourra, voilà,
+faire un dispositif de ce type-là,
+avec une condition de distance,
+un access,
+des nœuds,
+possibilité,
+ce que je disais,
+c'est éventuellement,
+s'il y a besoin de clusters,
+qu'on a fait,
+ou en disant,
+les plus de clusters,
+que ce soit start,
+ou derrière,
+on pourra les ajouter,
+ou un itia,
+ce qui est un travail,
+on pourra l'ajouter au sein
+d'une voie de carré,
+qui est la vue de carré,
+et après,
+mais la possibilité aussi,
+du fait,
+c'est insensible,
+d'avoir aussi un web pro-type,
+qu'il soit un bit,
+ça, ça va être vraiment
+les règles de gestion,
+les règles de management,
+de la sécurité,
+et du besoin du client,
+en fait,
+un utilisateur.
+Donc, si c'est des plateformes,
+par exemple,
+c'est le genre de dispositif
+auquel conforme un peu
+à leurs attentes,
+des échanges,
+des plus échanges,
+des plateformes.
+Alors, quand je disais plateformes,
+c'est Meta,
+TikTok,
+etc.
+C'est ceux qui ont plus de 40 millions
+d'utilisateurs en Europe.
+Il y en a une quarantaine.
+On n'a pas échangé avec les 40,
+mais il y en a une quarantaine en Europe.
+C'est un peu plus.
+Tu veux faire en Europe ?
+Alors,
+sinon,
+je peux vous faire,
+je ne sais pas si vous voulez,
+des mots,
+ou un petit peu de mon téléphone.
+double authentique.
+Excellent.
+Voilà.
+Je vais faire un petit partage ici.
+Je n'ai pas l'impression
+que Louise est connectée.
+Je ne sais pas si elle est connectée aux heures,
+je pense.
+Ah, c'est une zone,
+j'ai envie.
+Oui, c'est une zone.
+C'est une zone.
+C'est une zone.
+C'est une zone.
+Si elle a envoyé un mail,
+j'ai un devoir pour dire
+qu'elle était dispo.
+Oui, parce que je vais me rejoindre.
+Je n'ai pas encore ce lien.
+Je vais essayer de me faire.
+Oui.
+Je vais essayer de me faire.
+Oui.
+Je vais essayer de me faire.
+Oui.
+Je vais essayer de me faire.
+Oui.
+Je vais essayer de me faire.
+Oui.
+Je vais essayer de me faire.
+Oui.
+Je vais essayer de me faire.
+Oui.
+Je vais essayer de me faire.
+Oui.
+Je vais essayer de me faire.
+Je vais essayer de me faire.
+Je vais essayer de me faire.
+Je vais essayer de me faire.
+Oui.
+Je vais essayer de me faire.
+Oui.
+Il y a Louise Caron qui envoie un courriel.
+Oui.
+Oui.
+Oui.
+Oui.
+Je l'envoie d'un jour.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu entre les écrans.
+Pas entre les données.
+Je ne sais pas par ce type de micro.
+Voilà.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Je suis perdu.
+Ah.
+Bonjour.
+Bonjour.
+Bonjour.
+Excellent.
+Désolé du coup de ne pas avoir pu vous rejoindre finalement en présentiel aujourd'hui.
+Vous l'entendez ?
+Oui.
+Ah oui.
+D'accord.
+Ok.
+En tout cas, c'est bien que tu aies pu nous rejoindre en présentiel.
+Je partage l'écran.
+Est-ce que tu vois ?
+Tout à fait.
+D'accord.
+Juste une précision.
+Je ne sais pas si tu veux préciser l'Ars ou l'organisation.
+Le tour de table.
+On a décalé le tour de table pour cette après-dix pour que tu puisses, avec Stéphanie,
+avoir le tour de table et tout le monde du CLV.
+On a aussi commencé.
+Donc, on est…
+J'ai présenté le début d'infrastructure.
+Dérim qui est là, tu arrives au moment de la démo.
+Je ne sais pas si tu vois le partage.
+Tu vois un fond d'écran.
+Tu vois quelque chose de partager ou pas ?
+Là, je vois seulement le bureau.
+Je ne prends pas de PowerPoint.
+D'accord.
+Ok.
+Ouais, c'est normal.
+Alors, attends.
+D'accord.
+Ok.
+Avec un très beau fond d'écran.
+C'est la idée, mais…
+Ouais.
+C'est parfait.
+Alors, non.
+Voilà.
+Normalement, c'est bon.
+Ok.
+On te voit.
+Ok.
+Donc, là, en fait, tu veux me connecter.
+Il y a eu peur que tu te dis que tu ne peux pas.
+Mon téléphone, on fait un mot de passe.
+J'ai commencé à me connecter.
+Mon passe.
+Et là, je vais avoir un prompt.
+Alors, c'est une démo.
+Donc, tu vois, Lise, ton est évoqué.
+Tu vois, Lise, ton est évoqué.
+Ok.
+Ok.
+Ok.
+On te voit.
+Ok.
+Donc, là, en fait, tu veux me connecter.
+Ok.
+Donc, là, en fait, tu veux me connecter.
+Il y a eu peur que j'utilise mon téléphone.
+Mon téléphone.
+Donc, on fait un mot de passe.
+J'ai commencé à me connecter.
+Mon passe.
+Et là, je vais avoir un prompt.
+Alors, c'est une démo.
+Donc, euh…
+Tu vois, tu vois, Lise, on est toujours en partage.
+Tu as toujours en partage, hein ?
+Ouais, je vois tout le fait.
+Voilà, je suis connecté.
+Et là, donc, j'ai une double…
+J'ai un OTP.
+Donc, voilà, que j'ai sur mon téléphone.
+Je vais le taper.
+Je viens d'obtenir de mon téléphone.
+Je fais entrer.
+Je vais le faire.
+Donc, là, c'est un accès distant.
+Alors, la particularité, c'est qu'en fait,
+les liens sont coupés par rapport aux autres paroles.
+On ne peut pas faire de copier-colier, etc.
+Comme c'est prévu.
+Alors, suivant les demandes, enfin,
+les producteurs de données,
+on peut régler ces types de paramètres.
+Donc, là, j'arrive sur un demi-exam.
+En fait, on doit ralentir un ensemble des outils
+s'il y a besoin de remonter.
+Donc, là, je vais avoir un peu comme sur le CLV,
+je vais avoir l'ensemble des outils à disposition.
+Peut-être que je vais voir mieux d'ici.
+Donc, qui me permettent d'avoir…
+Je ne sais pas pourquoi j'ai toutes les questions enregistrées.
+Donc, là, je vais retrouver par exemple,
+quoi, tu les PS code ou…
+PS code ou Jupiter, ou Notebook.
+Non, je vais faire avec le partage, voilà.
+Ici, voilà, c'est par exemple,
+par exemple, le code de l'ODS.
+Je vais pouvoir lancer Jupiter, Notebook,
+suivant les types de logiciels que je veux utiliser.
+Alors, comme je disais, c'est l'effet des mots.
+Je vais parler sur le commentaire en vue.
+Je vais trouver des options.
+Je vais trouver des options.
+Après, on retrouve un…
+Donc, déjà, en principe, tu nous fais une démonstration
+d'une réduction de la sécurité,
+parce que tu es capable de partager l'écran avec quelqu'un d'autre.
+Ouais.
+On peut partager l'écran en direct.
+Ouais, effectivement.
+On peut partager en direct l'écran.
+Et on a…
+Voilà, enfin, les principes, c'est les mêmes.
+Donc, on peut lancer des calculs.
+C'est les mêmes.
+Donc, on peut voir les données,
+on peut lancer des calculs.
+Et on peut se déconnecter,
+on va revenir sur sa station,
+sous sa texte.
+Donc, on peut faire un copier clé.
+Là, on peut pas faire un copier clé.
+Là, on peut pas faire un copier clé.
+Là, c'est ok.
+On a la personnalité, on a partagé.
+Ben, on a l'écran.
+Un copier clé.
+L'écran ?
+Ah, il faut copier l'écran.
+Oui, faire une capture.
+Il faut faire une capture d'écran.
+Moi, non, oui.
+Alors, ça se bloque aussi.
+Parce qu'on tourne en écrivant,
+mais ça se bloque aussi.
+On peut empêcher la capture d'écran.
+Je sais pas si…
+Là, on est au stade de…
+Comme je le disais, c'est un peu de concept.
+Donc…
+Et là, la machine, le serveur, il est issu au BH.
+Donc, je vais arrêter.
+Alors, c'est peut-être le fait que…
+C'est un montage en dedans.
+Oui, c'est un montage.
+Oui, c'est un montage.
+Oui, c'est un montage.
+C'est un montage.
+Oui, c'est un montage.
+Oui, c'est un montage.
+C'est un montage.
+Oui, c'est un montage.
+Oui, c'est un montage.
+Oui, c'est un montage.
+Oui, c'est un montage.
+D'habitude, c'est un montage.
+C'est un montage.
+Oui, c'est un montage.
+Voilà, c'est un montage.
+Et nous, en fait, en interne, on s'est aidés, on utilise ce qui est notre structure.
+Pour travailler.
+Enfin, on travaille sur ce site, on travaille sur notre structure, pour notre bureautique,
+on parle pour notre structure.
+Donc, ça marche pendant.
+Très bien.
+Voilà.
+Donc, la démo.
+Et j'arrête.
+J'arrête là.
+Donc, voilà.
+On a déjà eu pas mal de questions.
+Je vais enlever ça.
+Pour repasser sur la présentation.
+Oui, merci beaucoup.
+Désolée, du coup, ça fait du travail en plus.
+Ah non, pas de dire.
+Oui, c'est bien.
+Oui, c'est bien.
+Oui, c'est bien.
+Oui, c'est bien.
+Oui, c'est bien.
+Oui, c'est bien.
+Oui, c'est bien.
+Oui, c'est bien.
+Oui, c'est bien.
+Oui, c'est bien.
+Oui, c'est bien.
+Oui, c'est bien.
+Alors, hop, hop, hop.
+Voilà.
+Bon.
+Là, c'est la bonne.
+Alors, Louise, je vais repartager la présentation.
+Oui, merci beaucoup.
+Désolée, du coup, ça fait du travail en plus.
+Ah non, pas de dire.
+Non, pas de dire.
+Ah non.
+Parfait.
+Je vois tout.
+Ok, super.
+Je vais repartager.
+Ah non, pas du tout.
+Ah non.
+Pas du tout.
+Ah non.
+Parfait.
+Je vois tout.
+Ok, super.
+Ah non, je laisse ça.
+Et je le disais.
+Ah non.
+Comme je le disais, là, on est au stade de pilote.
+Avec une architecture assez proche de la cible.
+Ah, il y a des petites subtils.
+Je ne vais pas rentrer dans les détails.
+On teste l' ergonomie, l'utilisation.
+Il y a aussi comment répartir la charge.
+Il y a des aspects qui sont en train de être testés.
+Et aussi, alors l'avantage, c'est que pour le traitement des centres des sorties,
+on va pouvoir réutiliser aussi, assurer la trace d'une petite sortie.
+Donc, on va pouvoir réutiliser aussi, assurer la trace d'une petite sortie.
+Donc, on va pouvoir réutiliser aussi, assurer la trace d'une petite sortie.
+Donc, on va pouvoir réutiliser aussi, assurer la trace d'une petite sortie.
+Donc, on va pouvoir réutiliser aussi, assurer la trace d'une petite sortie.
+Donc, on va pouvoir réutiliser les développements qu'on a fait au sein du CASD.
+Donc, on va pouvoir réutiliser aussi, assurer la trace d'une petite sortie.
+Donc, on va pouvoir réutiliser aussi, assurer la trace d'une petite sortie.
+Alors, il y a des petites subtils.
+Alors, il y a des petites subtils.
+Si je ne vais pas rentrer dans les détails, on teste l' ergonomie, l'utilisation.
+Il y a aussi, comment répartir la charge.
+Il y a aussi, comment répartir la charge.
+Il y a des aspects qui sont en train de être testés.
+Et aussi, alors l'avantage, c'est que pour le traitement des entrées sorties,
+de l'utilisation du CASD,
+avec des curseurs réglables.
+L'idée, c'est de pouvoir quand même transposer pas mal,
+réutiliser pas mal d'investissements qui ont été faits en cas de sécurité pour un usage
+un peu relâché quand même.
+Pas aussi strict que celui du CASD.
+Mais, donc, l'application directe qu'on voit, c'est effectivement,
+répondre à la demande de leurs bénéficiaires.
+Et aussi, répondre à la demande des plateformes.
+Alors, je pense qu'il y a un angle crucial à ce que la demande des plateformes,
+un peu politique entre guillemets.
+il y a quand même une demande forte de la commission d'avoir un tiers indépendant
+qui fournisse ce service.
+que ce soit pas des plateformes systématiquement qui fournissent le service.
+Et ça, pourquoi ? Parce que des fois, les chercheurs sont pas complètement à l'aise.
+On peut travailler sur les environnements des plateformes.
+on peut faire quand même une régulation avec un tiers.
+Voilà, on peut les prendre des trucs qui sont montés.
+Donc c'est pour ça que là, en fondissant ça, derrière, on peut pouvoir permettre des traitements sur des données, des réseaux sociaux.
+Alors, côté plateformes aussi, c'est aussi leur intérêt de passer par un tiers parce qu'elles sont très incriminées.
+On les suspecte de beaucoup de choses.
+Donc le fait de passer par un tiers, ça les décharge aussi de pas mal de choses.
+Voilà, donc je sais pas si vous avez...
+Juste une question sur cette histoire des plateformes.
+Est-ce qu'il y a eu des contacts récents de leur part aussi ?
+Est-ce que tu sais, si elles sont toujours partants,
+celles avec qui...
+Enfin, les contacts avec qui établis, au-delà de la demande de la commission de ma vie ?
+D'accord. Alors, là, Agnès, on a travaillé en tout sur trois projets avec Meta.
+Donc, on a un projet avec Meta pour l'accès à des données confidentielles de Meta.
+Donc ça, c'est en cours.
+C'est des projets avec des données détaillées, des plateformes sur les données de Instagram.
+C'est des données de recherche qui démarrent parce qu'il fallait qu'ils collectent aussi des données de leur côté, etc.
+Ça, c'est en cours. C'est un des projets.
+Et on a aussi un nouveau projet avec Meta aussi en cours
+qui est sur l'accès des API.
+Comme je le disais, il y a deux ans et demi, on leur avait dit que nous, on n'entend pas ce service.
+Donc, en fait, ils vont aussi développer techniquement.
+Et on collabore avec eux pour les accompagner et évaluer.
+C'est un gros projet avec eux.
+C'est un très gros contrat pour faire des évaluations de projets et des entrées sorties.
+Et là, on avait un élément juste à travers, je pensais souvent, on a l'air à l'élément avec Meta.
+Hier soir encore, on est vraiment une fois par semaine, une fois par semaine.
+On a été un projet assez intensif.
+Et il est convenu avec eux qu'on puisse bloquer notre API sur notre dispositif.
+Ça, c'est eux qui nous l'avaient en plus.
+C'est eux qui nous l'avaient demandé.
+Donc, ils nous avaient demandé à l'automne.
+Donc, c'est un sujet.
+Sur les autres, on a indirectement des échanges via la commission.
+Mais en fait, c'est en train de se mettre en place.
+C'est la commission qui donne le là.
+Et la commission, il nous demande juste d'éviter le décret du décret.
+Et ils sont en train de mettre en place cette proposition.
+Mais il n'y a pas eu encore beaucoup d'accès.
+En fait, il y a eu un premier pilote qui demande d'accès.
+Et là, on est en train de mettre sur l'implémentation.
+D'ici la fin d'année, on peut avoir un début d'implémentation.
+Il me semble qu'il y a un ou deux ans,
+on aurait pu répondre à la rencontre.
+On avait parlé, je pense que c'est Muriel qui avait soulevé le point,
+des données moins sensibles provenant des chercheurs
+qui n'ont pas d'endroit pour regarder.
+Est-ce qu'il y a...
+Ça, ce que tu l'as, ça va faire plaisir à Roxane.
+Je ne sais pas si c'est un petit peu le succès.
+Est-ce que cette plateforme-là, en principe,
+peut servir aussi à des chercheurs universitaires, etc.,
+qui mènent une enquête K-PAR,
+qui ne peuvent pas simplement mettre sur un dispositif K-PAR,
+mais ici, ça donnerait du but légère, justement,
+pour accéder aux données en tant que chercheur.
+C'est une excellente suggestion.
+C'est une bonne remarque.
+Parce qu'effectivement, Muriel en a parlé,
+on est plus loin avec Muriel.
+C'est qu'avec Muriel,
+en France, en France,
+on crée dans le DLSI, etc.,
+etc.,
+Muriel Roger,
+elle est un peu bien parmi les médias,
+c'est un peu bien.
+Elle...
+quand on a eu des échanges avec l'université,
+c'est parmi Saint-Dôme,
+c'est parmi Saint-Dôme,
+j'ai du mal avec les noms,
+on a assez à changer, mais...
+Effectivement, ils veulent sécuriser les données des chercheurs,
+et ils nous ont demandé, effectivement,
+de leur faire une proposition,
+en fait.
+On dirait plus cet après-midi,
+mais pour qu'en fait, effectivement,
+les données collectées par les chercheurs,
+ou récupérées par les chercheurs,
+les collectifs récupèrent directement des fichiers de données,
+qu'ils puissent les stocker dans un moment sécurisé,
+qu'ils ne soient pas vulnérables à des attaques comme il y en a,
+pour le savoir,
+fréquemment.
+Parce qu'ils ont quand même un système d'information dans les universités,
+ça c'est quasiment une université,
+qui est assez ouverte,
+parce qu'il y a des étudiants,
+parce qu'il y a des chercheurs qui passent, etc.,
+et qui est compliqué,
+et très complexe à sécuriser,
+donc ils veulent pouvoir isoler la partie des données,
+et essayer comme ça,
+pour pouvoir les collecter,
+et les mettre dans des bulls et croyants.
+Sauf que, quand on se raccoulait,
+on n'avait pas encore travaillé sur cette ordre,
+puisque c'était en septembre,
+on n'avait pas proposé.
+Effectivement.
+Si elle avait été là,
+je pense qu'elle aurait sorti aussi...
+Dans la description telle qu'elle,
+ça rassemble drôlement au système
+que par exemple,
+la ICPSR aux Etats-Unis met à disposition
+pour accélérer à des données
+dans ces archives à eux,
+qui demandent une sécurité minimale,
+ils mettent à disposition quelque chose.
+Et moi-même, j'en ai profité pour,
+dans le cadre de l'application,
+d'accéder à des données de "meta",
+mais dans les contextes d'archives sociales aux Etats-Unis.
+Donc, expansible.
+Exactement les mêmes paramètres qu'ici,
+à part que la technologie précise,
+les outils qui sont là.
+mais là, c'est des données amenées par d'autres,
+chercheurs ou autres,
+dans un contexte.
+C'est une université de Michigan,
+on les connaît bien, c'est SOMA.
+J'ai discuté avec Lévié,
+l'AMP, je crois,
+c'est tout à fait comparable.
+Et eux, effectivement,
+ils sont très grosses,
+c'est très gros,
+c'est bien sûr.
+Et puis, il y a ça.
+Effectivement, ce que tu as suggéré,
+ressemblerait à ça.
+Mais tu vois, dans les exemples que j'ai donnés,
+les deux que j'ai donnés,
+j'ai pas cité celui-là,
+mais ça pourrait être,
+ça pourrait être,
+ça pourrait répondre aux besoins.
+Et je pense que ça pourrait être intéressant
+de développer cette idée.
+Je ne crois pas,
+il y a quand même une convention ici.
+On va s'apporter en disant
+des séminaires à ces universités,
+en fait,
+il y a une pression maintenant très forte,
+à devoir mettre, en fait,
+une séculité
+et les universités n'ont pas la capacité.
+On peut le faire.
+Les séminaires,
+je suis posée par quelque chose,
+mais on ne va pas trop,
+pour l'instant.
+Et donc, en fait,
+il y a cette pression très forte
+qui est un peu innovant, effectivement.
+Il y a une question,
+il ne faut pas évoquer,
+qui est la question de l'administration
+de ce genre de...
+de ce genre de...
+Il y a une question de définition
+de ce genre de sociétés,
+qui est le web procédé,
+les amis qui n'ont pas accédé,
+les ressources, etc.
+mais ça,
+pour le modèle de l'université,
+c'est un service que vous voulez rendre aux universités,
+ou est-ce que c'est une autre logiciel
+qui serait confié au DSI de l'université,
+qui aurait accès aussi à l'administration du système
+pour leur utilisation...
+Parce que ce n'est pas du tout le modèle économique, hein.
+Si je veux faire l'administration du système,
+c'est pas des chercheurs,
+c'est pas un travail malade, hein.
+Parce que...
+Non, mais il y aura des demandes,
+si je prends une université de taille,
+de taille de la donne-à-dire,
+s'il y a une exigence que les données soient nécessaires à sécuriser,
+il y aura un chercheur des quotidiens, hein,
+qui vont demander des accès,
+des accepteurs d'étudiants,
+il y aura des réclames,
+des réclamations pour avoir un accès sur le pays,
+il faudra s'en tirer,
+il faudra s'en tirer,
+il faudra s'en tirer,
+tout ça, c'est un très bon boulot,
+qui ne faut pas de facturer,
+qui ne faut pas évaluer au-delà de la question de la source.
+Oui, ça, mais...
+Ça me paraît important.
+Je veux dire,
+la façon dont moi je l'observe,
+l'exemple du ICPSR,
+c'est pas le système universel,
+que l'utilise une AC.
+qui sont même à utiliser pour les données,
+on va dire,
+archivées dans une archive d'université,
+ou pour les autres,
+ou ceux du genre,
+qui ont déjà des méthodes d'accès définies,
+et uniquement pour ces données-là,
+pas généralisées.
+Donc, c'est pas 30 000 étudiants,
+c'est les 300 chercheurs
+qui veulent accéder à différentes données
+qui sont réglementées,
+mais le reste,
+ça c'est tout un autre enjeu,
+qu'il peut être l'université de l'EFA,
+mais ici, on parlerait plutôt de greffer
+qui fait de la puissance de calcul
+à un archive de données
+qui a déjà des règles définies d'accès,
+mais qui doit à chaque fois vérifier
+est-ce que le récipiendaire
+de ces données-là satisfait ces règles-là,
+voilà ces règles-là,
+parce que c'est le système qui le fournit.
+Donc, moi, mon expérience personnelle
+sur ces questions,
+c'est que, comme dans toutes les vidéos,
+si on a un DPO,
+dès qu'on parle avec le DPO,
+on ne l'a pas fait,
+on se dit :
+"ça va pas,
+que ce soit sécurisé,
+que ce soit ceci, ceci, cela."
+Ce à quoi on répond ?
+Si on n'a pas de solution,
+donc, et puis en plus,
+ces données-là sont pas si sensibles,
+donc arrêtez de me donner un autre.
+Mais s'il y a des solutions,
+les DPO, ils vont venir,
+et vous allez,
+ils peuvent les suivre.
+Une enquête,
+ça peut être un système sécurisé,
+c'est sûr.
+Il faut pas nous lâcher.
+Mais malheureusement ça, hein,
+c'est...
+Là, si on a eu cette demande,
+enfin, peut-être pas celle-là,
+mais moi, j'ai eu une autre demande,
+c'est, en fait, concrètement,
+ça a été par un université,
+parce que c'était par un sacré,
+il y a eu un échange.
+Alors, quand ils se font...
+en Pia-Ren,
+il y a un autre,
+je cherchais un autre mot,
+enfin, je sais pas si vous vous souvenez,
+par un sacré,
+ça a été...
+ça a été massive,
+enfin, je dis,
+ils ont chiffré, récupéré,
+qu'ils ont donné,
+l'université a été bloqué.
+Et là, j'ai l'impression encore aujourd'hui
+qu'en fait,
+il y a eu un gros déficit de budget,
+et sûrement parce que ça a coûté une blinde,
+des trucs de remédiation,
+extrêmement cher,
+en termes d'image,
+aussi financiers.
+Là, en fait,
+ce qui se passe quand t'as une histoire comme ça,
+c'est que,
+systématiquement,
+t'as le haut fonctionnaire à la Défense
+qui t'a dit :
+"Bah,
+je t'envoie un message à tous les chercheurs
+pour aller près de telles données
+que vous aviez,
+en fait,
+pour essayer d'évaluer les dégâts, quoi."
+Mais, voilà,
+c'est quand même un...
+c'est un enjeu, quand même,
+qui t'a négligeable
+qu'elles soient vraiment sécurisées.
+Donc, comprendre, c'est un métier,
+parce qu'ils voient qu'elles sont plus en plus à date, quoi.
+Mais l'idée, c'est là,
+c'est pas juste que les dégâts
+ne sont pas précisément en tête.
+C'est vraiment que pour les données
+qui font quand même un niveau de sensibilité
+avec les données déjà,
+si elles sont analysées,
+c'est pas forcément pertinent,
+sinon,
+on va prendre le centralisé des données.
+mais sur le deuxième point,
+on acquiert aussi pas mal d'expérience.
+Alors, sur le CLD,
+on a quand même, maintenant,
+des mesures de gestion,
+qui sont quand même efficaces,
+sur l'aspect structure,
+c'est un cauchemar.
+Souvent, les personnes, d'ailleurs,
+qui pensent pouvoir implémenter une solution
+comme ça, comme le CLD,
+néglige complètement cet aspect-là,
+mais l'aspect suivi.
+Je peux vous dire,
+c'est...
+Donc, ça veut dire,
+Eric qui fait l'implémentation
+et côté...
+enfin, côté...
+de tanguilles,
+Yacine,
+qui ont suivi des applications,
+c'est des personnes qui sont dans le projet,
+donc, au bout de temps,
+il faut les enlever,
+ceux qui sont changés,
+ceux qui reviennent.
+C'est...
+Effectivement, tu as raison.
+Alors, on a développé aussi,
+dans le cadre de projets,
+juste pour compléter,
+et terminer,
+c'est que,
+Eric et Eric ont développé un portail,
+maintenant,
+où,
+ça va,
+plus il y a fonctionnalité,
+mais globalement,
+on va être à l'utilisateur,
+tu vois, l'organisme des utilisateurs,
+se connecter au portail
+et il dit,
+bah,
+je rajoute,
+c'est cet utilisateur sur ce projet-là,
+et après,
+c'est appliqué,
+c'est appliqué sur les droits techniques.
+Donc, on a...
+on commence à avoir une interface informatique,
+c'est plus fait par des...
+de papier ou des petits foussures, etc.
+ça commence...
+voilà,
+on commence à...
+pas mal développer d'outils
+pour cette gestion,
+euh,
+fonctionnelle.
+et après,
+c'est appliqué technique,
+c'est...
+si ça répond à ta question.
+Parce que là,
+je sais plus, Eric,
+si tu peux dire un mot,
+l'interface qu'on a sur un site.
+sur un site,
+il y a des deux ministres sociaux,
+c'était un mot,
+euh,
+très rapidement,
+on a dit qu'on ne va pas pouvoir
+gérer leur demande,
+c'est une bonne chose,
+c'est présente,
+pour les grandes unités.
+parce que,
+oui,
+il y a quand même beaucoup de mouvements
+sur le CEPD,
+qu'on a mis en France,
+c'est la...
+des entreprises,
+des administrations,
+donc des référents,
+des démonstrations,
+pour la main,
+pour faire des projets,
+pour faire des projets,
+pour faire des solutions,
+pour faire des solutions,
+pour faire des solutions,
+pour faire des solutions,
+pour avoir le point,
+pour faire des solutions,
+pour pouvoir participer
+à partir sur les 50 projets,
+et pour faire des solutions,
+à la fin,
+c'est sûr,
+c'est un portail,
+il y a eu centaines,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+c'est pas mal de ressources,
+- Si je prends l'exemple du RSI PESA,
+je pourrais prendre l'exemple de Cornet,
+qui est un serveur interne pour les projets sécurisés,
+n'importe quoi qui passe par le comité d'été,
+doit forcément aller se sert sur ces serveurs-là,
+ils ont pas été mis à jour depuis 5, 8 ans,
+je sais pas, ils vous roulent comme une tortue,
+donc avoir l'interface externe qui peut-être est plus apte à être renouvelée,
+etc., ça peut être un avantage, même chez nous,
+mais YSPSR, c'est pas un service gratuit qu'ils font,
+donc il y a un frais mensuel,
+tant que vous accédez aux données, vous payez.
+Ce qu'il y a aussi, comme on fait,
+bon, c'est pas n'importe quel étudiant qu'il va appliquer,
+et le chercheur principal,
+on voit 200$ d'éviter sur son compte de recherche à chaque mois,
+il va à un moment donné dire,
+ok on a fini le projet, on arrête de le visiter.
+Mais la récupération des coûts,
+c'est une façon de externaliser les coûts pour les masques aussi,
+tant qu'il y a une telle heure.
+Et j'ai soulevé le point parce qu'on avait parlé,
+et puis à l'époque il n'y avait pas vraiment de solution,
+mais grosso modo comme,
+c'est une solution de calcul,
+refait un archive des données,
+qui avant avait juste, je m'en ai les données,
+puis après ça c'est, c'est où ça va, c'est sécurisé,
+c'est quelque chose, on résout ce problème-là,
+on s'est gréfin, je suis par ça.
+- C'est vrai, moi je pense que c'est pertinent,
+c'est sûr que mutualiser cet aspect de sécurité,
+on voit qu'à l'échelle de l'université,
+c'est très particulier pour aider au moyen,
+pour avoir une infrastructure,
+c'est comme tu te souviens,
+alors tu l'as soumis avec la gestion,
+bien évidemment,
+on doit avoir une gestion en social,
+mais après derrière,
+il y a aussi,
+on peut mettre à jour,
+les technologies elles évoluent,
+les outils elles évoluent, etc.
+C'est dans la même ressource,
+c'est un casse-tête pour l'échelle de l'université,
+certainement des cours considérables,
+il faut dire que c'est à l'échelle,
+en réalité,
+si vous comptez le nombre de projets par organismes,
+peut-être la somme de ce que c'est,
+c'est une interne,
+si l'internel disait,
+ça ne serait-ce qu'à avoir deux trois postes,
+déjà, ça veut dire,
+pas un organisme en France qui paye des clients,
+deux trois postes,
+même le plus gros utilisateur,
+je ne sais pas,
+même quand on somme,
+somme des coûts sur une année du CHD,
+ça ne couvre pas deux ou trois UTP,
+parce que les UTP chargés l'employeur,
+ça en fait l'ensemble,
+le rôle lui-même,
+sinon,
+si,
+bon,
+ça c'est,
+oui,
+je pense que,
+on a des surtout deux cas,
+et ce cas,
+oui,
+ça peut être,
+on pourrait voir si ça peut l'intéresser,
+dans les universités,
+aussi,
+quand ça pourrait l'intéresser,
+c'est des questions,
+c'est des questions,
+c'est des questions,
+mais c'est bref,
+la question,
+c'est qu'à ce qu'on a,
+c'est plus en dernier,
+il met une organisation,
+mais ça peut progresser,
+il y a entre les centres de recherche,
+après il y a,
+il y a,
+l'université,
+mais,
+ce qui est sûr,
+c'est qu'il y a un problème du côté de l'université,
+il y a un problème du côté de l'université,
+il y a un problème du côté de l'université,
+il y a un problème du côté de l'université,
+il y a un problème du côté de l'université,
+il y a un problème du côté de l'université,
+il y a un problème du côté de l'université,
+il y a un problème du côté de l'université,
+il y a un problème du côté de l'université,
+il y a un problème du côté de l'université,
+il y a un problème du côté de l'université,
+c'est un problème du côté de l'université.
+Ah non,
+on fonctionne toujours en projet.
+C'est un problème du côté de l'université.
+C'est un problème du côté de l'université.
+C'est un problème du côté de l'université.
+Ah non,
+le référent,
+je veux dire,
+le référent fonctionnel,
+c'est-à-dire,
+celui qui va dire,
+celui qui va dire,
+lui,
+il ouvre un projet,
+et à ce moment-là,
+celui qui ouvre un projet,
+c'est c'est le problème du côté.
+Ah,
+dans les universités,
+c'est le débo qui décide d'ouvrir un projet
+au sein d'un cerveau.
+Dans une université,
+quand tu travailles sur des données,
+quelles qu'elles soient,
+tu dois soumettre ton projet au débo.
+Ça, c'est tout organiser.
+Mais c'est le faire pour le faire.
+Ok,
+c'est le cas pour nous.
+Tu dois soumettre ton projet au débo,
+c'est lui qui évalue
+la position unique que toi,
+tu lui proposes.
+Alors,
+après,
+c'est là où tu rentres dans le souhaité,
+on peut se dire,
+il faut faire comme ça,
+et tu dis,
+il faut faire comme ça.
+Donc,
+ça va faire ça.
+Et généralement,
+ce que tu fais,
+c'est le débo.
+Parce que tu sais qu'il va se dire
+il faut faire ça,
+et que tu ne peux pas le faire.
+Donc,
+tu dis que tu n'es pas allé lui demander.
+Et le débo dit non.
+c'est pas grave,
+puis le jour,
+il y aura un gage,
+je ne serai pas responsable.
+C'est aussi parce qu'il n'y a pas de solution.
+S'il y a des solutions,
+je pense que le débo après,
+c'est tout simple.
+D'accord.
+ça sera eu le référence.
+Il s'est dit qu'il est en charge de cette organisation-là.
+D'accord.
+Enchanté aujourd'hui,
+on dit qu'ils n'ont pas les instruments.
+C'est le débo,
+c'est le débo.
+Il y a un jour où le CESRS était supposé faire quelque chose.
+Mais moi, j'ai encore un premier arbre.
+Je ne sais pas.
+Parce qu'il y a des débo,
+ils ont ce problème là partout.
+D'accord.
+D'accord.
+D'accord.
+D'accord.
+D'accord.
+D'accord.
+D'accord.
+D'accord.
+D'accord.
+D'accord.
+D'accord.
+D'accord.
+D'accord.
+D'accord.
+D'accord.
+Il y a un cas où il y a deux débo et des comités d'éthique
+et qui ne disent pas la même chose.
+Oui.
+Ça peut être un cas où il y a deux.
+Je ne sais pas.
+Mais c'est vrai que ça peut être complexe.
+Non.
+Par contre, il y a des...
+Il faut peut-être essayer de vous...
+Comment dire ?
+Vendre une solution pour entrer en contact avec les institutions,
+essayer de trouver le bon contact.
+Je sais qu'au CNRS, à l'INSH, ils ont créé un comité d'éthique.
+Déjà, ça peut être peut-être une fois d'un fait pour le sujet avec eux.
+Il y a un problème pour permettre...
+Alors, c'est les labos qui sont...
+qui sont...
+qui sont...
+qui sont...
+qui sont...
+mais...
+Après, je ne sais pas du tout s'ils auront la puissance des calculs,
+des conseils...
+Ces questions-là, en fait.
+Absolument.
+Et là, ça va changer d'un labo à l'autre.
+Et puis, c'est...
+Ça, c'est pas...
+C'est...
+Alors, nous, on n'a pas instruit.
+Vraiment, on n'a pas instruit.
+Et...
+Et...
+Et...
+Et...
+Et...
+Il y a déjà échangé...
+C'est...
+C'est...
+C'est...
+Déjà, avec...
+Parfois, l'université...
+L'université...
+Je pense que...
+Comme elle nous a fixé, elle quand elle parlait de 68,
+l'année dernière, il y a un an.
+Et donc, effectivement, on va changer avec elle.
+Ce qui serait bien, c'est aussi que nous...
+C'est pas un sujet...
+C'est pas un sujet...
+C'est pas un sujet...
+On a fait un sujet là...
+C'est...
+Euh...
+C'est...
+Il faut qu'on a instruit sur comment...
+Ça pourrait être vraiment un peu plus d'un premier université.
+Après, nous, ce qui marche bien, côté CSD, on peut quand même s'afficher beaucoup sur ça,
+c'est après, c'est du travail.
+C'est vraiment ça.
+Donc, si on a un truc qui marche bien avec l'université, après, bah, en plus les chercheurs...
+Ils sont pas sur une université, ils sont sur un...
+Donc, en tout cas, je note le point.
+C'est vrai que c'est un vrai sujet.
+Moi, ça m'a toujours intrigué et recèdent vraiment très fréquemment.
+Euh...
+Des données de la recherche.
+Il faudra aussi voir, parce que c'était bien CHS, les projets de l'université,
+voir aussi comment on se perd en avec eux.
+Ah, c'est pas du tout...
+C'est pas du tout...
+C'est important que ça reste un besoin.
+Il y a un besoin qui est si...
+Donc, il y a une autre mentalité.
+Mais c'est vrai qu'une fois qu'il y avait l'EFTA,
+et que vous ne saurez quelque part,
+va y avoir des grands discussions,
+ou pas ou des...
+Donc, c'est quand même intéressant.
+Orostate, il exige aussi.
+Il exige, pour les données d'orostate,
+c'est des solutions fortes,
+c'est qu'il faut l'écrire.
+Et l'organisme, son...
+Son...
+Son...
+Comment dire ?
+L'organisme, si on est...
+Oui.
+Alors, on voit aussi les procès...
+Comme souvent...
+Comme souvent, on peut pas répondre aux excuses,
+on peut être qu'on répond.
+Et les procès, elles ne font pas qu'on répond.
+Est-ce qu'il s'appelait ?
+Est-ce qu'il s'appelait ?
+On peut pas répondre aux excuses.
+Et puis,
+quand ils nous envoient le mail,
+en disant des choses éposées...
+Alors,
+je pense qu'Alexandre va jouer avec ses bras...
+Non, non, mais...
+Alors, il y a des choses qu'on peut mettre hors-contre-en-lui.
+On enlève les points...
+Il y a des points qu'on mettra de...
+Non, alors, justement, on peut pas trop le demander,
+mais...
+C'est un cas imaginaire de personnes que je ne connais pas.
+Voilà, on sait pas.
+Mais...
+C'est quelqu'un que tu connais,
+qui t'a dit que...
+Voilà.
+Pour ramener le point,
+on n'est pas le comité de gestion pour revenir à ce qu'il dit tantôt.
+Mais s'il y a des synergies entre développer ce sujet-là avec des ministères
+qui permettent de développer des nouvelles processus
+qui, eux, peuvent profiter à la recherche.
+Je pense que ça, c'est dans l'intérêt du comité scientifique de dire,
+OK, oui, mais on peut voir où ceci,
+qui est une offre de service pour un ministère qui est con,
+mais peut être utile pour avancer la recherche,
+en fait,
+dans l'université,
+si cette offre-là puisse exister.
+Donc, si on veut la subvention par un ministère
+de développer vos processus,
+si ça peut se traduire dans une offre universitaire
+qui facilite la recherche dans certains contextes.
+que je pense que, à ce moment-là, c'est quelque chose qu'on dit qu'est-ce que c'est.
+que c'est une offre-là, c'est une offre-là.
+C'est une offre-là.
+C'est une offre-là.
+C'est une offre-là.
+C'est une offre-là.
+C'est une offre-là.
+C'est une offre-là.
+C'est une offre-là.
+C'est une offre-là.
+d'après, effectivement,
+où elle aime bien avoir des conclusions.
+Donc, j'aime bien ne pas inventer les conclusions quand je fais ça.
+Je me suis rendue.
+Donc, on a remarqué que ça a décidé que ce que je veux dire, c'est la conduite.
+C'est pour dire, elle a besoin d'une pause.
+Il faut dire, elle a le nez sous les chouquettes, sur les chouquettes sous le nez.
+Non, mais c'est pas pour moi.
+On peut faire une distinction entre un avis formal,
+qui est effectivement une conclusion quand même à la discussion
+et qui permet aussi, effectivement, d'aventurer pour la famille générale, pour le CEL.
+Voilà.
+Donc, on peut compter cette conclusion.
+D'accord.
+Donc, là, l'objet de cette...
+C'était déjà de vous présenter ce projet qui est quand même un projet
+qui peut être structurant pour la suite.
+Et effectivement, repris en premier, on est autour.
+C'est-à-dire que là, on a une question de la science-tru.
+Voilà.
+Et puis, dessus dessus,
+on a expliqué comment ça évolue.
+Et je pense que l'on a aussi des choses en plus de tout à l'heure.
+Avec la réelle, c'est mon système.
+C'est un peu plus de tout à l'heure.
+C'est un peu plus de tout à l'heure.
+C'est un peu plus de tout à l'heure.
+C'est un peu plus de tout à l'heure.
+C'est un peu plus de tout à l'heure.
+C'est un peu plus de tout à l'heure.
+C'est un peu plus de tout à l'heure.
+C'est un peu plus de tout à l'heure.
+C'est un peu plus de tout à l'heure.
+C'est un peu plus de tout à l'heure.
+Alors, c'est pas ça.
+Non, mais c'est sinon.
+C'est une question.
+Après, pour ce qu'il y a, après, nous.
+J'avais une question.
+Parce qu'il y avait une mention du modèle de langage dans le transfert précédent.
+Est-ce que tu vas nous en parler davantage ?
+Ou c'est maintenant qu'il faut ?
+On en parle, justement, cet après-midi, prévient.
+Alors, il n'y a pas de fonds.
+D'accord.
+On en parle tout à l'heure.
+Tout à l'heure.
+D'accord.
+Louise.
+Oui.
+Pardon, je vais peut-être enlever le écran.
+Alors, c'est ce que j'ai dit.
+Je ne sais pas si tu voulais intervenir.
+Alors, pour intervenir, le lever de main, on ne le verra pas systématiquement.
+Donc, si tu souhaites intervenir sans toi libre, t'interrompre.
+Tout à fait.
+Je me sens libre d'interrompre.
+Mais je n'avais pas particulièrement de fond à raconter.
+D'accord.
+Écoute, en tout cas, là, comme tu vois, c'est mignon.
+Ici, on va faire une...
+Alors, on ne peut pas t'offrir le café à distance ?
+Oui, j'ai entendu qu'il y avait des chuggets.
+Oui, voilà.
+Ça, c'est...
+Tu vois, donc, c'est comme ça.
+On ne voit même plus Roxane, elle est derrière une pile de chuggets.
+Ah, mais attendu.
+Ok.
+Bon, on va alors dans...
+Dans 15 minutes, ouais.
+On reprend dans 15 minutes.
+On va laisser la connexion tourner, le timbre tourner.
+On va couper le son.
+Et on reprend dans 15 minutes.
+Ça veut dire à 38 minutes.
+Ok.
+Très bien.
+Merci.
+Bon café.

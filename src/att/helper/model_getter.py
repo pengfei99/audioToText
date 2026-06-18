@@ -66,15 +66,11 @@ def download_model(
 ) -> Optional[Path]:
     """
     Download a model from Hugging Face using snapshot_download.
-
-    Args:
-        model_id: Hugging Face model repository ID
-        local_path: Custom directory to save the model (default: MODEL_ROOT_DIR/model_name)
-        hf_token: Hugging Face token (falls back to HF_TOKEN env var)
-        force_download: Force re-download even if files exist
-
-    Returns:
-        Path to the downloaded model directory or None if failed
+    :param model_id: Hugging Face model repository ID
+    :param local_path:  Custom directory to save the model (default: MODEL_ROOT_DIR/model_name)
+    :param hf_token: Hugging Face token (falls back to HF_TOKEN env var)
+    :param force_download: Force re-download even if files exist
+    :return:
     """
     model_name = get_model_name(model_id)
     if not model_name:
@@ -118,7 +114,7 @@ def download_model(
 
 
 if __name__ == "__main__":
-    log_dir = Path(__file__).parent.parent.parent / "logs"
+    log_dir = Path(__file__).parent.parent.parent.parent / "logs"
     print(log_dir.as_posix())
     setup_logger(log_dir=log_dir)
     model_name = "bartowski/mistralai_Voxtral-Mini-3B-2507-GGUF/mistralai_Voxtral-Mini-3B-2507-Q5_K_S.gguf"

@@ -1,0 +1,7808 @@
+1
+00:00:00,000 --> 00:00:00,520
+Merci beaucoup. Tout d'abord, je suis très heureux de vous accueillir au Conseil scientifique.
+
+2
+00:00:00,520 --> 00:00:01,100
+Comme l'a dit Lars, je veux aussi le redire à chaque fois, c'est des discussions très riches et très intéressantes
+
+3
+00:00:01,100 --> 00:00:01,670
+et qui nous servent aussi pour le reste de l'année énormément comme guide.
+
+4
+00:00:01,670 --> 00:00:02,218
+Il y a plein de choses qui ont été inspirées par le Conseil scientifique et qui ont été implémentées.
+
+5
+00:00:02,218 --> 00:00:02,576
+Alors des fois, ça prend un peu... Suivant les cas, ça prend pas mal de temps.
+
+6
+00:00:02,576 --> 00:00:03,056
+Un petit mot peut-être en introduction simplement pour dire que les comptes rendus du Conseil scientifique,
+
+7
+00:00:03,056 --> 00:00:03,506
+que vous venez d'approuver, ils sont systématiquement transmis à l'Assemblée générale et élus,
+
+8
+00:00:03,506 --> 00:00:04,048
+très en détail par la présidente du GIP, comme elle le dit, la directrice générale du GIP,
+
+9
+00:00:04,048 --> 00:00:04,212
+parce qu'elle me fait toujours des remarques.
+
+10
+00:00:04,212 --> 00:00:04,588
+Elle me... À chaque fois, quand on a des discussions, elle me dit,
+
+11
+00:00:04,588 --> 00:00:04,928
+« Ah bah tiens, le Conseil scientifique, il va y parler, etc. »
+
+12
+00:00:04,928 --> 00:00:05,506
+Donc voilà, c'est vraiment très important, c'est très utile, ces discussions qui sont toujours très riches.
+
+13
+00:00:05,576 --> 00:00:06,144
+Donc là, le premier point, la l'heure du jour, on a un peu, comme l'a dit Lars, un peu déplacé,
+
+14
+00:00:06,144 --> 00:00:06,678
+l'heure du jour a été un peu adaptée pour que la famille puisse faire le tour de table,
+
+15
+00:00:06,678 --> 00:00:06,946
+même si la partie de présentation est en actualité pour les nouveaux membres.
+
+16
+00:00:06,946 --> 00:00:07,122
+Il y en a deux.
+
+17
+00:00:07,122 --> 00:00:07,298
+Donc là, aujourd'hui, je vais vous parler.
+
+18
+00:00:07,298 --> 00:00:07,732
+Je vais simplement relancer le partage, parce que techniquement,
+
+19
+00:00:07,732 --> 00:00:08,060
+j'espère pouvoir vous faire une démonstration.
+
+20
+00:00:08,060 --> 00:00:08,550
+Donc, je suis sur un poste pour faire la démonstration.
+
+21
+00:00:08,550 --> 00:00:08,794
+Je relance aussi de ce côté-là.
+
+22
+00:00:08,794 --> 00:00:09,018
+Elle est lancée sur les deux machines.
+
+23
+00:00:09,018 --> 00:00:09,382
+Normalement, ça va arriver.
+
+24
+00:00:09,382 --> 00:00:09,692
+Dès que ça arrive, je partage.
+
+25
+00:00:09,692 --> 00:00:10,060
+Alors, je ne crois pas que Louise, pardon, soit...
+
+26
+00:00:10,060 --> 00:00:10,474
+Je vais vous dire, ah non, elle n'est pas connectée.
+
+27
+00:00:10,474 --> 00:00:10,732
+On peut se voir ici, mais elle n'est pas connectée.
+
+28
+00:00:10,760 --> 00:00:11,018
+Alors, juste un instant, ça va se lancer.
+
+29
+00:00:11,018 --> 00:00:11,260
+Ou sinon, je fais...
+
+30
+00:00:11,260 --> 00:00:11,496
+Mais je crois qu'elle avait quelque chose à plat.
+
+31
+00:00:11,496 --> 00:00:11,608
+Oui, elle a...
+
+32
+00:00:11,608 --> 00:00:11,982
+Alors, ce que je vais faire, c'est que comme ça m'est du temps à se lancer,
+
+33
+00:00:11,982 --> 00:00:12,216
+je vais faire comme ça, puis re-switcher après.
+
+34
+00:00:12,216 --> 00:00:12,330
+Pour la démon.
+
+35
+00:00:12,330 --> 00:00:12,860
+Donc, je fais comme ça, et ça va revenir sur...
+
+36
+00:00:12,860 --> 00:00:13,278
+Eh, merci beaucoup.
+
+37
+00:00:13,278 --> 00:00:13,820
+Alors, voilà.
+
+38
+00:00:13,820 --> 00:00:14,164
+Et maintenant, je vais partir.
+
+39
+00:00:14,164 --> 00:00:14,316
+Je vais voir si c'était pas la peine.
+
+40
+00:00:14,316 --> 00:00:14,706
+Je crois qu'à je parle, parce qu'au moment,
+
+41
+00:00:14,706 --> 00:00:14,978
+le cerveau est là, va tout ce qu'il y a.
+
+42
+00:00:14,978 --> 00:00:15,038
+Voilà.
+
+43
+00:00:15,038 --> 00:00:15,044
+Voilà.
+
+44
+00:00:15,250 --> 00:00:15,936
+C'est parti.
+
+45
+00:00:15,936 --> 00:00:15,940
+C'est parti.
+
+46
+00:00:15,940 --> 00:00:16,116
+C'est parti.
+
+47
+00:00:16,116 --> 00:00:16,626
+J'espère qu'au fond vous arrivez à le dire.
+
+48
+00:00:16,626 --> 00:00:16,804
+Bon, c'est l'heure du jour.
+
+49
+00:00:16,804 --> 00:00:17,700
+Alors, je vais simplement passer directement sur la présentation d'un prototype d'infrastructure
+
+50
+00:00:17,700 --> 00:00:17,878
+pour des données moins sensibles.
+
+51
+00:00:17,958 --> 00:00:18,308
+Donc, ça, c'est un projet qui est en cours.
+
+52
+00:00:18,308 --> 00:00:18,508
+L'objet...
+
+53
+00:00:18,508 --> 00:00:18,580
+Alors, la demande.
+
+54
+00:00:18,580 --> 00:00:18,944
+On a des...
+
+55
+00:00:18,944 --> 00:00:19,388
+Là, on commence à dire une administration qui travaille déjà avec nous,
+
+56
+00:00:19,388 --> 00:00:19,554
+c'est le ministère de la Santé et du Travail,
+
+57
+00:00:19,554 --> 00:00:20,156
+qui nous a demandé d'étudier, dans le cadre du projet sur lequel on travaille,
+
+58
+00:00:20,156 --> 00:00:20,266
+on travaille en collaboration avec eux,
+
+59
+00:00:20,306 --> 00:00:20,728
+la possibilité d'avoir un complément des accès sécurisés pour des données sensibles,
+
+60
+00:00:20,728 --> 00:00:20,956
+d'avoir un complément à un accès équivalent,
+
+61
+00:00:20,956 --> 00:00:21,154
+et pour des données moins sensibles,
+
+62
+00:00:21,154 --> 00:00:21,528
+et du coup, pas avec le boîtier d'authentification biométrique.
+
+63
+00:00:21,528 --> 00:00:22,510
+Donc, ça, c'est la demande de la direction numérique de ce ministère qu'on a eue.
+
+64
+00:00:22,560 --> 00:00:22,772
+Alors, là, en fait, pourquoi ?
+
+65
+00:00:22,772 --> 00:00:23,120
+Parce qu'en fait, on travaille déjà avec eux,
+
+66
+00:00:23,120 --> 00:00:23,400
+avec la solution boîtier sécurisé,
+
+67
+00:00:23,400 --> 00:00:23,702
+ils font la production sur leurs données sensibles avec le boîtier sécurisé,
+
+68
+00:00:23,702 --> 00:00:24,036
+et ils sont satisfaits,
+
+69
+00:00:24,036 --> 00:00:24,292
+et ils veulent avoir une transposition pour devenir moins sensible,
+
+70
+00:00:24,346 --> 00:00:24,608
+histoire d'avoir une continuité, au moins sur les usages,
+
+71
+00:00:24,608 --> 00:00:25,408
+et sur les types d'organisations en groupe,
+
+72
+00:00:25,408 --> 00:00:25,486
+et aussi.
+
+73
+00:00:25,486 --> 00:00:25,858
+Donc, on a commencé à travailler sur un pilote,
+
+74
+00:00:25,858 --> 00:00:26,170
+qui s'appelle, alors,
+
+75
+00:00:26,170 --> 00:00:26,298
+Nom de Code, c'est AfraCalc.
+
+76
+00:00:26,298 --> 00:00:26,488
+Je vais faire une description très rapide,
+
+77
+00:00:26,488 --> 00:00:26,684
+j'ai raccourcé d'ailleurs la description,
+
+78
+00:00:26,684 --> 00:00:26,908
+mais on va avec le principe,
+
+79
+00:00:26,908 --> 00:00:27,116
+c'est aussi sur le tir en français,
+
+80
+00:00:27,116 --> 00:00:27,200
+en anglais,
+
+81
+00:00:27,212 --> 00:00:27,544
+qu'on a, vous traduirez pas les deux mois à non,
+
+82
+00:00:27,544 --> 00:00:27,614
+c'est en français.
+
+83
+00:00:27,614 --> 00:00:28,068
+L'idée, c'est de pouvoir avoir un accès simplifié,
+
+84
+00:00:28,068 --> 00:00:28,180
+comme c'est assez expliquant,
+
+85
+00:00:28,180 --> 00:00:28,380
+depuis, en remote desktop,
+
+86
+00:00:28,380 --> 00:00:28,754
+depuis l'ordinateur de l'utilisateur,
+
+87
+00:00:28,754 --> 00:00:28,924
+sans donc passer par le boîtier.
+
+88
+00:00:28,924 --> 00:00:29,108
+Avoir quand même,
+
+89
+00:00:29,108 --> 00:00:29,404
+au lieu d'avoir une double authentification,
+
+90
+00:00:29,404 --> 00:00:29,630
+avec la biometrie,
+
+91
+00:00:29,630 --> 00:00:29,788
+avoir quand même une double authentification,
+
+92
+00:00:29,942 --> 00:00:30,154
+voire aussi avoir des mécanismes,
+
+93
+00:00:30,154 --> 00:00:30,254
+tout de même,
+
+94
+00:00:30,254 --> 00:00:30,538
+de régulation en termes d'entrée et de sortie,
+
+95
+00:00:30,538 --> 00:00:30,742
+avoir une tracéabilité,
+
+96
+00:00:30,742 --> 00:00:30,886
+avoir quelque chose qui puisse
+
+97
+00:00:30,886 --> 00:00:31,198
+assurer un minimum de sécurité
+
+98
+00:00:31,198 --> 00:00:31,310
+pour pouvoir être homologé.
+
+99
+00:00:31,310 --> 00:00:31,594
+Pouvoir aussi paramétrer,
+
+100
+00:00:31,594 --> 00:00:31,674
+éventuellement,
+
+101
+00:00:31,674 --> 00:00:31,886
+la puissance de calcul,
+
+102
+00:00:31,974 --> 00:00:32,228
+et avoir, évidemment,
+
+103
+00:00:32,228 --> 00:00:32,362
+toute l'offre logicielle,
+
+104
+00:00:32,362 --> 00:00:32,486
+qu'on peut avoir l'équivalent.
+
+105
+00:00:32,486 --> 00:00:32,622
+Au fil des années,
+
+106
+00:00:32,622 --> 00:00:32,804
+on a quand même pas mal capitalisé
+
+107
+00:00:32,804 --> 00:00:32,956
+sur le type de logiciel,
+
+108
+00:00:32,956 --> 00:00:33,028
+le type de paquet,
+
+109
+00:00:33,028 --> 00:00:33,234
+à mettre en environnement fermé,
+
+110
+00:00:33,234 --> 00:00:33,360
+à mettre à disposition,
+
+111
+00:00:33,360 --> 00:00:33,456
+en environnement fermé,
+
+112
+00:00:33,456 --> 00:00:33,564
+qui est une contrainte très forte,
+
+113
+00:00:33,564 --> 00:00:33,664
+parce qu'aujourd'hui,
+
+114
+00:00:33,664 --> 00:00:33,806
+la plupart des trucs qui s'est
+
+115
+00:00:33,806 --> 00:00:33,906
+dans l'environnement ouvert.
+
+116
+00:00:33,962 --> 00:00:34,056
+Et ça inclut
+
+117
+00:00:34,056 --> 00:00:34,288
+des travaux
+
+118
+00:00:34,288 --> 00:00:34,402
+qu'on est en train de faire
+
+119
+00:00:34,402 --> 00:00:34,580
+sur l'intégration de LLM,
+
+120
+00:00:34,580 --> 00:00:34,852
+d'agents,
+
+121
+00:00:34,852 --> 00:00:34,970
+d'agents,
+
+122
+00:00:34,970 --> 00:00:35,332
+pour un usage
+
+123
+00:00:35,332 --> 00:00:35,580
+interne,
+
+124
+00:00:35,580 --> 00:00:35,698
+pour ne pas envoyer les informations
+
+125
+00:00:35,698 --> 00:00:35,796
+à l'extérieur,
+
+126
+00:00:35,796 --> 00:00:35,946
+même si c'est des données
+
+127
+00:00:35,946 --> 00:00:36,012
+moins sensibles.
+
+128
+00:00:36,012 --> 00:00:36,144
+Voilà.
+
+129
+00:00:36,144 --> 00:00:36,336
+Si je peux poser la question...
+
+130
+00:00:36,336 --> 00:00:36,430
+C'est sûr que vous êtes libre
+
+131
+00:00:36,430 --> 00:00:36,486
+de m'interrompre.
+
+132
+00:00:36,486 --> 00:00:36,594
+C'est un grand problème.
+
+133
+00:00:36,594 --> 00:00:36,728
+Pour moi, le CSV,
+
+134
+00:00:36,728 --> 00:00:36,842
+c'est toujours le boîtier,
+
+135
+00:00:36,842 --> 00:00:36,944
+comme bois d'accès,
+
+136
+00:00:36,962 --> 00:00:37,030
+où on trouve l'accès
+
+137
+00:00:37,030 --> 00:00:37,124
+et la bulle à laquelle
+
+138
+00:00:37,124 --> 00:00:37,184
+tu te connectes
+
+139
+00:00:37,184 --> 00:00:37,324
+qui a l'infrastructure là-dedans.
+
+140
+00:00:37,324 --> 00:00:37,534
+Est-ce que je pourrais concevoir
+
+141
+00:00:37,534 --> 00:00:37,646
+ceci comme étant...
+
+142
+00:00:37,646 --> 00:00:37,722
+C'est la même bulle,
+
+143
+00:00:37,722 --> 00:00:37,858
+les données sont différentes,
+
+144
+00:00:37,858 --> 00:00:37,942
+c'est la même bulle,
+
+145
+00:00:37,942 --> 00:00:38,066
+et le mode d'accès,
+
+146
+00:00:38,066 --> 00:00:38,418
+est-ce qui est la principale différence ?
+
+147
+00:00:38,418 --> 00:00:38,438
+Alors,
+
+148
+00:00:38,438 --> 00:00:38,594
+ou est-ce que la bulle
+
+149
+00:00:38,594 --> 00:00:38,690
+est la même différente ?
+
+150
+00:00:38,690 --> 00:00:38,720
+Si tu parles d'un template
+
+151
+00:00:38,720 --> 00:00:38,822
+ou si tu parles
+
+152
+00:00:38,822 --> 00:00:39,120
+de la vraie bulle ?
+
+153
+00:00:39,120 --> 00:00:39,264
+Apparemment,
+
+154
+00:00:39,264 --> 00:00:39,358
+avec le boîtier,
+
+155
+00:00:39,358 --> 00:00:39,404
+tu n'accepteres pas
+
+156
+00:00:39,404 --> 00:00:39,458
+aux mêmes bulles,
+
+157
+00:00:39,458 --> 00:00:39,684
+aux mêmes instances de bulle
+
+158
+00:00:39,684 --> 00:00:39,786
+que sans boîtier.
+
+159
+00:00:39,786 --> 00:00:39,920
+Oui.
+
+160
+00:00:39,956 --> 00:00:40,066
+Ah, mais sur le principe,
+
+161
+00:00:40,066 --> 00:00:40,158
+si c'est le template,
+
+162
+00:00:40,158 --> 00:00:40,228
+oui, si c'est le...
+
+163
+00:00:40,228 --> 00:00:40,328
+On peut prendre la copie,
+
+164
+00:00:40,328 --> 00:00:40,432
+il y a d'autres données là-dedans,
+
+165
+00:00:40,432 --> 00:00:40,558
+mais c'est la voie d'accès
+
+166
+00:00:40,558 --> 00:00:40,616
+qui est différente.
+
+167
+00:00:40,616 --> 00:00:40,688
+C'est la voie d'accès.
+
+168
+00:00:40,688 --> 00:00:40,868
+La technologie de la bulle
+
+169
+00:00:40,868 --> 00:00:40,908
+est la même.
+
+170
+00:00:40,908 --> 00:00:41,016
+Oui, c'est exactement la même.
+
+171
+00:00:41,052 --> 00:00:41,088
+D'accord.
+
+172
+00:00:41,088 --> 00:00:41,222
+Parce que, effectivement,
+
+173
+00:00:41,222 --> 00:00:41,530
+j'avais quasiment la même question,
+
+174
+00:00:41,530 --> 00:00:41,780
+c'était sur l'isolation
+
+175
+00:00:41,780 --> 00:00:41,956
+entre utilisateurs,
+
+176
+00:00:41,956 --> 00:00:42,154
+parce qu'avec des GPU
+
+177
+00:00:42,154 --> 00:00:42,360
+et des LLM,
+
+178
+00:00:42,360 --> 00:00:42,434
+j'imagine,
+
+179
+00:00:42,434 --> 00:00:42,612
+ce seront plutôt des services mutualisés,
+
+180
+00:00:42,612 --> 00:00:42,744
+je pense,
+
+181
+00:00:42,744 --> 00:00:43,012
+ou à moins qu'il y ait des GPU
+
+182
+00:00:43,012 --> 00:00:43,120
+pour chaque utilisateur,
+
+183
+00:00:43,120 --> 00:00:43,168
+en tout cas,
+
+184
+00:00:43,168 --> 00:00:43,266
+ça pourrait coûter très cher.
+
+185
+00:00:43,420 --> 00:00:43,480
+Pour moi,
+
+186
+00:00:43,480 --> 00:00:43,614
+ce n'était pas limpide
+
+187
+00:00:43,614 --> 00:00:43,828
+l'isolation entre utilisateurs,
+
+188
+00:00:43,828 --> 00:00:43,888
+donc les bulles,
+
+189
+00:00:43,888 --> 00:00:43,928
+tu vois.
+
+190
+00:00:43,928 --> 00:00:44,046
+Alors,
+
+191
+00:00:44,046 --> 00:00:44,164
+ça dépend si tu parles
+
+192
+00:00:44,164 --> 00:00:44,250
+d'utilisateurs ou de bulles.
+
+193
+00:00:44,250 --> 00:00:44,366
+Oui, enfin,
+
+194
+00:00:44,366 --> 00:00:44,484
+projet,
+
+195
+00:00:44,484 --> 00:00:44,542
+projet, pardon.
+
+196
+00:00:44,542 --> 00:00:44,762
+Isolation entre projets.
+
+197
+00:00:44,762 --> 00:00:44,776
+Non,
+
+198
+00:00:44,776 --> 00:00:44,872
+ça serait sur les mêmes principes.
+
+199
+00:00:44,872 --> 00:00:45,036
+Ça serait dédié.
+
+200
+00:00:45,036 --> 00:00:45,074
+D'accord.
+
+201
+00:00:45,074 --> 00:00:45,112
+Sur le projet,
+
+202
+00:00:45,112 --> 00:00:45,316
+l'isolation serait assurée
+
+203
+00:00:45,316 --> 00:00:45,394
+de la même façon.
+
+204
+00:00:45,394 --> 00:00:45,454
+D'accord.
+
+205
+00:00:45,454 --> 00:00:45,532
+Et ça serait dédié.
+
+206
+00:00:45,532 --> 00:00:45,628
+Alors, un élément
+
+207
+00:00:45,628 --> 00:00:45,720
+que je n'ai pas dit là,
+
+208
+00:00:45,720 --> 00:00:45,830
+mais aussi ça,
+
+209
+00:00:45,830 --> 00:00:46,034
+du fait de la caractéristique
+
+210
+00:00:46,034 --> 00:00:46,108
+d'être sur des données
+
+211
+00:00:46,108 --> 00:00:46,184
+moins sensibles,
+
+212
+00:00:46,184 --> 00:00:46,270
+enfin,
+
+213
+00:00:46,270 --> 00:00:46,382
+des données qui ont été confiées,
+
+214
+00:00:46,420 --> 00:00:46,558
+on irait aussi vers du cloud.
+
+215
+00:00:46,558 --> 00:00:46,702
+Ok.
+
+216
+00:00:46,702 --> 00:00:46,942
+Alors,
+
+217
+00:00:46,942 --> 00:00:46,996
+du point de vue
+
+218
+00:00:46,996 --> 00:00:47,068
+d'utilisateur,
+
+219
+00:00:47,068 --> 00:00:47,096
+donc,
+
+220
+00:00:47,096 --> 00:00:47,170
+c'est quand même important
+
+221
+00:00:47,170 --> 00:00:47,270
+parce que du coup,
+
+222
+00:00:47,270 --> 00:00:47,464
+il ne faut travailler plus chez lui,
+
+223
+00:00:47,464 --> 00:00:47,570
+c'est ça ?
+
+224
+00:00:47,570 --> 00:00:47,626
+Alors,
+
+225
+00:00:47,626 --> 00:00:47,712
+il ne faut travailler plus
+
+226
+00:00:47,712 --> 00:00:47,768
+les...
+
+227
+00:00:47,768 --> 00:00:47,820
+C'est pareil,
+
+228
+00:00:47,820 --> 00:00:47,900
+il faut travailler plus
+
+229
+00:00:47,900 --> 00:00:47,946
+dans le droit
+
+230
+00:00:47,946 --> 00:00:48,032
+où il est autorisé.
+
+231
+00:00:48,032 --> 00:00:48,084
+Oui, voilà,
+
+232
+00:00:48,084 --> 00:00:48,232
+il faut aussi marquer le travail.
+
+233
+00:00:48,232 --> 00:00:48,326
+Ben oui,
+
+234
+00:00:48,326 --> 00:00:48,420
+mais avec...
+
+235
+00:00:48,420 --> 00:00:48,444
+Oui,
+
+236
+00:00:48,444 --> 00:00:48,546
+mais avec le boîtier,
+
+237
+00:00:48,546 --> 00:00:48,630
+donc c'est comme...
+
+238
+00:00:48,630 --> 00:00:48,650
+Oui,
+
+239
+00:00:48,650 --> 00:00:48,740
+c'est comme avec un boîtier.
+
+240
+00:00:48,740 --> 00:00:48,964
+Il faut qu'il ait un boîtier en plus.
+
+241
+00:00:48,964 --> 00:00:48,998
+Oui.
+
+242
+00:00:48,998 --> 00:00:49,094
+Et alors,
+
+243
+00:00:49,094 --> 00:00:49,226
+les données sensibles,
+
+244
+00:00:49,226 --> 00:00:49,302
+moins sensibles,
+
+245
+00:00:49,302 --> 00:00:49,374
+ça veut dire quoi,
+
+246
+00:00:49,382 --> 00:00:49,424
+on va sortir.
+
+247
+00:00:49,424 --> 00:00:49,512
+Ah,
+
+248
+00:00:49,512 --> 00:00:49,592
+là,
+
+249
+00:00:49,592 --> 00:00:49,712
+c'est,
+
+250
+00:00:49,712 --> 00:00:49,846
+en gros,
+
+251
+00:00:49,846 --> 00:00:50,004
+dans le cadre
+
+252
+00:00:50,004 --> 00:00:50,212
+de ce projet,
+
+253
+00:00:50,212 --> 00:00:50,428
+il y a une gouvernance
+
+254
+00:00:50,428 --> 00:00:50,566
+des données
+
+255
+00:00:50,566 --> 00:00:50,674
+qui est mise en place
+
+256
+00:00:50,674 --> 00:00:50,802
+par ces ministères sociaux
+
+257
+00:00:50,802 --> 00:00:50,932
+où ils ont défini
+
+258
+00:00:50,932 --> 00:00:51,082
+des niveaux de sensibilité
+
+259
+00:00:51,082 --> 00:00:51,340
+en fonction des types de données,
+
+260
+00:00:51,340 --> 00:00:51,460
+des contraintes associées
+
+261
+00:00:51,460 --> 00:00:51,530
+et réglementaires
+
+262
+00:00:51,530 --> 00:00:51,650
+de ce qu'on tient
+
+263
+00:00:51,650 --> 00:00:51,720
+du HPD.
+
+264
+00:00:51,720 --> 00:00:51,782
+Donc,
+
+265
+00:00:51,782 --> 00:00:51,850
+il y a une classification
+
+266
+00:00:51,850 --> 00:00:51,922
+en quatre niveaux.
+
+267
+00:00:51,922 --> 00:00:52,118
+Les niveaux 1 et 2,
+
+268
+00:00:52,118 --> 00:00:52,204
+c'est des données
+
+269
+00:00:52,204 --> 00:00:52,304
+qui sont quand même
+
+270
+00:00:52,304 --> 00:00:52,400
+des données individuelles
+
+271
+00:00:52,400 --> 00:00:52,516
+mais quasi anonymisées.
+
+272
+00:00:52,516 --> 00:00:52,710
+On va dire,
+
+273
+00:00:52,710 --> 00:00:52,768
+pour simplifier,
+
+274
+00:00:52,768 --> 00:00:52,882
+et niveau 3 et 4,
+
+275
+00:00:52,882 --> 00:00:52,930
+c'est des données
+
+276
+00:00:52,930 --> 00:00:53,040
+déjà plus détaillées
+
+277
+00:00:53,040 --> 00:00:53,198
+qui sont soumises
+
+278
+00:00:53,198 --> 00:00:53,312
+à des réglementations
+
+279
+00:00:53,312 --> 00:00:53,408
+et elles passent par
+
+280
+00:00:53,408 --> 00:00:53,446
+ces...
+
+281
+00:00:53,446 --> 00:00:53,530
+Voilà,
+
+282
+00:00:53,530 --> 00:00:53,628
+pour synthétiser.
+
+283
+00:00:53,628 --> 00:00:53,688
+Voilà,
+
+284
+00:00:53,688 --> 00:00:53,728
+vraiment,
+
+285
+00:00:53,728 --> 00:00:53,798
+en très...
+
+286
+00:00:53,798 --> 00:00:53,822
+Bref,
+
+287
+00:00:53,822 --> 00:00:53,938
+ça serait des données
+
+288
+00:00:53,938 --> 00:00:54,036
+quasi anonymisées,
+
+289
+00:00:54,036 --> 00:00:54,120
+des données courantes.
+
+290
+00:00:54,120 --> 00:00:54,182
+C'est,
+
+291
+00:00:54,182 --> 00:00:54,224
+par exemple,
+
+292
+00:00:54,224 --> 00:00:54,374
+les données préparées
+
+293
+00:00:54,374 --> 00:00:54,566
+après production.
+
+294
+00:00:54,656 --> 00:00:54,704
+Et ça,
+
+295
+00:00:54,704 --> 00:00:54,930
+le rôle de définition,
+
+296
+00:00:54,930 --> 00:00:55,118
+il est en amont
+
+297
+00:00:55,118 --> 00:00:55,240
+et fait par le...
+
+298
+00:00:55,240 --> 00:00:55,302
+C'est pas le ventre
+
+299
+00:00:55,302 --> 00:00:55,344
+par le pilot.
+
+300
+00:00:55,344 --> 00:00:55,468
+Non.
+
+301
+00:00:55,468 --> 00:00:55,586
+Je vais...
+
+302
+00:00:55,586 --> 00:00:55,738
+C'est une question
+
+303
+00:00:55,738 --> 00:00:55,856
+qui...
+
+304
+00:00:55,856 --> 00:00:55,956
+Quoi ?
+
+305
+00:00:55,956 --> 00:00:56,112
+Si on lâche
+
+306
+00:00:56,112 --> 00:00:56,204
+la contrainte de sécurité,
+
+307
+00:00:56,204 --> 00:00:56,258
+donc là,
+
+308
+00:00:56,258 --> 00:00:56,392
+la contrainte de confidentialité
+
+309
+00:00:56,392 --> 00:00:56,430
+de données
+
+310
+00:00:56,430 --> 00:00:56,480
+et de données
+
+311
+00:00:56,480 --> 00:00:56,592
+de la santé sensible,
+
+312
+00:00:56,592 --> 00:00:56,832
+pourquoi c'est vers le CRT
+
+313
+00:00:56,832 --> 00:00:56,972
+qu'ils se sont tournés
+
+314
+00:00:56,972 --> 00:00:57,072
+au...
+
+315
+00:00:57,072 --> 00:00:57,272
+C'est ça ?
+
+316
+00:00:57,272 --> 00:00:57,292
+Alors,
+
+317
+00:00:57,292 --> 00:00:57,376
+ils se sont pas tournés
+
+318
+00:00:57,376 --> 00:00:57,402
+les lames,
+
+319
+00:00:57,402 --> 00:00:57,424
+enfin,
+
+320
+00:00:57,424 --> 00:00:57,480
+pilotes,
+
+321
+00:00:57,480 --> 00:00:57,564
+ils se sont pas tournés
+
+322
+00:00:57,564 --> 00:00:57,634
+que vers ces...
+
+323
+00:00:57,634 --> 00:00:57,762
+Ils évaluent plusieurs solutions
+
+324
+00:00:57,762 --> 00:00:57,906
+et on nous a demandé
+
+325
+00:00:57,906 --> 00:00:58,030
+d'en fournir une.
+
+326
+00:00:58,030 --> 00:00:58,138
+Pourquoi ?
+
+327
+00:00:58,138 --> 00:00:58,188
+Parce que
+
+328
+00:00:58,188 --> 00:00:58,294
+on a quand même
+
+329
+00:00:58,294 --> 00:00:58,368
+besoin de sécurité,
+
+330
+00:00:58,368 --> 00:00:58,448
+il faut être homologuée.
+
+331
+00:00:58,448 --> 00:00:58,542
+C'est pas...
+
+332
+00:00:58,542 --> 00:00:58,658
+C'est pas le fait
+
+333
+00:00:58,658 --> 00:00:58,714
+d'enlever le boîtier
+
+334
+00:00:58,714 --> 00:00:58,840
+qui fait que c'est pas du tout sécurisé.
+
+335
+00:00:58,840 --> 00:00:58,938
+C'est un reste,
+
+336
+00:00:58,938 --> 00:00:59,026
+un niveau de sécurité
+
+337
+00:00:59,026 --> 00:00:59,118
+élevé,
+
+338
+00:00:59,118 --> 00:00:59,248
+mais pas aussi élevé,
+
+339
+00:00:59,248 --> 00:00:59,346
+pas garanti
+
+340
+00:00:59,346 --> 00:00:59,404
+comme ça peut être
+
+341
+00:00:59,404 --> 00:00:59,452
+avec le boîtier.
+
+342
+00:00:59,452 --> 00:00:59,674
+Deuxièmement,
+
+343
+00:00:59,674 --> 00:00:59,814
+on capitalise beaucoup
+
+344
+00:00:59,814 --> 00:00:59,906
+en outils
+
+345
+00:00:59,906 --> 00:01:00,004
+à mettre à disposition,
+
+346
+00:01:00,004 --> 00:01:00,068
+etc.
+
+347
+00:01:00,068 --> 00:01:00,110
+Et ça,
+
+348
+00:01:00,110 --> 00:01:00,184
+ils veulent réutiliser
+
+349
+00:01:00,184 --> 00:01:00,264
+en organisation,
+
+350
+00:01:00,264 --> 00:01:00,506
+en process sur les groupes
+
+351
+00:01:00,506 --> 00:01:00,604
+de gestion des permissions,
+
+352
+00:01:00,604 --> 00:01:00,706
+des droits,
+
+353
+00:01:00,706 --> 00:01:00,836
+et aussi toute la partie
+
+354
+00:01:00,836 --> 00:01:00,920
+système d'information
+
+355
+00:01:00,920 --> 00:01:01,036
+où on va...
+
+356
+00:01:01,036 --> 00:01:01,070
+Par exemple,
+
+357
+00:01:01,070 --> 00:01:01,104
+maintenant,
+
+358
+00:01:01,104 --> 00:01:01,178
+on a avec eux,
+
+359
+00:01:01,178 --> 00:01:01,264
+on a une interface
+
+360
+00:01:01,264 --> 00:01:01,358
+où eux,
+
+361
+00:01:01,358 --> 00:01:01,396
+ils peuvent faire
+
+362
+00:01:01,396 --> 00:01:01,476
+une demande d'ajout
+
+363
+00:01:01,476 --> 00:01:01,566
+d'un utilisateur.
+
+364
+00:01:01,566 --> 00:01:01,654
+Ça,
+
+365
+00:01:01,654 --> 00:01:01,718
+Eric,
+
+366
+00:01:01,718 --> 00:01:01,760
+pour moi,
+
+367
+00:01:01,760 --> 00:01:02,022
+il fait toute la mise en œuvre
+
+368
+00:01:02,022 --> 00:01:02,096
+en son équipe
+
+369
+00:01:02,096 --> 00:01:02,156
+et lui,
+
+370
+00:01:02,156 --> 00:01:02,248
+ils font toute la mise en œuvre.
+
+371
+00:01:02,248 --> 00:01:02,300
+Donc,
+
+372
+00:01:02,300 --> 00:01:02,374
+c'est tout ça
+
+373
+00:01:02,374 --> 00:01:02,460
+qui est aussi
+
+374
+00:01:02,460 --> 00:01:02,754
+pour
+
+375
+00:01:02,754 --> 00:01:02,972
+pour le demandeur.
+
+376
+00:01:02,972 --> 00:01:03,066
+Et donc,
+
+377
+00:01:03,066 --> 00:01:03,146
+vous avez mentionné
+
+378
+00:01:03,146 --> 00:01:03,228
+cloud ?
+
+379
+00:01:03,228 --> 00:01:03,250
+Oui.
+
+380
+00:01:03,250 --> 00:01:03,338
+Et aussi,
+
+381
+00:01:03,338 --> 00:01:03,424
+on va nous en faire
+
+382
+00:01:03,424 --> 00:01:03,446
+oui.
+
+383
+00:01:03,446 --> 00:01:03,728
+Oui,
+
+384
+00:01:03,728 --> 00:01:03,744
+oui,
+
+385
+00:01:03,744 --> 00:01:03,782
+on peut...
+
+386
+00:01:03,782 --> 00:01:03,796
+Alors,
+
+387
+00:01:03,796 --> 00:01:03,906
+c'est les machines
+
+388
+00:01:03,906 --> 00:01:03,988
+qui sont sur...
+
+389
+00:01:03,988 --> 00:01:04,030
+On se referait
+
+390
+00:01:04,030 --> 00:01:04,108
+des machines dédiées
+
+391
+00:01:04,108 --> 00:01:04,198
+sur un cloud.
+
+392
+00:01:04,198 --> 00:01:04,274
+Là,
+
+393
+00:01:04,274 --> 00:01:04,320
+le pilote,
+
+394
+00:01:04,320 --> 00:01:04,564
+on a deux pilotes.
+
+395
+00:01:04,564 --> 00:01:04,672
+On a un sur OVH
+
+396
+00:01:04,672 --> 00:01:04,746
+et un sur Scaleway.
+
+397
+00:01:04,746 --> 00:01:04,958
+Sur OVH,
+
+398
+00:01:04,958 --> 00:01:04,992
+c'est celui
+
+399
+00:01:04,992 --> 00:01:05,072
+qu'on va vous montrer.
+
+400
+00:01:05,072 --> 00:01:05,142
+Sur Scaleway,
+
+401
+00:01:05,142 --> 00:01:05,208
+c'est en train d'être
+
+402
+00:01:05,208 --> 00:01:05,412
+qui est-ce que
+
+403
+00:01:05,412 --> 00:01:05,494
+c'est en train d'être.
+
+404
+00:01:05,494 --> 00:01:05,728
+Les bulles sécurisées
+
+405
+00:01:05,728 --> 00:01:05,858
+avec Wacky,
+
+406
+00:01:05,858 --> 00:01:05,946
+elles ne sont pas
+
+407
+00:01:05,946 --> 00:01:06,012
+dans le plan ?
+
+408
+00:01:06,012 --> 00:01:06,036
+Non.
+
+409
+00:01:06,036 --> 00:01:06,144
+Ça,
+
+410
+00:01:06,144 --> 00:01:06,210
+c'est une chance
+
+411
+00:01:06,210 --> 00:01:06,262
+et c'est important.
+
+412
+00:01:06,262 --> 00:01:06,304
+Oui.
+
+413
+00:01:06,304 --> 00:01:06,460
+Et ça,
+
+414
+00:01:06,460 --> 00:01:06,508
+les distances
+
+415
+00:01:06,508 --> 00:01:06,568
+qui ont des coupes.
+
+416
+00:01:06,568 --> 00:01:06,710
+Alors,
+
+417
+00:01:06,710 --> 00:01:06,760
+c'est très cher,
+
+418
+00:01:06,760 --> 00:01:06,790
+je me disais.
+
+419
+00:01:06,790 --> 00:01:06,818
+Oui,
+
+420
+00:01:06,818 --> 00:01:06,942
+c'est cher.
+
+421
+00:01:06,942 --> 00:01:06,950
+Oui,
+
+422
+00:01:06,950 --> 00:01:07,218
+c'est cher.
+
+423
+00:01:07,218 --> 00:01:07,386
+Les prix qu'on a vus
+
+424
+00:01:07,386 --> 00:01:07,498
+sont assez...
+
+425
+00:01:07,498 --> 00:01:07,534
+Après,
+
+426
+00:01:07,534 --> 00:01:07,572
+ça dépend.
+
+427
+00:01:07,572 --> 00:01:07,616
+Dès lors,
+
+428
+00:01:07,616 --> 00:01:07,700
+on commence à demander
+
+429
+00:01:07,700 --> 00:01:07,874
+un niveau de sécurité
+
+430
+00:01:07,874 --> 00:01:07,986
+pour les stations
+
+431
+00:01:07,986 --> 00:01:08,096
+de la panique sociale.
+
+432
+00:01:08,096 --> 00:01:08,368
+Oui,
+
+433
+00:01:08,368 --> 00:01:08,478
+en termes de coûts,
+
+434
+00:01:08,478 --> 00:01:08,568
+on est encore
+
+435
+00:01:08,568 --> 00:01:08,698
+en train de faire
+
+436
+00:01:08,698 --> 00:01:08,832
+des études.
+
+437
+00:01:08,832 --> 00:01:08,996
+Oui,
+
+438
+00:01:08,996 --> 00:01:09,108
+il n'y aura pas
+
+439
+00:01:09,108 --> 00:01:09,154
+des gains
+
+440
+00:01:09,154 --> 00:01:09,296
+entre la solution
+
+441
+00:01:09,296 --> 00:01:09,352
+CRLD
+
+442
+00:01:09,352 --> 00:01:09,408
+et la solution
+
+443
+00:01:09,408 --> 00:01:09,476
+Lite.
+
+444
+00:01:09,476 --> 00:01:09,558
+Nous,
+
+445
+00:01:09,558 --> 00:01:09,612
+on peut,
+
+446
+00:01:09,612 --> 00:01:09,672
+ça va être un peu
+
+447
+00:01:09,672 --> 00:01:09,752
+cultif,
+
+448
+00:01:09,752 --> 00:01:09,964
+un peu assez proche.
+
+449
+00:01:09,964 --> 00:01:10,140
+Ça ne va pas être...
+
+450
+00:01:10,140 --> 00:01:10,304
+Et encore,
+
+451
+00:01:10,304 --> 00:01:10,354
+on ne peut pas
+
+452
+00:01:10,354 --> 00:01:10,404
+finir les études.
+
+453
+00:01:10,404 --> 00:01:10,482
+Ça pourrait même
+
+454
+00:01:10,482 --> 00:01:10,620
+être plus élevé
+
+455
+00:01:10,620 --> 00:01:10,668
+suivant
+
+456
+00:01:10,668 --> 00:01:10,770
+le prix
+
+457
+00:01:10,770 --> 00:01:10,886
+du cœur.
+
+458
+00:01:10,938 --> 00:01:11,000
+Et le niveau
+
+459
+00:01:11,000 --> 00:01:11,042
+de sécurité
+
+460
+00:01:11,042 --> 00:01:11,076
+demandé,
+
+461
+00:01:11,076 --> 00:01:11,108
+pareil.
+
+462
+00:01:11,108 --> 00:01:11,224
+Plusieurs niveaux
+
+463
+00:01:11,224 --> 00:01:11,268
+de sécurité
+
+464
+00:01:11,268 --> 00:01:11,312
+demandé
+
+465
+00:01:11,312 --> 00:01:11,448
+au niveau
+
+466
+00:01:11,448 --> 00:01:11,490
+du cloud.
+
+467
+00:01:11,490 --> 00:01:11,560
+Les services
+
+468
+00:01:11,560 --> 00:01:11,658
+complètement mutualisés,
+
+469
+00:01:11,658 --> 00:01:11,762
+les services
+
+470
+00:01:11,762 --> 00:01:11,912
+vers Metalpro,
+
+471
+00:01:11,912 --> 00:01:11,974
+dès qu'on demande
+
+472
+00:01:11,974 --> 00:01:12,036
+une certification
+
+473
+00:01:12,036 --> 00:01:12,104
+CECO de Cloud,
+
+474
+00:01:12,104 --> 00:01:12,180
+ça multiplie par
+
+475
+00:01:12,180 --> 00:01:12,360
+le simple prix.
+
+476
+00:01:12,360 --> 00:01:12,452
+Oui.
+
+477
+00:01:12,452 --> 00:01:12,618
+On va sans ça.
+
+478
+00:01:12,618 --> 00:01:12,644
+Oui,
+
+479
+00:01:12,644 --> 00:01:12,714
+c'est quoi.
+
+480
+00:01:12,714 --> 00:01:12,742
+Alors,
+
+481
+00:01:12,742 --> 00:01:12,834
+aller au cloud
+
+482
+00:01:12,834 --> 00:01:12,902
+si c'est plus cher.
+
+483
+00:01:12,902 --> 00:01:13,152
+C'est pas...
+
+484
+00:01:13,152 --> 00:01:13,246
+Ah, pour nous ?
+
+485
+00:01:13,246 --> 00:01:13,396
+Ou pour nos clients ?
+
+486
+00:01:13,396 --> 00:01:13,506
+Les clients
+
+487
+00:01:13,506 --> 00:01:13,552
+sont fous,
+
+488
+00:01:13,552 --> 00:01:13,618
+ils veulent juste
+
+489
+00:01:13,618 --> 00:01:13,734
+aller calculer
+
+490
+00:01:13,734 --> 00:01:13,780
+quelque part.
+
+491
+00:01:13,818 --> 00:01:13,840
+Alors,
+
+492
+00:01:13,840 --> 00:01:13,964
+pourquoi ?
+
+493
+00:01:13,964 --> 00:01:14,084
+Pour nous ?
+
+494
+00:01:14,084 --> 00:01:14,194
+C'est bien que j'ai écrit
+
+495
+00:01:14,194 --> 00:01:14,254
+sur la table
+
+496
+00:01:14,254 --> 00:01:14,332
+si tu veux dire
+
+497
+00:01:14,332 --> 00:01:14,414
+quelque chose.
+
+498
+00:01:14,414 --> 00:01:14,474
+Moi,
+
+499
+00:01:14,474 --> 00:01:14,516
+je ne sais pas
+
+500
+00:01:14,516 --> 00:01:14,530
+pas,
+
+501
+00:01:14,530 --> 00:01:14,632
+mais je ne sais pas
+
+502
+00:01:14,632 --> 00:01:14,706
+si tu veux compléter.
+
+503
+00:01:14,780 --> 00:01:14,872
+Déjà,
+
+504
+00:01:14,872 --> 00:01:14,922
+ça me permet
+
+505
+00:01:14,922 --> 00:01:14,988
+de protéger
+
+506
+00:01:14,988 --> 00:01:15,050
+très rapidement
+
+507
+00:01:15,050 --> 00:01:15,094
+si on va
+
+508
+00:01:15,094 --> 00:01:15,202
+faire une mobilisation
+
+509
+00:01:15,202 --> 00:01:15,332
+d'achat de service.
+
+510
+00:01:15,332 --> 00:01:15,408
+Là,
+
+511
+00:01:15,408 --> 00:01:15,454
+ce stade,
+
+512
+00:01:15,454 --> 00:01:15,498
+c'est de faire
+
+513
+00:01:15,498 --> 00:01:15,680
+un peu d'offre.
+
+514
+00:01:15,680 --> 00:01:15,878
+Je vais découper
+
+515
+00:01:15,878 --> 00:01:15,912
+une achat
+
+516
+00:01:15,912 --> 00:01:15,974
+à faire un peu
+
+517
+00:01:15,974 --> 00:01:16,104
+de remerciement
+
+518
+00:01:16,104 --> 00:01:16,144
+d'attente
+
+519
+00:01:16,144 --> 00:01:16,210
+pour développer.
+
+520
+00:01:16,210 --> 00:01:16,642
+Pour développer,
+
+521
+00:01:16,642 --> 00:01:16,730
+je suis d'accord,
+
+522
+00:01:16,730 --> 00:01:16,894
+mais si en déploiement
+
+523
+00:01:16,894 --> 00:01:16,974
+ça coûte plus tard,
+
+524
+00:01:16,974 --> 00:01:17,034
+là,
+
+525
+00:01:17,034 --> 00:01:17,108
+ou si moi,
+
+526
+00:01:17,108 --> 00:01:17,208
+ça va être
+
+527
+00:01:17,208 --> 00:01:17,344
+très rapidement.
+
+528
+00:01:17,344 --> 00:01:17,610
+C'est une nécessité
+
+529
+00:01:17,610 --> 00:01:18,142
+qui est de plus en plus rapide.
+
+530
+00:01:18,142 --> 00:01:18,446
+J'ai vu qu'on arrive
+
+531
+00:01:18,446 --> 00:01:18,500
+à commander
+
+532
+00:01:18,500 --> 00:01:18,700
+dans le plan
+
+533
+00:01:18,700 --> 00:01:18,882
+qu'ils sont déjà
+
+534
+00:01:18,882 --> 00:01:18,928
+disponibles
+
+535
+00:01:18,928 --> 00:01:18,968
+dans le plan
+
+536
+00:01:18,968 --> 00:01:19,064
+de l'étance financier
+
+537
+00:01:19,064 --> 00:01:19,242
+pour deux jours
+
+538
+00:01:19,242 --> 00:01:19,296
+d'utilisation.
+
+539
+00:01:19,296 --> 00:01:19,366
+Ça,
+
+540
+00:01:19,366 --> 00:01:19,438
+on n'aura jamais
+
+541
+00:01:19,438 --> 00:01:19,486
+à réaliser
+
+542
+00:01:19,486 --> 00:01:19,588
+en termes de l'étude.
+
+543
+00:01:19,588 --> 00:01:19,650
+Là,
+
+544
+00:01:19,650 --> 00:01:19,704
+ce qu'on part
+
+545
+00:01:19,704 --> 00:01:19,744
+qu'un est,
+
+546
+00:01:19,744 --> 00:01:19,824
+c'est qu'on modise
+
+547
+00:01:19,824 --> 00:01:19,890
+tout le cas
+
+548
+00:01:19,890 --> 00:01:19,986
+sur un an.
+
+549
+00:01:19,986 --> 00:01:20,116
+On part avec
+
+550
+00:01:20,116 --> 00:01:20,208
+l'achat de la Chine
+
+551
+00:01:20,208 --> 00:01:20,268
+qui sera activée
+
+552
+00:01:20,268 --> 00:01:20,312
+sur un an.
+
+553
+00:01:20,344 --> 00:01:20,464
+Et si,
+
+554
+00:01:20,464 --> 00:01:20,598
+pour un trajet,
+
+555
+00:01:20,598 --> 00:01:20,706
+on demande un projet
+
+556
+00:01:20,706 --> 00:01:20,786
+de trois semaines
+
+557
+00:01:20,786 --> 00:01:20,916
+qui demande un GPU,
+
+558
+00:01:20,916 --> 00:01:21,154
+il ne faut pas
+
+559
+00:01:21,154 --> 00:01:21,212
+sur les trois semaines
+
+560
+00:01:21,212 --> 00:01:21,272
+d'utilisation.
+
+561
+00:01:21,272 --> 00:01:21,396
+Je pense que
+
+562
+00:01:21,396 --> 00:01:21,462
+le CLD peut
+
+563
+00:01:21,462 --> 00:01:21,528
+difficilement
+
+564
+00:01:21,528 --> 00:01:21,566
+nous faire
+
+565
+00:01:21,566 --> 00:01:21,722
+une façon
+
+566
+00:01:21,722 --> 00:01:21,778
+de la solution.
+
+567
+00:01:21,778 --> 00:01:21,950
+Là,
+
+568
+00:01:21,950 --> 00:01:21,990
+il est mieux
+
+569
+00:01:21,990 --> 00:01:22,046
+pour voir
+
+570
+00:01:22,046 --> 00:01:22,284
+la proximité
+
+571
+00:01:22,284 --> 00:01:22,398
+pour ses choses
+
+572
+00:01:22,398 --> 00:01:22,464
+et par ailleurs
+
+573
+00:01:22,464 --> 00:01:22,562
+pour une situation
+
+574
+00:01:22,562 --> 00:01:22,688
+dont on considère
+
+575
+00:01:22,688 --> 00:01:22,750
+à ce par rapport
+
+576
+00:01:22,750 --> 00:01:22,802
+à ce point.
+
+577
+00:01:22,802 --> 00:01:22,926
+Si on estime
+
+578
+00:01:22,926 --> 00:01:22,994
+que les besoins
+
+579
+00:01:22,994 --> 00:01:23,040
+vont être
+
+580
+00:01:23,040 --> 00:01:23,092
+à l'arrivée
+
+581
+00:01:23,092 --> 00:01:23,176
+pour ne pas
+
+582
+00:01:23,176 --> 00:01:23,312
+le projet
+
+583
+00:01:23,312 --> 00:01:23,376
+par projet
+
+584
+00:01:23,376 --> 00:01:23,484
+sur la communauté
+
+585
+00:01:23,484 --> 00:01:23,568
+et de ressources
+
+586
+00:01:23,568 --> 00:01:23,600
+qui sont,
+
+587
+00:01:23,600 --> 00:01:23,636
+par exemple,
+
+588
+00:01:23,636 --> 00:01:23,710
+le CIDAC.
+
+589
+00:01:23,710 --> 00:01:23,954
+En quoi,
+
+590
+00:01:23,954 --> 00:01:23,994
+j'ai pu,
+
+591
+00:01:23,994 --> 00:01:24,074
+comme les armes,
+
+592
+00:01:24,074 --> 00:01:24,138
+les expats,
+
+593
+00:01:24,138 --> 00:01:24,208
+c'est une autre chose.
+
+594
+00:01:24,208 --> 00:01:24,334
+de la vie.
+
+595
+00:01:24,334 --> 00:01:24,334
+Merci.
+
+596
+00:01:27,208 --> 00:01:27,308
+Merci.
+
+597
+00:01:30,208 --> 00:01:30,308
+Merci.
+
+598
+00:01:30,308 --> 00:01:30,308
+Merci.
+
+599
+00:01:30,308 --> 00:01:30,408
+Merci.
+
+600
+00:01:30,408 --> 00:01:30,508
+Merci.
+
+601
+00:01:30,508 --> 00:01:30,508
+Merci.
+
+602
+00:01:30,508 --> 00:01:30,608
+Merci.
+
+603
+00:01:30,608 --> 00:01:30,708
+Merci.
+
+604
+00:01:30,708 --> 00:01:30,808
+Merci.
+
+605
+00:01:30,808 --> 00:01:30,908
+Merci.
+
+606
+00:01:30,908 --> 00:01:31,008
+Merci.
+
+607
+00:01:31,008 --> 00:01:31,108
+Merci.
+
+608
+00:01:31,108 --> 00:01:31,108
+Merci.
+
+609
+00:01:31,108 --> 00:01:31,208
+Merci.
+
+610
+00:01:31,208 --> 00:01:31,308
+Merci.
+
+611
+00:01:31,308 --> 00:01:31,408
+Merci.
+
+612
+00:01:31,408 --> 00:01:31,508
+Merci.
+
+613
+00:01:31,508 --> 00:01:31,608
+Merci.
+
+614
+00:01:31,608 --> 00:01:31,708
+Merci.
+
+615
+00:01:31,708 --> 00:01:31,708
+Merci.
+
+616
+00:01:31,708 --> 00:01:31,808
+Merci.
+
+617
+00:01:31,808 --> 00:01:31,908
+Merci.
+
+618
+00:01:31,908 --> 00:01:32,008
+Merci.
+
+619
+00:01:32,008 --> 00:01:32,108
+Merci.
+
+620
+00:01:32,108 --> 00:01:32,208
+Merci.
+
+621
+00:01:32,208 --> 00:01:32,308
+Merci.
+
+622
+00:01:32,308 --> 00:01:32,408
+Merci.
+
+623
+00:01:32,408 --> 00:01:32,508
+Merci.
+
+624
+00:01:32,508 --> 00:01:32,608
+Merci.
+
+625
+00:01:32,608 --> 00:01:32,708
+Merci.
+
+626
+00:01:32,708 --> 00:01:32,808
+Merci.
+
+627
+00:01:32,808 --> 00:01:32,908
+Merci.
+
+628
+00:01:32,908 --> 00:01:33,008
+Merci.
+
+629
+00:01:33,008 --> 00:01:33,108
+Merci.
+
+630
+00:01:33,108 --> 00:01:33,208
+Merci.
+
+631
+00:01:36,108 --> 00:01:36,208
+Merci.
+
+632
+00:01:36,208 --> 00:01:36,308
+Merci.
+
+633
+00:01:39,108 --> 00:01:39,208
+Merci.
+
+634
+00:01:39,208 --> 00:01:39,308
+Merci.
+
+635
+00:01:42,108 --> 00:01:43,286
+financièrement, etc. Mais l'impact sur l'accessibilité d'autres données à la clientèle existante, académique ou autre, comment est-ce que ça va se régler ?
+
+636
+00:01:43,286 --> 00:01:44,010
+D'accord, j'ai donné la genèse du passé aussi, on avait dû vous en parler, vous avez aussi lu cette idée-là,
+
+637
+00:01:44,010 --> 00:01:45,264
+en tant que pressentis ce moment-là lors de ces premières versions des axes stratégiques en 2021, on a vu ces discussions,
+
+638
+00:01:45,264 --> 00:01:46,080
+c'est-à-dire qu'elle était là, ça rejoint quand même le concept. J'ai donné la genèse, c'est que là on a une demande concrète,
+
+639
+00:01:46,080 --> 00:01:47,082
+pertinente, et en plus une collaboration très fructueuse dans les deux sens avec les cas sociaux, on a répondu à ces demandes,
+
+640
+00:01:47,082 --> 00:01:47,776
+tout le monde en époque, et on a aussi travaillé sur tous les postes, la prévention, les conséquences modèles, etc.
+
+641
+00:01:47,776 --> 00:01:48,768
+Après, pour côté, on a aussi en parallèle une autre demande, c'est-à-dire Eric l'a évoquée, c'est qu'il y a aussi un sujet sur l'accès des API,
+
+642
+00:01:48,832 --> 00:01:49,446
+des plateformes, des valeurs, c'est-à-dire un environnement juridique, réglementaire européen qui évolue,
+
+643
+00:01:49,446 --> 00:01:50,406
+des SA, on va citer le service ISAC, et on discute avec la Commission européenne aussi sur la possibilité de trouver une plateforme,
+
+644
+00:01:50,406 --> 00:01:51,404
+pour pouvoir accéder à des API, des plateformes, et ça, en fait, quand l'État nous a demandé il y a trois ans,
+
+645
+00:01:51,430 --> 00:01:52,044
+on n'avait pas donné suite, il y a deux ans, je crois, on n'avait pas donné suite, parce qu'on n'avait pas de...
+
+646
+00:01:52,044 --> 00:01:53,276
+dans ce moment, il n'avait pas cette volonté d'aller vers ce dispositif, quand la Commission européenne nous a demandé,
+
+647
+00:01:53,276 --> 00:01:53,950
+on a reconsidéré la question, donc on a une conjonction entre ces deux projets, et là, on échange aussi avec la Commission,
+
+648
+00:01:54,066 --> 00:01:54,568
+et là, ça peut affecter, c'est l'accès des chercheurs qui est visé, l'article 42,
+
+649
+00:01:54,568 --> 00:01:55,064
+42 qui est visé, pour cet aspect-là, donc on s'y prépare,
+
+650
+00:01:55,064 --> 00:01:55,634
+on a des demandes, on commence à avoir des premières demandes des chercheurs pour l'accès aux données des plateformes,
+
+651
+00:01:55,674 --> 00:01:55,958
+et là, pourquoi, en fait, ça peut aussi avoir un impact sur les chercheurs.
+
+652
+00:01:55,958 --> 00:01:56,648
+Après, nous, sur les données, pour l'instant, en tout cas, sur l'accès aux données fiscales,
+
+653
+00:01:56,648 --> 00:01:57,046
+aux données judiciaires, aux données d'armes,
+
+654
+00:01:57,046 --> 00:01:57,250
+on est toujours sur le... on héberge les données,
+
+655
+00:01:57,250 --> 00:01:57,544
+voilà, l'administration fiscale, pour l'instant,
+
+656
+00:01:57,544 --> 00:01:57,830
+on ne cherche pas du tout à les convaincre,
+
+657
+00:01:57,830 --> 00:01:57,952
+les données sont, par exemple,
+
+658
+00:01:57,952 --> 00:01:58,112
+on soit hébergées au sein de notre là,
+
+659
+00:01:58,112 --> 00:01:58,338
+on peut donner un petit...
+
+660
+00:01:58,338 --> 00:01:58,574
+une explication de pourquoi on va dans cette direction.
+
+661
+00:01:58,574 --> 00:01:58,858
+Il y avait Constance, par exemple,
+
+662
+00:01:58,858 --> 00:01:59,052
+qui a eu des demandes, un peu dans ce genre-là,
+
+663
+00:01:59,052 --> 00:01:59,228
+c'est-à-dire, en fait, à la fois,
+
+664
+00:01:59,228 --> 00:01:59,516
+pouvoir utiliser des anecdotes très cyclisées,
+
+665
+00:01:59,516 --> 00:01:59,676
+et puis, à la fois, plus facile,
+
+666
+00:01:59,676 --> 00:02:00,166
+et puis, on l'avait même mis dans le projet d'équipex,
+
+667
+00:02:00,166 --> 00:02:00,330
+de la banque,
+
+668
+00:02:00,374 --> 00:02:00,498
+c'est des choses qui étaient là,
+
+669
+00:02:00,498 --> 00:02:00,604
+et elles ne peuvent pas dire préjugés,
+
+670
+00:02:00,604 --> 00:02:00,850
+mais bien, il y a des autres qui vont devant.
+
+671
+00:02:00,850 --> 00:02:01,178
+Parce que bien, sur ce projet-là,
+
+672
+00:02:01,178 --> 00:02:01,262
+comme je le disais,
+
+673
+00:02:01,262 --> 00:02:01,384
+on a une coopération étroite,
+
+674
+00:02:01,384 --> 00:02:01,536
+je trouve que dans le sens,
+
+675
+00:02:01,536 --> 00:02:01,818
+ça fait du travail,
+
+676
+00:02:01,818 --> 00:02:02,312
+et, en fait, là, dans les retours,
+
+677
+00:02:02,312 --> 00:02:02,754
+là, on aura pour la mise en place concrète,
+
+678
+00:02:02,754 --> 00:02:02,890
+sur le financement,
+
+679
+00:02:02,890 --> 00:02:03,030
+le participant au financement,
+
+680
+00:02:03,030 --> 00:02:03,308
+c'est aussi une opportunité qui est très bien,
+
+681
+00:02:03,318 --> 00:02:03,458
+pour le CRT,
+
+682
+00:02:03,458 --> 00:02:03,616
+on ne s'en fait pas besoin.
+
+683
+00:02:03,616 --> 00:02:03,760
+Merci, ça.
+
+684
+00:02:03,760 --> 00:02:04,294
+Alors, je vais juste présenter les principes
+
+685
+00:02:04,294 --> 00:02:04,544
+et vous faire une démo.
+
+686
+00:02:04,544 --> 00:02:04,788
+Donc, le principe, c'est,
+
+687
+00:02:04,788 --> 00:02:04,964
+alors, on s'est simplifié,
+
+688
+00:02:04,964 --> 00:02:05,118
+mais on pourra, voilà,
+
+689
+00:02:05,118 --> 00:02:05,294
+faire un dispositif de ce type-là,
+
+690
+00:02:05,294 --> 00:02:05,530
+avec une condition de distance,
+
+691
+00:02:05,530 --> 00:02:05,602
+un access,
+
+692
+00:02:05,602 --> 00:02:05,696
+des nœuds,
+
+693
+00:02:05,696 --> 00:02:05,804
+possibilité,
+
+694
+00:02:05,804 --> 00:02:05,888
+ce que je disais,
+
+695
+00:02:05,888 --> 00:02:05,964
+c'est éventuellement,
+
+696
+00:02:05,974 --> 00:02:06,116
+s'il y a besoin de clusters,
+
+697
+00:02:06,116 --> 00:02:06,168
+qu'on a fait,
+
+698
+00:02:06,168 --> 00:02:06,214
+ou en disant,
+
+699
+00:02:06,214 --> 00:02:06,296
+les plus de clusters,
+
+700
+00:02:06,296 --> 00:02:06,374
+que ce soit start,
+
+701
+00:02:06,374 --> 00:02:06,494
+ou derrière,
+
+702
+00:02:06,494 --> 00:02:06,626
+on pourra les ajouter,
+
+703
+00:02:06,626 --> 00:02:06,714
+ou un itia,
+
+704
+00:02:06,714 --> 00:02:06,846
+ce qui est un travail,
+
+705
+00:02:06,846 --> 00:02:07,152
+on pourra l'ajouter au sein
+
+706
+00:02:07,152 --> 00:02:07,242
+d'une voie de carré,
+
+707
+00:02:07,242 --> 00:02:07,344
+qui est la vue de carré,
+
+708
+00:02:07,344 --> 00:02:07,420
+et après,
+
+709
+00:02:07,420 --> 00:02:07,540
+mais la possibilité aussi,
+
+710
+00:02:07,566 --> 00:02:07,614
+du fait,
+
+711
+00:02:07,614 --> 00:02:07,668
+c'est insensible,
+
+712
+00:02:07,668 --> 00:02:07,788
+d'avoir aussi un web pro-type,
+
+713
+00:02:07,788 --> 00:02:08,000
+qu'il soit un bit,
+
+714
+00:02:08,000 --> 00:02:08,200
+ça, ça va être vraiment
+
+715
+00:02:08,200 --> 00:02:08,338
+les règles de gestion,
+
+716
+00:02:08,338 --> 00:02:08,520
+les règles de management,
+
+717
+00:02:08,520 --> 00:02:08,632
+de la sécurité,
+
+718
+00:02:08,632 --> 00:02:08,954
+et du besoin du client,
+
+719
+00:02:08,954 --> 00:02:08,992
+en fait,
+
+720
+00:02:08,992 --> 00:02:09,068
+un utilisateur.
+
+721
+00:02:09,068 --> 00:02:09,300
+Donc, si c'est des plateformes,
+
+722
+00:02:09,300 --> 00:02:09,346
+par exemple,
+
+723
+00:02:09,346 --> 00:02:09,662
+c'est le genre de dispositif
+
+724
+00:02:09,662 --> 00:02:09,968
+auquel conforme un peu
+
+725
+00:02:09,968 --> 00:02:10,034
+à leurs attentes,
+
+726
+00:02:10,034 --> 00:02:10,120
+des échanges,
+
+727
+00:02:10,120 --> 00:02:10,188
+des plus échanges,
+
+728
+00:02:10,188 --> 00:02:10,294
+des plateformes.
+
+729
+00:02:10,424 --> 00:02:10,526
+Alors, quand je disais plateformes,
+
+730
+00:02:10,526 --> 00:02:10,622
+c'est Meta,
+
+731
+00:02:10,622 --> 00:02:10,772
+TikTok,
+
+732
+00:02:10,772 --> 00:02:10,878
+etc.
+
+733
+00:02:10,878 --> 00:02:11,252
+C'est ceux qui ont plus de 40 millions
+
+734
+00:02:11,252 --> 00:02:11,412
+d'utilisateurs en Europe.
+
+735
+00:02:11,412 --> 00:02:11,512
+Il y en a une quarantaine.
+
+736
+00:02:11,512 --> 00:02:11,702
+On n'a pas échangé avec les 40,
+
+737
+00:02:11,702 --> 00:02:11,818
+mais il y en a une quarantaine en Europe.
+
+738
+00:02:11,818 --> 00:02:12,022
+C'est un peu plus.
+
+739
+00:02:12,022 --> 00:02:12,224
+Tu veux faire en Europe ?
+
+740
+00:02:12,224 --> 00:02:12,538
+Alors,
+
+741
+00:02:12,538 --> 00:02:12,674
+sinon,
+
+742
+00:02:12,674 --> 00:02:12,882
+je peux vous faire,
+
+743
+00:02:12,882 --> 00:02:13,012
+je ne sais pas si vous voulez,
+
+744
+00:02:13,012 --> 00:02:13,084
+des mots,
+
+745
+00:02:13,084 --> 00:02:13,368
+ou un petit peu de mon téléphone.
+
+746
+00:02:13,396 --> 00:02:13,472
+double authentique.
+
+747
+00:02:13,472 --> 00:02:13,520
+Excellent.
+
+748
+00:02:13,520 --> 00:02:13,596
+Voilà.
+
+749
+00:02:13,596 --> 00:02:14,172
+Je vais faire un petit partage ici.
+
+750
+00:02:14,172 --> 00:02:14,386
+Je n'ai pas l'impression
+
+751
+00:02:14,386 --> 00:02:14,732
+que Louise est connectée.
+
+752
+00:02:14,732 --> 00:02:15,154
+Je ne sais pas si elle est connectée aux heures,
+
+753
+00:02:15,154 --> 00:02:15,188
+je pense.
+
+754
+00:02:15,188 --> 00:02:15,294
+Ah, c'est une zone,
+
+755
+00:02:15,294 --> 00:02:15,330
+j'ai envie.
+
+756
+00:02:15,330 --> 00:02:15,444
+Oui, c'est une zone.
+
+757
+00:02:15,444 --> 00:02:15,570
+C'est une zone.
+
+758
+00:02:15,570 --> 00:02:15,596
+C'est une zone.
+
+759
+00:02:15,596 --> 00:02:15,656
+C'est une zone.
+
+760
+00:02:15,656 --> 00:02:15,906
+Si elle a envoyé un mail,
+
+761
+00:02:15,906 --> 00:02:16,080
+j'ai un devoir pour dire
+
+762
+00:02:16,080 --> 00:02:16,178
+qu'elle était dispo.
+
+763
+00:02:16,262 --> 00:02:16,528
+Oui, parce que je vais me rejoindre.
+
+764
+00:02:16,528 --> 00:02:16,738
+Je n'ai pas encore ce lien.
+
+765
+00:02:16,738 --> 00:02:17,264
+Je vais essayer de me faire.
+
+766
+00:02:17,264 --> 00:02:17,320
+Oui.
+
+767
+00:02:17,320 --> 00:02:17,338
+Je vais essayer de me faire.
+
+768
+00:02:17,338 --> 00:02:17,338
+Oui.
+
+769
+00:02:17,338 --> 00:02:17,438
+Je vais essayer de me faire.
+
+770
+00:02:17,438 --> 00:02:17,538
+Oui.
+
+771
+00:02:17,538 --> 00:02:17,638
+Je vais essayer de me faire.
+
+772
+00:02:17,638 --> 00:02:17,638
+Oui.
+
+773
+00:02:17,638 --> 00:02:17,738
+Je vais essayer de me faire.
+
+774
+00:02:17,738 --> 00:02:17,738
+Oui.
+
+775
+00:02:17,738 --> 00:02:17,838
+Je vais essayer de me faire.
+
+776
+00:02:17,838 --> 00:02:17,938
+Oui.
+
+777
+00:02:17,938 --> 00:02:18,038
+Je vais essayer de me faire.
+
+778
+00:02:18,038 --> 00:02:18,138
+Oui.
+
+779
+00:02:18,138 --> 00:02:18,238
+Je vais essayer de me faire.
+
+780
+00:02:18,238 --> 00:02:18,338
+Oui.
+
+781
+00:02:18,338 --> 00:02:18,438
+Je vais essayer de me faire.
+
+782
+00:02:18,438 --> 00:02:18,538
+Je vais essayer de me faire.
+
+783
+00:02:18,538 --> 00:02:18,638
+Je vais essayer de me faire.
+
+784
+00:02:18,638 --> 00:02:18,714
+Je vais essayer de me faire.
+
+785
+00:02:18,714 --> 00:02:18,738
+Oui.
+
+786
+00:02:18,738 --> 00:02:18,900
+Je vais essayer de me faire.
+
+787
+00:02:18,900 --> 00:02:18,938
+Oui.
+
+788
+00:02:18,938 --> 00:02:19,626
+Il y a Louise Caron qui envoie un courriel.
+
+789
+00:02:19,626 --> 00:02:19,698
+Oui.
+
+790
+00:02:19,698 --> 00:02:19,738
+Oui.
+
+791
+00:02:19,738 --> 00:02:19,744
+Oui.
+
+792
+00:02:19,744 --> 00:02:19,754
+Oui.
+
+793
+00:02:19,754 --> 00:02:19,898
+Je l'envoie d'un jour.
+
+794
+00:02:19,898 --> 00:02:21,126
+Je suis perdu.
+
+795
+00:02:21,126 --> 00:02:21,310
+Je suis perdu.
+
+796
+00:02:21,310 --> 00:02:21,722
+Je suis perdu.
+
+797
+00:02:21,722 --> 00:02:22,322
+Je suis perdu.
+
+798
+00:02:22,322 --> 00:02:22,522
+Je suis perdu.
+
+799
+00:02:22,522 --> 00:02:22,622
+Je suis perdu.
+
+800
+00:02:22,622 --> 00:02:24,116
+Je suis perdu entre les écrans.
+
+801
+00:02:24,116 --> 00:02:24,204
+Pas entre les données.
+
+802
+00:02:24,204 --> 00:02:24,758
+Je ne sais pas par ce type de micro.
+
+803
+00:02:24,758 --> 00:02:24,798
+Voilà.
+
+804
+00:02:24,798 --> 00:02:24,898
+Je suis perdu.
+
+805
+00:02:24,898 --> 00:02:24,998
+Je suis perdu.
+
+806
+00:02:24,998 --> 00:02:25,198
+Je suis perdu.
+
+807
+00:02:25,198 --> 00:02:25,298
+Je suis perdu.
+
+808
+00:02:25,298 --> 00:02:25,398
+Je suis perdu.
+
+809
+00:02:25,398 --> 00:02:25,498
+Je suis perdu.
+
+810
+00:02:25,498 --> 00:02:25,498
+Je suis perdu.
+
+811
+00:02:25,498 --> 00:02:25,598
+Je suis perdu.
+
+812
+00:02:25,598 --> 00:02:25,698
+Je suis perdu.
+
+813
+00:02:25,698 --> 00:02:25,798
+Je suis perdu.
+
+814
+00:02:25,798 --> 00:02:25,898
+Je suis perdu.
+
+815
+00:02:25,898 --> 00:02:25,898
+Je suis perdu.
+
+816
+00:02:25,898 --> 00:02:25,998
+Je suis perdu.
+
+817
+00:02:25,998 --> 00:02:25,998
+Je suis perdu.
+
+818
+00:02:25,998 --> 00:02:26,098
+Je suis perdu.
+
+819
+00:02:26,098 --> 00:02:26,198
+Je suis perdu.
+
+820
+00:02:26,198 --> 00:02:26,298
+Je suis perdu.
+
+821
+00:02:26,298 --> 00:02:26,398
+Je suis perdu.
+
+822
+00:02:26,398 --> 00:02:26,498
+Je suis perdu.
+
+823
+00:02:26,498 --> 00:02:26,598
+Je suis perdu.
+
+824
+00:02:26,598 --> 00:02:26,698
+Je suis perdu.
+
+825
+00:02:26,698 --> 00:02:26,698
+Ah.
+
+826
+00:02:26,698 --> 00:02:26,798
+Bonjour.
+
+827
+00:02:26,798 --> 00:02:26,898
+Bonjour.
+
+828
+00:02:26,898 --> 00:02:26,998
+Bonjour.
+
+829
+00:02:26,998 --> 00:02:27,098
+Excellent.
+
+830
+00:02:27,098 --> 00:02:27,598
+Désolé du coup de ne pas avoir pu vous rejoindre finalement en présentiel aujourd'hui.
+
+831
+00:02:27,598 --> 00:02:28,098
+Vous l'entendez ?
+
+832
+00:02:28,098 --> 00:02:28,198
+Oui.
+
+833
+00:02:28,198 --> 00:02:28,298
+Ah oui.
+
+834
+00:02:28,298 --> 00:02:28,398
+D'accord.
+
+835
+00:02:28,398 --> 00:02:28,498
+Ok.
+
+836
+00:02:28,498 --> 00:02:28,998
+En tout cas, c'est bien que tu aies pu nous rejoindre en présentiel.
+
+837
+00:02:28,998 --> 00:02:29,098
+Je partage l'écran.
+
+838
+00:02:29,098 --> 00:02:29,298
+Est-ce que tu vois ?
+
+839
+00:02:29,298 --> 00:02:29,398
+Tout à fait.
+
+840
+00:02:29,398 --> 00:02:29,498
+D'accord.
+
+841
+00:02:29,498 --> 00:02:29,598
+Juste une précision.
+
+842
+00:02:29,598 --> 00:02:30,098
+Je ne sais pas si tu veux préciser l'Ars ou l'organisation.
+
+843
+00:02:30,098 --> 00:02:30,198
+Le tour de table.
+
+844
+00:02:30,198 --> 00:02:30,898
+On a décalé le tour de table pour cette après-dix pour que tu puisses, avec Stéphanie,
+
+845
+00:02:30,898 --> 00:02:31,298
+avoir le tour de table et tout le monde du CLV.
+
+846
+00:02:31,298 --> 00:02:31,698
+On a aussi commencé.
+
+847
+00:02:31,698 --> 00:02:31,798
+Donc, on est…
+
+848
+00:02:31,798 --> 00:02:31,998
+J'ai présenté le début d'infrastructure.
+
+849
+00:02:31,998 --> 00:02:32,298
+Dérim qui est là, tu arrives au moment de la démo.
+
+850
+00:02:32,298 --> 00:02:32,498
+Je ne sais pas si tu vois le partage.
+
+851
+00:02:32,498 --> 00:02:32,698
+Tu vois un fond d'écran.
+
+852
+00:02:32,698 --> 00:02:32,998
+Tu vois quelque chose de partager ou pas ?
+
+853
+00:02:32,998 --> 00:02:33,298
+Là, je vois seulement le bureau.
+
+854
+00:02:33,298 --> 00:02:33,398
+Je ne prends pas de PowerPoint.
+
+855
+00:02:33,398 --> 00:02:33,498
+D'accord.
+
+856
+00:02:33,498 --> 00:02:33,598
+Ok.
+
+857
+00:02:33,598 --> 00:02:33,698
+Ouais, c'est normal.
+
+858
+00:02:33,698 --> 00:02:33,798
+Alors, attends.
+
+859
+00:02:33,798 --> 00:02:33,898
+D'accord.
+
+860
+00:02:33,898 --> 00:02:33,998
+Ok.
+
+861
+00:02:33,998 --> 00:02:34,198
+Avec un très beau fond d'écran.
+
+862
+00:02:34,198 --> 00:02:34,298
+C'est la idée, mais…
+
+863
+00:02:34,298 --> 00:02:34,398
+Ouais.
+
+864
+00:02:34,398 --> 00:02:34,498
+C'est parfait.
+
+865
+00:02:34,498 --> 00:02:34,598
+Alors, non.
+
+866
+00:02:34,598 --> 00:02:34,698
+Voilà.
+
+867
+00:02:34,698 --> 00:02:34,798
+Normalement, c'est bon.
+
+868
+00:02:34,798 --> 00:02:34,898
+Ok.
+
+869
+00:02:34,898 --> 00:02:34,998
+On te voit.
+
+870
+00:02:34,998 --> 00:02:35,098
+Ok.
+
+871
+00:02:35,098 --> 00:02:35,298
+Donc, là, en fait, tu veux me connecter.
+
+872
+00:02:35,298 --> 00:02:35,598
+Il y a eu peur que tu te dis que tu ne peux pas.
+
+873
+00:02:35,598 --> 00:02:35,698
+Mon téléphone, on fait un mot de passe.
+
+874
+00:02:35,698 --> 00:02:35,798
+J'ai commencé à me connecter.
+
+875
+00:02:35,798 --> 00:02:35,898
+Mon passe.
+
+876
+00:02:35,898 --> 00:02:35,998
+Et là, je vais avoir un prompt.
+
+877
+00:02:35,998 --> 00:02:36,098
+Alors, c'est une démo.
+
+878
+00:02:36,098 --> 00:02:36,198
+Donc, tu vois, Lise, ton est évoqué.
+
+879
+00:02:36,198 --> 00:02:36,298
+Tu vois, Lise, ton est évoqué.
+
+880
+00:02:36,298 --> 00:02:36,398
+Ok.
+
+881
+00:02:36,398 --> 00:02:36,498
+Ok.
+
+882
+00:02:36,498 --> 00:02:36,598
+Ok.
+
+883
+00:02:36,598 --> 00:02:36,698
+On te voit.
+
+884
+00:02:36,698 --> 00:02:36,798
+Ok.
+
+885
+00:02:36,798 --> 00:02:36,898
+Donc, là, en fait, tu veux me connecter.
+
+886
+00:02:36,898 --> 00:02:36,998
+Ok.
+
+887
+00:02:36,998 --> 00:02:37,098
+Donc, là, en fait, tu veux me connecter.
+
+888
+00:02:37,098 --> 00:02:37,198
+Il y a eu peur que j'utilise mon téléphone.
+
+889
+00:02:37,198 --> 00:02:37,298
+Mon téléphone.
+
+890
+00:02:37,298 --> 00:02:37,398
+Donc, on fait un mot de passe.
+
+891
+00:02:37,398 --> 00:02:37,498
+J'ai commencé à me connecter.
+
+892
+00:02:37,498 --> 00:02:37,598
+Mon passe.
+
+893
+00:02:37,598 --> 00:02:37,698
+Et là, je vais avoir un prompt.
+
+894
+00:02:37,698 --> 00:02:37,798
+Alors, c'est une démo.
+
+895
+00:02:37,798 --> 00:02:37,898
+Donc, euh…
+
+896
+00:02:37,898 --> 00:02:38,598
+Tu vois, tu vois, Lise, on est toujours en partage.
+
+897
+00:02:38,598 --> 00:02:38,798
+Tu as toujours en partage, hein ?
+
+898
+00:02:38,798 --> 00:02:38,998
+Ouais, je vois tout le fait.
+
+899
+00:02:38,998 --> 00:02:39,098
+Voilà, je suis connecté.
+
+900
+00:02:39,098 --> 00:02:39,298
+Et là, donc, j'ai une double…
+
+901
+00:02:39,298 --> 00:02:39,398
+J'ai un OTP.
+
+902
+00:02:39,398 --> 00:02:39,698
+Donc, voilà, que j'ai sur mon téléphone.
+
+903
+00:02:39,698 --> 00:02:39,898
+Je vais le taper.
+
+904
+00:02:39,898 --> 00:02:40,198
+Je viens d'obtenir de mon téléphone.
+
+905
+00:02:40,198 --> 00:02:40,398
+Je fais entrer.
+
+906
+00:02:40,398 --> 00:02:40,498
+Je vais le faire.
+
+907
+00:02:40,498 --> 00:02:40,698
+Donc, là, c'est un accès distant.
+
+908
+00:02:40,698 --> 00:02:40,998
+Alors, la particularité, c'est qu'en fait,
+
+909
+00:02:40,998 --> 00:02:41,198
+les liens sont coupés par rapport aux autres paroles.
+
+910
+00:02:41,198 --> 00:02:41,498
+On ne peut pas faire de copier-colier, etc.
+
+911
+00:02:41,498 --> 00:02:41,598
+Comme c'est prévu.
+
+912
+00:02:41,598 --> 00:02:41,898
+Alors, suivant les demandes, enfin,
+
+913
+00:02:41,898 --> 00:02:42,098
+les producteurs de données,
+
+914
+00:02:42,098 --> 00:02:42,398
+on peut régler ces types de paramètres.
+
+915
+00:02:42,398 --> 00:02:42,598
+Donc, là, j'arrive sur un demi-exam.
+
+916
+00:02:42,598 --> 00:02:42,798
+En fait, on doit ralentir un ensemble des outils
+
+917
+00:02:42,798 --> 00:02:42,998
+s'il y a besoin de remonter.
+
+918
+00:02:42,998 --> 00:02:43,498
+Donc, là, je vais avoir un peu comme sur le CLV,
+
+919
+00:02:43,498 --> 00:02:43,898
+je vais avoir l'ensemble des outils à disposition.
+
+920
+00:02:43,898 --> 00:02:44,298
+Peut-être que je vais voir mieux d'ici.
+
+921
+00:02:44,298 --> 00:02:44,598
+Donc, qui me permettent d'avoir…
+
+922
+00:02:44,598 --> 00:02:45,098
+Je ne sais pas pourquoi j'ai toutes les questions enregistrées.
+
+923
+00:02:45,098 --> 00:02:45,498
+Donc, là, je vais retrouver par exemple,
+
+924
+00:02:45,498 --> 00:02:45,698
+quoi, tu les PS code ou…
+
+925
+00:02:45,698 --> 00:02:46,198
+PS code ou Jupiter, ou Notebook.
+
+926
+00:02:46,198 --> 00:02:46,798
+Non, je vais faire avec le partage, voilà.
+
+927
+00:02:46,798 --> 00:02:47,298
+Ici, voilà, c'est par exemple,
+
+928
+00:02:47,298 --> 00:02:47,398
+par exemple, le code de l'ODS.
+
+929
+00:02:47,398 --> 00:02:47,698
+Je vais pouvoir lancer Jupiter, Notebook,
+
+930
+00:02:47,698 --> 00:02:48,198
+suivant les types de logiciels que je veux utiliser.
+
+931
+00:02:48,198 --> 00:02:48,498
+Alors, comme je disais, c'est l'effet des mots.
+
+932
+00:02:48,498 --> 00:02:48,798
+Je vais parler sur le commentaire en vue.
+
+933
+00:02:48,798 --> 00:02:48,998
+Je vais trouver des options.
+
+934
+00:02:48,998 --> 00:02:49,098
+Je vais trouver des options.
+
+935
+00:02:49,098 --> 00:02:50,198
+Après, on retrouve un…
+
+936
+00:02:50,198 --> 00:02:50,598
+Donc, déjà, en principe, tu nous fais une démonstration
+
+937
+00:02:50,598 --> 00:02:50,798
+d'une réduction de la sécurité,
+
+938
+00:02:50,798 --> 00:02:51,098
+parce que tu es capable de partager l'écran avec quelqu'un d'autre.
+
+939
+00:02:51,098 --> 00:02:51,198
+Ouais.
+
+940
+00:02:51,198 --> 00:02:51,398
+On peut partager l'écran en direct.
+
+941
+00:02:51,398 --> 00:02:51,498
+Ouais, effectivement.
+
+942
+00:02:51,498 --> 00:02:51,798
+On peut partager en direct l'écran.
+
+943
+00:02:51,798 --> 00:02:52,098
+Et on a…
+
+944
+00:02:52,098 --> 00:02:52,398
+Voilà, enfin, les principes, c'est les mêmes.
+
+945
+00:02:52,398 --> 00:02:52,598
+Donc, on peut lancer des calculs.
+
+946
+00:02:52,598 --> 00:02:52,698
+C'est les mêmes.
+
+947
+00:02:52,698 --> 00:02:52,798
+Donc, on peut voir les données,
+
+948
+00:02:52,798 --> 00:02:52,998
+on peut lancer des calculs.
+
+949
+00:02:52,998 --> 00:02:53,298
+Et on peut se déconnecter,
+
+950
+00:02:53,298 --> 00:02:53,498
+on va revenir sur sa station,
+
+951
+00:02:53,498 --> 00:02:53,798
+sous sa texte.
+
+952
+00:02:53,798 --> 00:02:54,098
+Donc, on peut faire un copier clé.
+
+953
+00:02:54,098 --> 00:02:54,298
+Là, on peut pas faire un copier clé.
+
+954
+00:02:54,298 --> 00:02:54,498
+Là, on peut pas faire un copier clé.
+
+955
+00:02:54,498 --> 00:02:54,698
+Là, c'est ok.
+
+956
+00:02:54,698 --> 00:02:54,898
+On a la personnalité, on a partagé.
+
+957
+00:02:54,898 --> 00:02:55,198
+Ben, on a l'écran.
+
+958
+00:02:55,198 --> 00:02:55,298
+Un copier clé.
+
+959
+00:02:55,298 --> 00:02:55,398
+L'écran ?
+
+960
+00:02:55,398 --> 00:02:55,498
+Ah, il faut copier l'écran.
+
+961
+00:02:55,498 --> 00:02:55,598
+Oui, faire une capture.
+
+962
+00:02:55,598 --> 00:02:55,798
+Il faut faire une capture d'écran.
+
+963
+00:02:55,798 --> 00:02:55,898
+Moi, non, oui.
+
+964
+00:02:55,898 --> 00:02:56,098
+Alors, ça se bloque aussi.
+
+965
+00:02:56,098 --> 00:02:56,298
+Parce qu'on tourne en écrivant,
+
+966
+00:02:56,298 --> 00:02:56,398
+mais ça se bloque aussi.
+
+967
+00:02:56,398 --> 00:02:56,598
+On peut empêcher la capture d'écran.
+
+968
+00:02:56,598 --> 00:02:56,698
+Je sais pas si…
+
+969
+00:02:56,698 --> 00:02:56,898
+Là, on est au stade de…
+
+970
+00:02:56,898 --> 00:02:57,098
+Comme je le disais, c'est un peu de concept.
+
+971
+00:02:57,098 --> 00:02:57,198
+Donc…
+
+972
+00:02:57,198 --> 00:02:57,698
+Et là, la machine, le serveur, il est issu au BH.
+
+973
+00:02:57,698 --> 00:02:57,798
+Donc, je vais arrêter.
+
+974
+00:02:57,798 --> 00:02:57,898
+Alors, c'est peut-être le fait que…
+
+975
+00:02:57,898 --> 00:02:57,998
+C'est un montage en dedans.
+
+976
+00:02:57,998 --> 00:02:58,098
+Oui, c'est un montage.
+
+977
+00:02:58,098 --> 00:02:58,198
+Oui, c'est un montage.
+
+978
+00:02:58,198 --> 00:02:58,298
+Oui, c'est un montage.
+
+979
+00:02:58,298 --> 00:02:58,398
+C'est un montage.
+
+980
+00:02:58,398 --> 00:02:58,498
+Oui, c'est un montage.
+
+981
+00:02:58,498 --> 00:02:58,598
+Oui, c'est un montage.
+
+982
+00:02:58,598 --> 00:02:58,698
+C'est un montage.
+
+983
+00:02:58,698 --> 00:02:58,798
+Oui, c'est un montage.
+
+984
+00:02:58,798 --> 00:02:58,898
+Oui, c'est un montage.
+
+985
+00:02:58,898 --> 00:02:58,998
+Oui, c'est un montage.
+
+986
+00:02:58,998 --> 00:02:59,098
+Oui, c'est un montage.
+
+987
+00:02:59,098 --> 00:02:59,198
+D'habitude, c'est un montage.
+
+988
+00:02:59,198 --> 00:02:59,298
+C'est un montage.
+
+989
+00:02:59,298 --> 00:02:59,398
+Oui, c'est un montage.
+
+990
+00:02:59,398 --> 00:02:59,498
+Voilà, c'est un montage.
+
+991
+00:02:59,498 --> 00:02:59,998
+Et nous, en fait, en interne, on s'est aidés, on utilise ce qui est notre structure.
+
+992
+00:02:59,998 --> 00:03:00,098
+Pour travailler.
+
+993
+00:03:00,098 --> 00:03:00,398
+Enfin, on travaille sur ce site, on travaille sur notre structure, pour notre bureautique,
+
+994
+00:03:00,398 --> 00:03:00,598
+on parle pour notre structure.
+
+995
+00:03:00,598 --> 00:03:00,798
+Donc, ça marche pendant.
+
+996
+00:03:00,798 --> 00:03:00,898
+Très bien.
+
+997
+00:03:00,898 --> 00:03:00,998
+Voilà.
+
+998
+00:03:00,998 --> 00:03:01,098
+Donc, la démo.
+
+999
+00:03:01,098 --> 00:03:01,198
+Et j'arrête.
+
+1000
+00:03:01,198 --> 00:03:01,398
+J'arrête là.
+
+1001
+00:03:01,398 --> 00:03:01,498
+Donc, voilà.
+
+1002
+00:03:01,498 --> 00:03:01,898
+On a déjà eu pas mal de questions.
+
+1003
+00:03:01,898 --> 00:03:02,098
+Je vais enlever ça.
+
+1004
+00:03:02,098 --> 00:03:02,298
+Pour repasser sur la présentation.
+
+1005
+00:03:02,298 --> 00:03:02,398
+Oui, merci beaucoup.
+
+1006
+00:03:02,398 --> 00:03:02,498
+Désolée, du coup, ça fait du travail en plus.
+
+1007
+00:03:02,498 --> 00:03:02,598
+Ah non, pas de dire.
+
+1008
+00:03:02,598 --> 00:03:02,698
+Oui, c'est bien.
+
+1009
+00:03:02,698 --> 00:03:02,798
+Oui, c'est bien.
+
+1010
+00:03:02,798 --> 00:03:02,898
+Oui, c'est bien.
+
+1011
+00:03:02,898 --> 00:03:02,998
+Oui, c'est bien.
+
+1012
+00:03:02,998 --> 00:03:03,098
+Oui, c'est bien.
+
+1013
+00:03:03,098 --> 00:03:03,198
+Oui, c'est bien.
+
+1014
+00:03:03,198 --> 00:03:03,298
+Oui, c'est bien.
+
+1015
+00:03:03,298 --> 00:03:03,398
+Oui, c'est bien.
+
+1016
+00:03:03,398 --> 00:03:03,498
+Oui, c'est bien.
+
+1017
+00:03:03,498 --> 00:03:03,598
+Oui, c'est bien.
+
+1018
+00:03:03,598 --> 00:03:03,698
+Oui, c'est bien.
+
+1019
+00:03:03,698 --> 00:03:03,798
+Oui, c'est bien.
+
+1020
+00:03:03,798 --> 00:03:03,898
+Alors, hop, hop, hop.
+
+1021
+00:03:03,898 --> 00:03:03,998
+Voilà.
+
+1022
+00:03:03,998 --> 00:03:04,098
+Bon.
+
+1023
+00:03:04,098 --> 00:03:04,198
+Là, c'est la bonne.
+
+1024
+00:03:04,198 --> 00:03:04,398
+Alors, Louise, je vais repartager la présentation.
+
+1025
+00:03:04,398 --> 00:03:04,498
+Oui, merci beaucoup.
+
+1026
+00:03:04,498 --> 00:03:04,598
+Désolée, du coup, ça fait du travail en plus.
+
+1027
+00:03:04,598 --> 00:03:04,698
+Ah non, pas de dire.
+
+1028
+00:03:04,698 --> 00:03:04,798
+Non, pas de dire.
+
+1029
+00:03:04,798 --> 00:03:04,898
+Ah non.
+
+1030
+00:03:04,898 --> 00:03:04,998
+Parfait.
+
+1031
+00:03:04,998 --> 00:03:05,098
+Je vois tout.
+
+1032
+00:03:05,098 --> 00:03:05,198
+Ok, super.
+
+1033
+00:03:05,198 --> 00:03:05,298
+Je vais repartager.
+
+1034
+00:03:05,298 --> 00:03:05,398
+Ah non, pas du tout.
+
+1035
+00:03:05,398 --> 00:03:05,498
+Ah non.
+
+1036
+00:03:05,498 --> 00:03:05,598
+Pas du tout.
+
+1037
+00:03:05,598 --> 00:03:05,698
+Ah non.
+
+1038
+00:03:05,698 --> 00:03:05,798
+Parfait.
+
+1039
+00:03:05,798 --> 00:03:05,898
+Je vois tout.
+
+1040
+00:03:05,898 --> 00:03:05,998
+Ok, super.
+
+1041
+00:03:05,998 --> 00:03:06,098
+Ah non, je laisse ça.
+
+1042
+00:03:06,098 --> 00:03:06,198
+Et je le disais.
+
+1043
+00:03:06,198 --> 00:03:06,298
+Ah non.
+
+1044
+00:03:06,298 --> 00:03:06,498
+Comme je le disais, là, on est au stade de pilote.
+
+1045
+00:03:06,498 --> 00:03:06,598
+Avec une architecture assez proche de la cible.
+
+1046
+00:03:06,598 --> 00:03:06,698
+Ah, il y a des petites subtils.
+
+1047
+00:03:06,698 --> 00:03:06,798
+Je ne vais pas rentrer dans les détails.
+
+1048
+00:03:06,798 --> 00:03:06,898
+On teste l' ergonomie, l'utilisation.
+
+1049
+00:03:06,898 --> 00:03:06,998
+Il y a aussi comment répartir la charge.
+
+1050
+00:03:06,998 --> 00:03:07,098
+Il y a des aspects qui sont en train de être testés.
+
+1051
+00:03:07,098 --> 00:03:07,198
+Et aussi, alors l'avantage, c'est que pour le traitement des centres des sorties,
+
+1052
+00:03:07,198 --> 00:03:07,298
+on va pouvoir réutiliser aussi, assurer la trace d'une petite sortie.
+
+1053
+00:03:07,298 --> 00:03:07,398
+Donc, on va pouvoir réutiliser aussi, assurer la trace d'une petite sortie.
+
+1054
+00:03:07,398 --> 00:03:07,498
+Donc, on va pouvoir réutiliser aussi, assurer la trace d'une petite sortie.
+
+1055
+00:03:07,498 --> 00:03:07,598
+Donc, on va pouvoir réutiliser aussi, assurer la trace d'une petite sortie.
+
+1056
+00:03:07,598 --> 00:03:07,698
+Donc, on va pouvoir réutiliser aussi, assurer la trace d'une petite sortie.
+
+1057
+00:03:07,698 --> 00:03:08,198
+Donc, on va pouvoir réutiliser les développements qu'on a fait au sein du CASD.
+
+1058
+00:03:08,198 --> 00:03:08,698
+Donc, on va pouvoir réutiliser aussi, assurer la trace d'une petite sortie.
+
+1059
+00:03:08,698 --> 00:03:08,998
+Donc, on va pouvoir réutiliser aussi, assurer la trace d'une petite sortie.
+
+1060
+00:03:08,998 --> 00:03:09,098
+Alors, il y a des petites subtils.
+
+1061
+00:03:09,098 --> 00:03:09,198
+Alors, il y a des petites subtils.
+
+1062
+00:03:09,198 --> 00:03:09,498
+Si je ne vais pas rentrer dans les détails, on teste l' ergonomie, l'utilisation.
+
+1063
+00:03:09,498 --> 00:03:09,798
+Il y a aussi, comment répartir la charge.
+
+1064
+00:03:09,798 --> 00:03:09,998
+Il y a aussi, comment répartir la charge.
+
+1065
+00:03:09,998 --> 00:03:10,198
+Il y a des aspects qui sont en train de être testés.
+
+1066
+00:03:10,198 --> 00:03:10,498
+Et aussi, alors l'avantage, c'est que pour le traitement des entrées sorties,
+
+1067
+00:03:10,498 --> 00:03:10,698
+de l'utilisation du CASD,
+
+1068
+00:03:10,698 --> 00:03:11,098
+avec des curseurs réglables.
+
+1069
+00:03:11,098 --> 00:03:11,398
+L'idée, c'est de pouvoir quand même transposer pas mal,
+
+1070
+00:03:11,398 --> 00:03:11,998
+réutiliser pas mal d'investissements qui ont été faits en cas de sécurité pour un usage
+
+1071
+00:03:11,998 --> 00:03:12,198
+un peu relâché quand même.
+
+1072
+00:03:12,198 --> 00:03:12,398
+Pas aussi strict que celui du CASD.
+
+1073
+00:03:12,398 --> 00:03:13,098
+Mais, donc, l'application directe qu'on voit, c'est effectivement,
+
+1074
+00:03:13,098 --> 00:03:13,298
+répondre à la demande de leurs bénéficiaires.
+
+1075
+00:03:13,298 --> 00:03:13,698
+Et aussi, répondre à la demande des plateformes.
+
+1076
+00:03:13,698 --> 00:03:14,098
+Alors, je pense qu'il y a un angle crucial à ce que la demande des plateformes,
+
+1077
+00:03:14,098 --> 00:03:14,498
+un peu politique entre guillemets.
+
+1078
+00:03:14,498 --> 00:03:15,098
+il y a quand même une demande forte de la commission d'avoir un tiers indépendant
+
+1079
+00:03:15,098 --> 00:03:15,298
+qui fournisse ce service.
+
+1080
+00:03:15,298 --> 00:03:15,898
+que ce soit pas des plateformes systématiquement qui fournissent le service.
+
+1081
+00:03:15,898 --> 00:03:16,498
+Et ça, pourquoi ? Parce que des fois, les chercheurs sont pas complètement à l'aise.
+
+1082
+00:03:16,498 --> 00:03:16,898
+On peut travailler sur les environnements des plateformes.
+
+1083
+00:03:16,898 --> 00:03:17,298
+on peut faire quand même une régulation avec un tiers.
+
+1084
+00:03:17,298 --> 00:03:17,598
+Voilà, on peut les prendre des trucs qui sont montés.
+
+1085
+00:03:17,598 --> 00:03:18,698
+Donc c'est pour ça que là, en fondissant ça, derrière, on peut pouvoir permettre des traitements sur des données, des réseaux sociaux.
+
+1086
+00:03:18,698 --> 00:03:19,698
+Alors, côté plateformes aussi, c'est aussi leur intérêt de passer par un tiers parce qu'elles sont très incriminées.
+
+1087
+00:03:19,698 --> 00:03:19,898
+On les suspecte de beaucoup de choses.
+
+1088
+00:03:19,898 --> 00:03:20,498
+Donc le fait de passer par un tiers, ça les décharge aussi de pas mal de choses.
+
+1089
+00:03:20,498 --> 00:03:20,698
+Voilà, donc je sais pas si vous avez...
+
+1090
+00:03:20,698 --> 00:03:21,098
+Juste une question sur cette histoire des plateformes.
+
+1091
+00:03:21,098 --> 00:03:21,598
+Est-ce qu'il y a eu des contacts récents de leur part aussi ?
+
+1092
+00:03:21,598 --> 00:03:21,898
+Est-ce que tu sais, si elles sont toujours partants,
+
+1093
+00:03:21,898 --> 00:03:22,098
+celles avec qui...
+
+1094
+00:03:22,098 --> 00:03:22,698
+Enfin, les contacts avec qui établis, au-delà de la demande de la commission de ma vie ?
+
+1095
+00:03:22,698 --> 00:03:23,298
+D'accord. Alors, là, Agnès, on a travaillé en tout sur trois projets avec Meta.
+
+1096
+00:03:23,298 --> 00:03:23,898
+Donc, on a un projet avec Meta pour l'accès à des données confidentielles de Meta.
+
+1097
+00:03:23,898 --> 00:03:24,098
+Donc ça, c'est en cours.
+
+1098
+00:03:24,098 --> 00:03:24,798
+C'est des projets avec des données détaillées, des plateformes sur les données de Instagram.
+
+1099
+00:03:24,798 --> 00:03:25,398
+C'est des données de recherche qui démarrent parce qu'il fallait qu'ils collectent aussi des données de leur côté, etc.
+
+1100
+00:03:25,398 --> 00:03:25,598
+Ça, c'est en cours. C'est un des projets.
+
+1101
+00:03:25,598 --> 00:03:25,998
+Et on a aussi un nouveau projet avec Meta aussi en cours
+
+1102
+00:03:25,998 --> 00:03:26,198
+qui est sur l'accès des API.
+
+1103
+00:03:26,198 --> 00:03:26,598
+Comme je le disais, il y a deux ans et demi, on leur avait dit que nous, on n'entend pas ce service.
+
+1104
+00:03:26,598 --> 00:03:26,898
+Donc, en fait, ils vont aussi développer techniquement.
+
+1105
+00:03:26,898 --> 00:03:27,398
+Et on collabore avec eux pour les accompagner et évaluer.
+
+1106
+00:03:27,398 --> 00:03:27,598
+C'est un gros projet avec eux.
+
+1107
+00:03:27,598 --> 00:03:28,398
+C'est un très gros contrat pour faire des évaluations de projets et des entrées sorties.
+
+1108
+00:03:28,398 --> 00:03:28,998
+Et là, on avait un élément juste à travers, je pensais souvent, on a l'air à l'élément avec Meta.
+
+1109
+00:03:28,998 --> 00:03:29,298
+Hier soir encore, on est vraiment une fois par semaine, une fois par semaine.
+
+1110
+00:03:29,298 --> 00:03:29,498
+On a été un projet assez intensif.
+
+1111
+00:03:29,498 --> 00:03:30,398
+Et il est convenu avec eux qu'on puisse bloquer notre API sur notre dispositif.
+
+1112
+00:03:30,398 --> 00:03:30,698
+Ça, c'est eux qui nous l'avaient en plus.
+
+1113
+00:03:30,698 --> 00:03:30,898
+C'est eux qui nous l'avaient demandé.
+
+1114
+00:03:30,898 --> 00:03:31,298
+Donc, ils nous avaient demandé à l'automne.
+
+1115
+00:03:31,298 --> 00:03:31,598
+Donc, c'est un sujet.
+
+1116
+00:03:31,598 --> 00:03:32,098
+Sur les autres, on a indirectement des échanges via la commission.
+
+1117
+00:03:32,098 --> 00:03:32,398
+Mais en fait, c'est en train de se mettre en place.
+
+1118
+00:03:32,398 --> 00:03:32,498
+C'est la commission qui donne le là.
+
+1119
+00:03:32,498 --> 00:03:32,998
+Et la commission, il nous demande juste d'éviter le décret du décret.
+
+1120
+00:03:32,998 --> 00:03:33,298
+Et ils sont en train de mettre en place cette proposition.
+
+1121
+00:03:33,298 --> 00:03:33,598
+Mais il n'y a pas eu encore beaucoup d'accès.
+
+1122
+00:03:33,598 --> 00:03:33,898
+En fait, il y a eu un premier pilote qui demande d'accès.
+
+1123
+00:03:33,898 --> 00:03:34,198
+Et là, on est en train de mettre sur l'implémentation.
+
+1124
+00:03:34,198 --> 00:03:34,498
+D'ici la fin d'année, on peut avoir un début d'implémentation.
+
+1125
+00:03:34,498 --> 00:03:34,998
+Il me semble qu'il y a un ou deux ans,
+
+1126
+00:03:34,998 --> 00:03:35,198
+on aurait pu répondre à la rencontre.
+
+1127
+00:03:35,198 --> 00:03:35,698
+On avait parlé, je pense que c'est Muriel qui avait soulevé le point,
+
+1128
+00:03:35,698 --> 00:03:35,998
+des données moins sensibles provenant des chercheurs
+
+1129
+00:03:35,998 --> 00:03:36,198
+qui n'ont pas d'endroit pour regarder.
+
+1130
+00:03:36,198 --> 00:03:36,298
+Est-ce qu'il y a...
+
+1131
+00:03:36,298 --> 00:03:36,598
+Ça, ce que tu l'as, ça va faire plaisir à Roxane.
+
+1132
+00:03:36,598 --> 00:03:36,798
+Je ne sais pas si c'est un petit peu le succès.
+
+1133
+00:03:36,798 --> 00:03:37,098
+Est-ce que cette plateforme-là, en principe,
+
+1134
+00:03:37,098 --> 00:03:37,398
+peut servir aussi à des chercheurs universitaires, etc.,
+
+1135
+00:03:37,398 --> 00:03:37,598
+qui mènent une enquête K-PAR,
+
+1136
+00:03:37,598 --> 00:03:37,798
+qui ne peuvent pas simplement mettre sur un dispositif K-PAR,
+
+1137
+00:03:37,798 --> 00:03:38,198
+mais ici, ça donnerait du but légère, justement,
+
+1138
+00:03:38,198 --> 00:03:38,498
+pour accéder aux données en tant que chercheur.
+
+1139
+00:03:38,498 --> 00:03:38,698
+C'est une excellente suggestion.
+
+1140
+00:03:38,698 --> 00:03:38,898
+C'est une bonne remarque.
+
+1141
+00:03:38,898 --> 00:03:39,098
+Parce qu'effectivement, Muriel en a parlé,
+
+1142
+00:03:39,098 --> 00:03:39,298
+on est plus loin avec Muriel.
+
+1143
+00:03:39,298 --> 00:03:39,498
+C'est qu'avec Muriel,
+
+1144
+00:03:39,498 --> 00:03:39,598
+en France, en France,
+
+1145
+00:03:39,598 --> 00:03:39,798
+on crée dans le DLSI, etc.,
+
+1146
+00:03:39,798 --> 00:03:39,898
+etc.,
+
+1147
+00:03:39,898 --> 00:03:40,098
+Muriel Roger,
+
+1148
+00:03:40,098 --> 00:03:40,298
+elle est un peu bien parmi les médias,
+
+1149
+00:03:40,298 --> 00:03:40,498
+c'est un peu bien.
+
+1150
+00:03:40,498 --> 00:03:40,698
+Elle...
+
+1151
+00:03:40,698 --> 00:03:41,098
+quand on a eu des échanges avec l'université,
+
+1152
+00:03:41,098 --> 00:03:41,298
+c'est parmi Saint-Dôme,
+
+1153
+00:03:41,298 --> 00:03:41,498
+c'est parmi Saint-Dôme,
+
+1154
+00:03:41,498 --> 00:03:41,698
+j'ai du mal avec les noms,
+
+1155
+00:03:41,698 --> 00:03:41,898
+on a assez à changer, mais...
+
+1156
+00:03:41,898 --> 00:03:42,498
+Effectivement, ils veulent sécuriser les données des chercheurs,
+
+1157
+00:03:42,498 --> 00:03:42,798
+et ils nous ont demandé, effectivement,
+
+1158
+00:03:42,798 --> 00:03:42,898
+de leur faire une proposition,
+
+1159
+00:03:42,898 --> 00:03:43,098
+en fait.
+
+1160
+00:03:43,098 --> 00:03:43,298
+On dirait plus cet après-midi,
+
+1161
+00:03:43,298 --> 00:03:43,498
+mais pour qu'en fait, effectivement,
+
+1162
+00:03:43,498 --> 00:03:43,698
+les données collectées par les chercheurs,
+
+1163
+00:03:43,698 --> 00:03:43,898
+ou récupérées par les chercheurs,
+
+1164
+00:03:43,898 --> 00:03:44,098
+les collectifs récupèrent directement des fichiers de données,
+
+1165
+00:03:44,098 --> 00:03:44,498
+qu'ils puissent les stocker dans un moment sécurisé,
+
+1166
+00:03:44,498 --> 00:03:44,898
+qu'ils ne soient pas vulnérables à des attaques comme il y en a,
+
+1167
+00:03:44,898 --> 00:03:44,998
+pour le savoir,
+
+1168
+00:03:44,998 --> 00:03:45,198
+fréquemment.
+
+1169
+00:03:45,198 --> 00:03:45,698
+Parce qu'ils ont quand même un système d'information dans les universités,
+
+1170
+00:03:45,698 --> 00:03:45,898
+ça c'est quasiment une université,
+
+1171
+00:03:45,898 --> 00:03:45,998
+qui est assez ouverte,
+
+1172
+00:03:45,998 --> 00:03:46,098
+parce qu'il y a des étudiants,
+
+1173
+00:03:46,098 --> 00:03:46,298
+parce qu'il y a des chercheurs qui passent, etc.,
+
+1174
+00:03:46,298 --> 00:03:46,498
+et qui est compliqué,
+
+1175
+00:03:46,498 --> 00:03:46,698
+et très complexe à sécuriser,
+
+1176
+00:03:46,698 --> 00:03:47,098
+donc ils veulent pouvoir isoler la partie des données,
+
+1177
+00:03:47,098 --> 00:03:47,298
+et essayer comme ça,
+
+1178
+00:03:47,298 --> 00:03:47,498
+pour pouvoir les collecter,
+
+1179
+00:03:47,498 --> 00:03:47,698
+et les mettre dans des bulls et croyants.
+
+1180
+00:03:47,698 --> 00:03:47,898
+Sauf que, quand on se raccoulait,
+
+1181
+00:03:47,898 --> 00:03:48,198
+on n'avait pas encore travaillé sur cette ordre,
+
+1182
+00:03:48,198 --> 00:03:48,398
+puisque c'était en septembre,
+
+1183
+00:03:48,398 --> 00:03:48,598
+on n'avait pas proposé.
+
+1184
+00:03:48,598 --> 00:03:48,698
+Effectivement.
+
+1185
+00:03:48,698 --> 00:03:48,798
+Si elle avait été là,
+
+1186
+00:03:48,798 --> 00:03:48,998
+je pense qu'elle aurait sorti aussi...
+
+1187
+00:03:48,998 --> 00:03:49,198
+Dans la description telle qu'elle,
+
+1188
+00:03:49,198 --> 00:03:49,398
+ça rassemble drôlement au système
+
+1189
+00:03:49,398 --> 00:03:49,498
+que par exemple,
+
+1190
+00:03:49,498 --> 00:03:49,698
+la ICPSR aux Etats-Unis met à disposition
+
+1191
+00:03:49,698 --> 00:03:49,898
+pour accélérer à des données
+
+1192
+00:03:49,898 --> 00:03:50,098
+dans ces archives à eux,
+
+1193
+00:03:50,098 --> 00:03:50,398
+qui demandent une sécurité minimale,
+
+1194
+00:03:50,398 --> 00:03:50,698
+ils mettent à disposition quelque chose.
+
+1195
+00:03:50,698 --> 00:03:50,898
+Et moi-même, j'en ai profité pour,
+
+1196
+00:03:50,898 --> 00:03:50,998
+dans le cadre de l'application,
+
+1197
+00:03:50,998 --> 00:03:51,198
+d'accéder à des données de "meta",
+
+1198
+00:03:51,198 --> 00:03:51,498
+mais dans les contextes d'archives sociales aux Etats-Unis.
+
+1199
+00:03:51,498 --> 00:03:51,698
+Donc, expansible.
+
+1200
+00:03:51,698 --> 00:03:51,898
+Exactement les mêmes paramètres qu'ici,
+
+1201
+00:03:51,898 --> 00:03:52,098
+à part que la technologie précise,
+
+1202
+00:03:52,098 --> 00:03:52,298
+les outils qui sont là.
+
+1203
+00:03:52,298 --> 00:03:52,698
+mais là, c'est des données amenées par d'autres,
+
+1204
+00:03:52,698 --> 00:03:52,898
+chercheurs ou autres,
+
+1205
+00:03:52,898 --> 00:03:53,098
+dans un contexte.
+
+1206
+00:03:53,098 --> 00:03:53,498
+C'est une université de Michigan,
+
+1207
+00:03:53,498 --> 00:03:53,698
+on les connaît bien, c'est SOMA.
+
+1208
+00:03:53,698 --> 00:03:53,898
+J'ai discuté avec Lévié,
+
+1209
+00:03:53,898 --> 00:03:53,998
+l'AMP, je crois,
+
+1210
+00:03:53,998 --> 00:03:54,298
+c'est tout à fait comparable.
+
+1211
+00:03:54,298 --> 00:03:54,398
+Et eux, effectivement,
+
+1212
+00:03:54,398 --> 00:03:54,598
+ils sont très grosses,
+
+1213
+00:03:54,598 --> 00:03:54,698
+c'est très gros,
+
+1214
+00:03:54,698 --> 00:03:54,798
+c'est bien sûr.
+
+1215
+00:03:54,798 --> 00:03:54,898
+Et puis, il y a ça.
+
+1216
+00:03:54,898 --> 00:03:55,198
+Effectivement, ce que tu as suggéré,
+
+1217
+00:03:55,198 --> 00:03:55,398
+ressemblerait à ça.
+
+1218
+00:03:55,398 --> 00:03:55,598
+Mais tu vois, dans les exemples que j'ai donnés,
+
+1219
+00:03:55,598 --> 00:03:55,698
+les deux que j'ai donnés,
+
+1220
+00:03:55,698 --> 00:03:55,798
+j'ai pas cité celui-là,
+
+1221
+00:03:55,798 --> 00:03:55,898
+mais ça pourrait être,
+
+1222
+00:03:55,898 --> 00:03:55,998
+ça pourrait être,
+
+1223
+00:03:55,998 --> 00:03:56,198
+ça pourrait répondre aux besoins.
+
+1224
+00:03:56,198 --> 00:03:56,498
+Et je pense que ça pourrait être intéressant
+
+1225
+00:03:56,498 --> 00:03:56,998
+de développer cette idée.
+
+1226
+00:03:56,998 --> 00:03:57,098
+Je ne crois pas,
+
+1227
+00:03:57,098 --> 00:03:57,298
+il y a quand même une convention ici.
+
+1228
+00:03:57,298 --> 00:03:57,498
+On va s'apporter en disant
+
+1229
+00:03:57,498 --> 00:03:57,598
+des séminaires à ces universités,
+
+1230
+00:03:57,598 --> 00:03:57,698
+en fait,
+
+1231
+00:03:57,698 --> 00:03:57,798
+il y a une pression maintenant très forte,
+
+1232
+00:03:57,798 --> 00:03:57,998
+à devoir mettre, en fait,
+
+1233
+00:03:57,998 --> 00:03:58,198
+une séculité
+
+1234
+00:03:58,198 --> 00:03:58,398
+et les universités n'ont pas la capacité.
+
+1235
+00:03:58,398 --> 00:03:58,598
+On peut le faire.
+
+1236
+00:03:58,598 --> 00:03:58,698
+Les séminaires,
+
+1237
+00:03:58,698 --> 00:03:58,798
+je suis posée par quelque chose,
+
+1238
+00:03:58,798 --> 00:03:58,998
+mais on ne va pas trop,
+
+1239
+00:03:58,998 --> 00:03:59,098
+pour l'instant.
+
+1240
+00:03:59,098 --> 00:03:59,198
+Et donc, en fait,
+
+1241
+00:03:59,198 --> 00:03:59,298
+il y a cette pression très forte
+
+1242
+00:03:59,298 --> 00:03:59,598
+qui est un peu innovant, effectivement.
+
+1243
+00:03:59,598 --> 00:03:59,898
+Il y a une question,
+
+1244
+00:03:59,898 --> 00:04:00,098
+il ne faut pas évoquer,
+
+1245
+00:04:00,098 --> 00:04:00,298
+qui est la question de l'administration
+
+1246
+00:04:00,298 --> 00:04:00,498
+de ce genre de...
+
+1247
+00:04:00,498 --> 00:04:00,698
+de ce genre de...
+
+1248
+00:04:00,698 --> 00:04:00,898
+Il y a une question de définition
+
+1249
+00:04:00,898 --> 00:04:01,098
+de ce genre de sociétés,
+
+1250
+00:04:01,098 --> 00:04:01,298
+qui est le web procédé,
+
+1251
+00:04:01,298 --> 00:04:01,498
+les amis qui n'ont pas accédé,
+
+1252
+00:04:01,498 --> 00:04:01,898
+les ressources, etc.
+
+1253
+00:04:01,898 --> 00:04:02,098
+mais ça,
+
+1254
+00:04:02,098 --> 00:04:02,298
+pour le modèle de l'université,
+
+1255
+00:04:02,298 --> 00:04:02,698
+c'est un service que vous voulez rendre aux universités,
+
+1256
+00:04:02,698 --> 00:04:02,898
+ou est-ce que c'est une autre logiciel
+
+1257
+00:04:02,898 --> 00:04:03,298
+qui serait confié au DSI de l'université,
+
+1258
+00:04:03,298 --> 00:04:03,598
+qui aurait accès aussi à l'administration du système
+
+1259
+00:04:03,598 --> 00:04:03,898
+pour leur utilisation...
+
+1260
+00:04:03,898 --> 00:04:04,198
+Parce que ce n'est pas du tout le modèle économique, hein.
+
+1261
+00:04:04,198 --> 00:04:04,598
+Si je veux faire l'administration du système,
+
+1262
+00:04:04,598 --> 00:04:04,798
+c'est pas des chercheurs,
+
+1263
+00:04:04,798 --> 00:04:04,998
+c'est pas un travail malade, hein.
+
+1264
+00:04:04,998 --> 00:04:05,198
+Parce que...
+
+1265
+00:04:05,198 --> 00:04:05,398
+Non, mais il y aura des demandes,
+
+1266
+00:04:05,398 --> 00:04:05,598
+si je prends une université de taille,
+
+1267
+00:04:05,598 --> 00:04:05,798
+de taille de la donne-à-dire,
+
+1268
+00:04:05,798 --> 00:04:06,198
+s'il y a une exigence que les données soient nécessaires à sécuriser,
+
+1269
+00:04:06,198 --> 00:04:06,498
+il y aura un chercheur des quotidiens, hein,
+
+1270
+00:04:06,498 --> 00:04:06,598
+qui vont demander des accès,
+
+1271
+00:04:06,598 --> 00:04:06,798
+des accepteurs d'étudiants,
+
+1272
+00:04:06,798 --> 00:04:06,998
+il y aura des réclames,
+
+1273
+00:04:06,998 --> 00:04:07,198
+des réclamations pour avoir un accès sur le pays,
+
+1274
+00:04:07,198 --> 00:04:07,398
+il faudra s'en tirer,
+
+1275
+00:04:07,398 --> 00:04:07,498
+il faudra s'en tirer,
+
+1276
+00:04:07,498 --> 00:04:07,598
+il faudra s'en tirer,
+
+1277
+00:04:07,598 --> 00:04:07,998
+tout ça, c'est un très bon boulot,
+
+1278
+00:04:07,998 --> 00:04:08,198
+qui ne faut pas de facturer,
+
+1279
+00:04:08,198 --> 00:04:08,598
+qui ne faut pas évaluer au-delà de la question de la source.
+
+1280
+00:04:08,598 --> 00:04:08,798
+Oui, ça, mais...
+
+1281
+00:04:08,798 --> 00:04:08,898
+Ça me paraît important.
+
+1282
+00:04:08,898 --> 00:04:08,998
+Je veux dire,
+
+1283
+00:04:08,998 --> 00:04:09,198
+la façon dont moi je l'observe,
+
+1284
+00:04:09,198 --> 00:04:09,398
+l'exemple du ICPSR,
+
+1285
+00:04:09,398 --> 00:04:09,798
+c'est pas le système universel,
+
+1286
+00:04:09,798 --> 00:04:09,998
+que l'utilise une AC.
+
+1287
+00:04:09,998 --> 00:04:10,198
+qui sont même à utiliser pour les données,
+
+1288
+00:04:10,198 --> 00:04:10,298
+on va dire,
+
+1289
+00:04:10,298 --> 00:04:10,398
+archivées dans une archive d'université,
+
+1290
+00:04:10,398 --> 00:04:10,498
+ou pour les autres,
+
+1291
+00:04:10,498 --> 00:04:10,598
+ou ceux du genre,
+
+1292
+00:04:10,598 --> 00:04:10,898
+qui ont déjà des méthodes d'accès définies,
+
+1293
+00:04:10,898 --> 00:04:11,098
+et uniquement pour ces données-là,
+
+1294
+00:04:11,098 --> 00:04:11,198
+pas généralisées.
+
+1295
+00:04:11,198 --> 00:04:11,398
+Donc, c'est pas 30 000 étudiants,
+
+1296
+00:04:11,398 --> 00:04:11,598
+c'est les 300 chercheurs
+
+1297
+00:04:11,598 --> 00:04:11,798
+qui veulent accéder à différentes données
+
+1298
+00:04:11,798 --> 00:04:11,898
+qui sont réglementées,
+
+1299
+00:04:11,898 --> 00:04:12,198
+mais le reste,
+
+1300
+00:04:12,198 --> 00:04:12,398
+ça c'est tout un autre enjeu,
+
+1301
+00:04:12,398 --> 00:04:12,598
+qu'il peut être l'université de l'EFA,
+
+1302
+00:04:12,598 --> 00:04:12,798
+mais ici, on parlerait plutôt de greffer
+
+1303
+00:04:12,798 --> 00:04:12,998
+qui fait de la puissance de calcul
+
+1304
+00:04:12,998 --> 00:04:13,098
+à un archive de données
+
+1305
+00:04:13,098 --> 00:04:13,298
+qui a déjà des règles définies d'accès,
+
+1306
+00:04:13,298 --> 00:04:13,498
+mais qui doit à chaque fois vérifier
+
+1307
+00:04:13,498 --> 00:04:13,698
+est-ce que le récipiendaire
+
+1308
+00:04:13,698 --> 00:04:13,898
+de ces données-là satisfait ces règles-là,
+
+1309
+00:04:13,898 --> 00:04:13,998
+voilà ces règles-là,
+
+1310
+00:04:13,998 --> 00:04:14,198
+parce que c'est le système qui le fournit.
+
+1311
+00:04:14,198 --> 00:04:14,398
+Donc, moi, mon expérience personnelle
+
+1312
+00:04:14,398 --> 00:04:14,498
+sur ces questions,
+
+1313
+00:04:14,498 --> 00:04:14,698
+c'est que, comme dans toutes les vidéos,
+
+1314
+00:04:14,698 --> 00:04:14,798
+si on a un DPO,
+
+1315
+00:04:14,798 --> 00:04:14,998
+dès qu'on parle avec le DPO,
+
+1316
+00:04:14,998 --> 00:04:15,098
+on ne l'a pas fait,
+
+1317
+00:04:15,098 --> 00:04:15,198
+on se dit :
+
+1318
+00:04:15,198 --> 00:04:15,298
+"ça va pas,
+
+1319
+00:04:15,298 --> 00:04:15,498
+que ce soit sécurisé,
+
+1320
+00:04:15,498 --> 00:04:15,698
+que ce soit ceci, ceci, cela."
+
+1321
+00:04:15,698 --> 00:04:15,798
+Ce à quoi on répond ?
+
+1322
+00:04:15,798 --> 00:04:15,998
+Si on n'a pas de solution,
+
+1323
+00:04:15,998 --> 00:04:16,198
+donc, et puis en plus,
+
+1324
+00:04:16,198 --> 00:04:16,398
+ces données-là sont pas si sensibles,
+
+1325
+00:04:16,398 --> 00:04:16,798
+donc arrêtez de me donner un autre.
+
+1326
+00:04:16,798 --> 00:04:16,998
+Mais s'il y a des solutions,
+
+1327
+00:04:16,998 --> 00:04:17,198
+les DPO, ils vont venir,
+
+1328
+00:04:17,198 --> 00:04:17,398
+et vous allez,
+
+1329
+00:04:17,398 --> 00:04:17,598
+ils peuvent les suivre.
+
+1330
+00:04:17,598 --> 00:04:17,698
+Une enquête,
+
+1331
+00:04:17,698 --> 00:04:17,898
+ça peut être un système sécurisé,
+
+1332
+00:04:17,898 --> 00:04:17,998
+c'est sûr.
+
+1333
+00:04:17,998 --> 00:04:18,198
+Il faut pas nous lâcher.
+
+1334
+00:04:18,198 --> 00:04:18,398
+Mais malheureusement ça, hein,
+
+1335
+00:04:18,398 --> 00:04:18,498
+c'est...
+
+1336
+00:04:18,498 --> 00:04:18,598
+Là, si on a eu cette demande,
+
+1337
+00:04:18,598 --> 00:04:18,698
+enfin, peut-être pas celle-là,
+
+1338
+00:04:18,698 --> 00:04:18,898
+mais moi, j'ai eu une autre demande,
+
+1339
+00:04:18,898 --> 00:04:19,098
+c'est, en fait, concrètement,
+
+1340
+00:04:19,098 --> 00:04:19,298
+ça a été par un université,
+
+1341
+00:04:19,298 --> 00:04:19,398
+parce que c'était par un sacré,
+
+1342
+00:04:19,398 --> 00:04:19,598
+il y a eu un échange.
+
+1343
+00:04:19,598 --> 00:04:19,898
+Alors, quand ils se font...
+
+1344
+00:04:19,898 --> 00:04:19,998
+en Pia-Ren,
+
+1345
+00:04:19,998 --> 00:04:20,098
+il y a un autre,
+
+1346
+00:04:20,098 --> 00:04:20,298
+je cherchais un autre mot,
+
+1347
+00:04:20,298 --> 00:04:20,498
+enfin, je sais pas si vous vous souvenez,
+
+1348
+00:04:20,498 --> 00:04:20,598
+par un sacré,
+
+1349
+00:04:20,598 --> 00:04:20,698
+ça a été...
+
+1350
+00:04:20,698 --> 00:04:20,798
+ça a été massive,
+
+1351
+00:04:20,798 --> 00:04:20,898
+enfin, je dis,
+
+1352
+00:04:20,898 --> 00:04:20,998
+ils ont chiffré, récupéré,
+
+1353
+00:04:20,998 --> 00:04:21,098
+qu'ils ont donné,
+
+1354
+00:04:21,098 --> 00:04:21,298
+l'université a été bloqué.
+
+1355
+00:04:21,298 --> 00:04:21,398
+Et là, j'ai l'impression encore aujourd'hui
+
+1356
+00:04:21,398 --> 00:04:21,498
+qu'en fait,
+
+1357
+00:04:21,498 --> 00:04:21,698
+il y a eu un gros déficit de budget,
+
+1358
+00:04:21,698 --> 00:04:21,898
+et sûrement parce que ça a coûté une blinde,
+
+1359
+00:04:21,898 --> 00:04:22,198
+des trucs de remédiation,
+
+1360
+00:04:22,198 --> 00:04:22,398
+extrêmement cher,
+
+1361
+00:04:22,398 --> 00:04:22,498
+en termes d'image,
+
+1362
+00:04:22,498 --> 00:04:22,598
+aussi financiers.
+
+1363
+00:04:22,598 --> 00:04:22,798
+Là, en fait,
+
+1364
+00:04:22,798 --> 00:04:22,998
+ce qui se passe quand t'as une histoire comme ça,
+
+1365
+00:04:22,998 --> 00:04:23,098
+c'est que,
+
+1366
+00:04:23,098 --> 00:04:23,198
+systématiquement,
+
+1367
+00:04:23,198 --> 00:04:23,398
+t'as le haut fonctionnaire à la Défense
+
+1368
+00:04:23,398 --> 00:04:23,498
+qui t'a dit :
+
+1369
+00:04:23,498 --> 00:04:23,498
+"Bah,
+
+1370
+00:04:23,498 --> 00:04:23,598
+je t'envoie un message à tous les chercheurs
+
+1371
+00:04:23,598 --> 00:04:23,698
+pour aller près de telles données
+
+1372
+00:04:23,698 --> 00:04:23,798
+que vous aviez,
+
+1373
+00:04:23,798 --> 00:04:23,898
+en fait,
+
+1374
+00:04:23,898 --> 00:04:24,098
+pour essayer d'évaluer les dégâts, quoi."
+
+1375
+00:04:24,098 --> 00:04:24,198
+Mais, voilà,
+
+1376
+00:04:24,198 --> 00:04:24,398
+c'est quand même un...
+
+1377
+00:04:24,398 --> 00:04:24,498
+c'est un enjeu, quand même,
+
+1378
+00:04:24,498 --> 00:04:24,598
+qui t'a négligeable
+
+1379
+00:04:24,598 --> 00:04:24,798
+qu'elles soient vraiment sécurisées.
+
+1380
+00:04:24,798 --> 00:04:24,898
+Donc, comprendre, c'est un métier,
+
+1381
+00:04:24,898 --> 00:04:25,098
+parce qu'ils voient qu'elles sont plus en plus à date, quoi.
+
+1382
+00:04:25,098 --> 00:04:25,298
+Mais l'idée, c'est là,
+
+1383
+00:04:25,298 --> 00:04:25,398
+c'est pas juste que les dégâts
+
+1384
+00:04:25,398 --> 00:04:25,498
+ne sont pas précisément en tête.
+
+1385
+00:04:25,498 --> 00:04:25,698
+C'est vraiment que pour les données
+
+1386
+00:04:25,698 --> 00:04:25,998
+qui font quand même un niveau de sensibilité
+
+1387
+00:04:25,998 --> 00:04:26,098
+avec les données déjà,
+
+1388
+00:04:26,098 --> 00:04:26,198
+si elles sont analysées,
+
+1389
+00:04:26,198 --> 00:04:26,398
+c'est pas forcément pertinent,
+
+1390
+00:04:26,398 --> 00:04:26,498
+sinon,
+
+1391
+00:04:26,498 --> 00:04:26,798
+on va prendre le centralisé des données.
+
+1392
+00:04:26,798 --> 00:04:26,998
+mais sur le deuxième point,
+
+1393
+00:04:26,998 --> 00:04:27,098
+on acquiert aussi pas mal d'expérience.
+
+1394
+00:04:27,098 --> 00:04:27,198
+Alors, sur le CLD,
+
+1395
+00:04:27,198 --> 00:04:27,298
+on a quand même, maintenant,
+
+1396
+00:04:27,298 --> 00:04:27,498
+des mesures de gestion,
+
+1397
+00:04:27,498 --> 00:04:27,698
+qui sont quand même efficaces,
+
+1398
+00:04:27,698 --> 00:04:27,798
+sur l'aspect structure,
+
+1399
+00:04:27,798 --> 00:04:27,898
+c'est un cauchemar.
+
+1400
+00:04:27,898 --> 00:04:27,998
+Souvent, les personnes, d'ailleurs,
+
+1401
+00:04:27,998 --> 00:04:28,298
+qui pensent pouvoir implémenter une solution
+
+1402
+00:04:28,298 --> 00:04:28,498
+comme ça, comme le CLD,
+
+1403
+00:04:28,498 --> 00:04:28,698
+néglige complètement cet aspect-là,
+
+1404
+00:04:28,698 --> 00:04:28,798
+mais l'aspect suivi.
+
+1405
+00:04:28,798 --> 00:04:28,898
+Je peux vous dire,
+
+1406
+00:04:28,898 --> 00:04:28,998
+c'est...
+
+1407
+00:04:28,998 --> 00:04:29,098
+Donc, ça veut dire,
+
+1408
+00:04:29,098 --> 00:04:29,198
+Eric qui fait l'implémentation
+
+1409
+00:04:29,198 --> 00:04:29,298
+et côté...
+
+1410
+00:04:29,298 --> 00:04:29,498
+enfin, côté...
+
+1411
+00:04:29,498 --> 00:04:29,698
+de tanguilles,
+
+1412
+00:04:29,698 --> 00:04:29,898
+Yacine,
+
+1413
+00:04:29,898 --> 00:04:30,098
+qui ont suivi des applications,
+
+1414
+00:04:30,098 --> 00:04:30,398
+c'est des personnes qui sont dans le projet,
+
+1415
+00:04:30,398 --> 00:04:30,498
+donc, au bout de temps,
+
+1416
+00:04:30,498 --> 00:04:30,598
+il faut les enlever,
+
+1417
+00:04:30,598 --> 00:04:30,698
+ceux qui sont changés,
+
+1418
+00:04:30,698 --> 00:04:30,798
+ceux qui reviennent.
+
+1419
+00:04:30,798 --> 00:04:30,898
+C'est...
+
+1420
+00:04:30,898 --> 00:04:30,998
+Effectivement, tu as raison.
+
+1421
+00:04:30,998 --> 00:04:31,098
+Alors, on a développé aussi,
+
+1422
+00:04:31,098 --> 00:04:31,198
+dans le cadre de projets,
+
+1423
+00:04:31,198 --> 00:04:31,298
+juste pour compléter,
+
+1424
+00:04:31,298 --> 00:04:31,398
+et terminer,
+
+1425
+00:04:31,398 --> 00:04:31,498
+c'est que,
+
+1426
+00:04:31,498 --> 00:04:31,698
+Eric et Eric ont développé un portail,
+
+1427
+00:04:31,698 --> 00:04:31,798
+maintenant,
+
+1428
+00:04:31,798 --> 00:04:31,898
+où,
+
+1429
+00:04:31,898 --> 00:04:31,998
+ça va,
+
+1430
+00:04:31,998 --> 00:04:32,098
+plus il y a fonctionnalité,
+
+1431
+00:04:32,098 --> 00:04:32,198
+mais globalement,
+
+1432
+00:04:32,198 --> 00:04:32,298
+on va être à l'utilisateur,
+
+1433
+00:04:32,298 --> 00:04:32,498
+tu vois, l'organisme des utilisateurs,
+
+1434
+00:04:32,498 --> 00:04:32,598
+se connecter au portail
+
+1435
+00:04:32,598 --> 00:04:32,698
+et il dit,
+
+1436
+00:04:32,698 --> 00:04:32,798
+bah,
+
+1437
+00:04:32,798 --> 00:04:32,898
+je rajoute,
+
+1438
+00:04:32,898 --> 00:04:32,998
+c'est cet utilisateur sur ce projet-là,
+
+1439
+00:04:32,998 --> 00:04:33,098
+et après,
+
+1440
+00:04:33,098 --> 00:04:33,198
+c'est appliqué,
+
+1441
+00:04:33,198 --> 00:04:33,498
+c'est appliqué sur les droits techniques.
+
+1442
+00:04:33,498 --> 00:04:33,598
+Donc, on a...
+
+1443
+00:04:33,598 --> 00:04:33,798
+on commence à avoir une interface informatique,
+
+1444
+00:04:33,798 --> 00:04:33,898
+c'est plus fait par des...
+
+1445
+00:04:33,898 --> 00:04:34,098
+de papier ou des petits foussures, etc.
+
+1446
+00:04:34,098 --> 00:04:34,198
+ça commence...
+
+1447
+00:04:34,198 --> 00:04:34,298
+voilà,
+
+1448
+00:04:34,298 --> 00:04:34,398
+on commence à...
+
+1449
+00:04:34,398 --> 00:04:34,598
+pas mal développer d'outils
+
+1450
+00:04:34,598 --> 00:04:34,698
+pour cette gestion,
+
+1451
+00:04:34,698 --> 00:04:34,798
+euh,
+
+1452
+00:04:34,798 --> 00:04:34,898
+fonctionnelle.
+
+1453
+00:04:34,898 --> 00:04:34,998
+et après,
+
+1454
+00:04:34,998 --> 00:04:35,098
+c'est appliqué technique,
+
+1455
+00:04:35,098 --> 00:04:35,198
+c'est...
+
+1456
+00:04:35,198 --> 00:04:35,298
+si ça répond à ta question.
+
+1457
+00:04:35,298 --> 00:04:35,398
+Parce que là,
+
+1458
+00:04:35,398 --> 00:04:35,498
+je sais plus, Eric,
+
+1459
+00:04:35,498 --> 00:04:35,598
+si tu peux dire un mot,
+
+1460
+00:04:35,598 --> 00:04:35,798
+l'interface qu'on a sur un site.
+
+1461
+00:04:35,798 --> 00:04:35,898
+sur un site,
+
+1462
+00:04:35,898 --> 00:04:36,098
+il y a des deux ministres sociaux,
+
+1463
+00:04:36,098 --> 00:04:36,198
+c'était un mot,
+
+1464
+00:04:36,198 --> 00:04:36,298
+euh,
+
+1465
+00:04:36,298 --> 00:04:36,398
+très rapidement,
+
+1466
+00:04:36,398 --> 00:04:36,498
+on a dit qu'on ne va pas pouvoir
+
+1467
+00:04:36,498 --> 00:04:36,698
+gérer leur demande,
+
+1468
+00:04:36,698 --> 00:04:36,798
+c'est une bonne chose,
+
+1469
+00:04:36,798 --> 00:04:36,798
+c'est présente,
+
+1470
+00:04:36,798 --> 00:04:36,898
+pour les grandes unités.
+
+1471
+00:04:36,898 --> 00:04:36,998
+parce que,
+
+1472
+00:04:36,998 --> 00:04:37,098
+oui,
+
+1473
+00:04:37,098 --> 00:04:37,198
+il y a quand même beaucoup de mouvements
+
+1474
+00:04:37,198 --> 00:04:37,298
+sur le CEPD,
+
+1475
+00:04:37,298 --> 00:04:37,498
+qu'on a mis en France,
+
+1476
+00:04:37,498 --> 00:04:37,598
+c'est la...
+
+1477
+00:04:37,598 --> 00:04:37,698
+des entreprises,
+
+1478
+00:04:37,698 --> 00:04:37,798
+des administrations,
+
+1479
+00:04:37,798 --> 00:04:37,998
+donc des référents,
+
+1480
+00:04:37,998 --> 00:04:38,198
+des démonstrations,
+
+1481
+00:04:38,198 --> 00:04:38,298
+pour la main,
+
+1482
+00:04:38,298 --> 00:04:38,398
+pour faire des projets,
+
+1483
+00:04:38,398 --> 00:04:38,498
+pour faire des projets,
+
+1484
+00:04:38,498 --> 00:04:38,598
+pour faire des solutions,
+
+1485
+00:04:38,598 --> 00:04:38,698
+pour faire des solutions,
+
+1486
+00:04:38,698 --> 00:04:38,798
+pour faire des solutions,
+
+1487
+00:04:38,798 --> 00:04:38,898
+pour faire des solutions,
+
+1488
+00:04:38,898 --> 00:04:38,998
+pour avoir le point,
+
+1489
+00:04:38,998 --> 00:04:39,198
+pour faire des solutions,
+
+1490
+00:04:39,198 --> 00:04:39,398
+pour pouvoir participer
+
+1491
+00:04:39,398 --> 00:04:39,598
+à partir sur les 50 projets,
+
+1492
+00:04:39,598 --> 00:04:39,698
+et pour faire des solutions,
+
+1493
+00:04:39,698 --> 00:04:39,798
+à la fin,
+
+1494
+00:04:39,798 --> 00:04:39,898
+c'est sûr,
+
+1495
+00:04:39,898 --> 00:04:39,998
+c'est un portail,
+
+1496
+00:04:39,998 --> 00:04:40,098
+il y a eu centaines,
+
+1497
+00:04:40,098 --> 00:04:40,298
+c'est pas mal de ressources,
+
+1498
+00:04:40,298 --> 00:04:40,398
+c'est pas mal de ressources,
+
+1499
+00:04:40,398 --> 00:04:40,598
+c'est pas mal de ressources,
+
+1500
+00:04:40,598 --> 00:04:40,698
+c'est pas mal de ressources,
+
+1501
+00:04:40,698 --> 00:04:40,798
+c'est pas mal de ressources,
+
+1502
+00:04:40,798 --> 00:04:40,898
+c'est pas mal de ressources,
+
+1503
+00:04:40,898 --> 00:04:40,998
+c'est pas mal de ressources,
+
+1504
+00:04:40,998 --> 00:04:41,098
+c'est pas mal de ressources,
+
+1505
+00:04:41,098 --> 00:04:41,198
+c'est pas mal de ressources,
+
+1506
+00:04:41,198 --> 00:04:41,298
+c'est pas mal de ressources,
+
+1507
+00:04:41,298 --> 00:04:41,398
+c'est pas mal de ressources,
+
+1508
+00:04:41,398 --> 00:04:41,498
+c'est pas mal de ressources,
+
+1509
+00:04:41,498 --> 00:04:41,598
+c'est pas mal de ressources,
+
+1510
+00:04:41,598 --> 00:04:41,698
+c'est pas mal de ressources,
+
+1511
+00:04:41,698 --> 00:04:41,798
+c'est pas mal de ressources,
+
+1512
+00:04:41,798 --> 00:04:41,898
+c'est pas mal de ressources,
+
+1513
+00:04:41,898 --> 00:04:41,998
+c'est pas mal de ressources,
+
+1514
+00:04:41,998 --> 00:04:42,098
+c'est pas mal de ressources,
+
+1515
+00:04:42,098 --> 00:04:42,198
+c'est pas mal de ressources,
+
+1516
+00:04:42,198 --> 00:04:42,298
+c'est pas mal de ressources,
+
+1517
+00:04:42,298 --> 00:04:42,398
+c'est pas mal de ressources,
+
+1518
+00:04:42,398 --> 00:04:42,498
+c'est pas mal de ressources,
+
+1519
+00:04:42,498 --> 00:04:42,598
+c'est pas mal de ressources,
+
+1520
+00:04:42,598 --> 00:04:42,698
+c'est pas mal de ressources,
+
+1521
+00:04:42,698 --> 00:04:42,798
+c'est pas mal de ressources,
+
+1522
+00:04:42,798 --> 00:04:42,898
+c'est pas mal de ressources,
+
+1523
+00:04:42,898 --> 00:04:42,998
+c'est pas mal de ressources,
+
+1524
+00:04:42,998 --> 00:04:43,098
+c'est pas mal de ressources,
+
+1525
+00:04:43,098 --> 00:04:43,198
+c'est pas mal de ressources,
+
+1526
+00:04:43,198 --> 00:04:43,298
+c'est pas mal de ressources,
+
+1527
+00:04:43,298 --> 00:04:43,398
+c'est pas mal de ressources,
+
+1528
+00:04:43,398 --> 00:04:43,498
+c'est pas mal de ressources,
+
+1529
+00:04:43,498 --> 00:04:43,598
+c'est pas mal de ressources,
+
+1530
+00:04:43,598 --> 00:04:43,698
+c'est pas mal de ressources,
+
+1531
+00:04:43,698 --> 00:04:43,798
+c'est pas mal de ressources,
+
+1532
+00:04:43,798 --> 00:04:43,898
+c'est pas mal de ressources,
+
+1533
+00:04:43,898 --> 00:04:43,998
+c'est pas mal de ressources,
+
+1534
+00:04:43,998 --> 00:04:44,098
+c'est pas mal de ressources,
+
+1535
+00:04:44,098 --> 00:04:44,198
+c'est pas mal de ressources,
+
+1536
+00:04:44,198 --> 00:04:44,298
+c'est pas mal de ressources,
+
+1537
+00:04:44,298 --> 00:04:44,398
+c'est pas mal de ressources,
+
+1538
+00:04:44,398 --> 00:04:44,498
+c'est pas mal de ressources,
+
+1539
+00:04:44,498 --> 00:04:44,598
+c'est pas mal de ressources,
+
+1540
+00:04:45,598 --> 00:04:45,798
+- Si je prends l'exemple du RSI PESA,
+
+1541
+00:04:45,798 --> 00:04:45,998
+je pourrais prendre l'exemple de Cornet,
+
+1542
+00:04:45,998 --> 00:04:46,298
+qui est un serveur interne pour les projets sécurisés,
+
+1543
+00:04:46,298 --> 00:04:46,498
+n'importe quoi qui passe par le comité d'été,
+
+1544
+00:04:46,498 --> 00:04:46,898
+doit forcément aller se sert sur ces serveurs-là,
+
+1545
+00:04:46,898 --> 00:04:47,298
+ils ont pas été mis à jour depuis 5, 8 ans,
+
+1546
+00:04:47,298 --> 00:04:47,598
+je sais pas, ils vous roulent comme une tortue,
+
+1547
+00:04:47,598 --> 00:04:48,098
+donc avoir l'interface externe qui peut-être est plus apte à être renouvelée,
+
+1548
+00:04:48,098 --> 00:04:48,398
+etc., ça peut être un avantage, même chez nous,
+
+1549
+00:04:48,398 --> 00:04:48,798
+mais YSPSR, c'est pas un service gratuit qu'ils font,
+
+1550
+00:04:48,798 --> 00:04:48,998
+donc il y a un frais mensuel,
+
+1551
+00:04:48,998 --> 00:04:49,198
+tant que vous accédez aux données, vous payez.
+
+1552
+00:04:49,198 --> 00:04:49,598
+Ce qu'il y a aussi, comme on fait,
+
+1553
+00:04:49,598 --> 00:04:49,798
+bon, c'est pas n'importe quel étudiant qu'il va appliquer,
+
+1554
+00:04:49,798 --> 00:04:49,998
+et le chercheur principal,
+
+1555
+00:04:49,998 --> 00:04:50,398
+on voit 200$ d'éviter sur son compte de recherche à chaque mois,
+
+1556
+00:04:50,398 --> 00:04:50,498
+il va à un moment donné dire,
+
+1557
+00:04:50,498 --> 00:04:50,698
+ok on a fini le projet, on arrête de le visiter.
+
+1558
+00:04:50,698 --> 00:04:51,098
+Mais la récupération des coûts,
+
+1559
+00:04:51,098 --> 00:04:51,598
+c'est une façon de externaliser les coûts pour les masques aussi,
+
+1560
+00:04:51,598 --> 00:04:51,798
+tant qu'il y a une telle heure.
+
+1561
+00:04:51,798 --> 00:04:52,098
+Et j'ai soulevé le point parce qu'on avait parlé,
+
+1562
+00:04:52,098 --> 00:04:52,298
+et puis à l'époque il n'y avait pas vraiment de solution,
+
+1563
+00:04:52,298 --> 00:04:52,498
+mais grosso modo comme,
+
+1564
+00:04:52,498 --> 00:04:52,798
+c'est une solution de calcul,
+
+1565
+00:04:52,798 --> 00:04:52,998
+refait un archive des données,
+
+1566
+00:04:52,998 --> 00:04:53,298
+qui avant avait juste, je m'en ai les données,
+
+1567
+00:04:53,298 --> 00:04:53,598
+puis après ça c'est, c'est où ça va, c'est sécurisé,
+
+1568
+00:04:53,598 --> 00:04:53,898
+c'est quelque chose, on résout ce problème-là,
+
+1569
+00:04:53,898 --> 00:04:54,098
+on s'est gréfin, je suis par ça.
+
+1570
+00:04:54,198 --> 00:04:54,398
+- C'est vrai, moi je pense que c'est pertinent,
+
+1571
+00:04:54,398 --> 00:04:54,598
+c'est sûr que mutualiser cet aspect de sécurité,
+
+1572
+00:04:54,598 --> 00:04:54,798
+on voit qu'à l'échelle de l'université,
+
+1573
+00:04:54,798 --> 00:04:54,998
+c'est très particulier pour aider au moyen,
+
+1574
+00:04:54,998 --> 00:04:55,098
+pour avoir une infrastructure,
+
+1575
+00:04:55,098 --> 00:04:55,298
+c'est comme tu te souviens,
+
+1576
+00:04:55,298 --> 00:04:55,498
+alors tu l'as soumis avec la gestion,
+
+1577
+00:04:55,498 --> 00:04:55,598
+bien évidemment,
+
+1578
+00:04:55,598 --> 00:04:55,798
+on doit avoir une gestion en social,
+
+1579
+00:04:55,798 --> 00:04:55,898
+mais après derrière,
+
+1580
+00:04:55,898 --> 00:04:55,998
+il y a aussi,
+
+1581
+00:04:55,998 --> 00:04:56,198
+on peut mettre à jour,
+
+1582
+00:04:56,198 --> 00:04:56,298
+les technologies elles évoluent,
+
+1583
+00:04:56,298 --> 00:04:56,498
+les outils elles évoluent, etc.
+
+1584
+00:04:56,498 --> 00:04:56,698
+C'est dans la même ressource,
+
+1585
+00:04:56,698 --> 00:04:56,998
+c'est un casse-tête pour l'échelle de l'université,
+
+1586
+00:04:56,998 --> 00:04:57,198
+certainement des cours considérables,
+
+1587
+00:04:57,198 --> 00:04:57,398
+il faut dire que c'est à l'échelle,
+
+1588
+00:04:57,398 --> 00:04:57,498
+en réalité,
+
+1589
+00:04:57,498 --> 00:04:57,898
+si vous comptez le nombre de projets par organismes,
+
+1590
+00:04:57,898 --> 00:04:58,098
+peut-être la somme de ce que c'est,
+
+1591
+00:04:58,098 --> 00:04:58,298
+c'est une interne,
+
+1592
+00:04:58,298 --> 00:04:58,398
+si l'internel disait,
+
+1593
+00:04:58,398 --> 00:04:58,598
+ça ne serait-ce qu'à avoir deux trois postes,
+
+1594
+00:04:58,598 --> 00:04:58,798
+déjà, ça veut dire,
+
+1595
+00:04:58,798 --> 00:04:58,998
+pas un organisme en France qui paye des clients,
+
+1596
+00:04:58,998 --> 00:04:59,098
+deux trois postes,
+
+1597
+00:04:59,098 --> 00:04:59,298
+même le plus gros utilisateur,
+
+1598
+00:04:59,298 --> 00:04:59,398
+je ne sais pas,
+
+1599
+00:04:59,398 --> 00:04:59,598
+même quand on somme,
+
+1600
+00:04:59,598 --> 00:04:59,898
+somme des coûts sur une année du CHD,
+
+1601
+00:04:59,898 --> 00:05:00,198
+ça ne couvre pas deux ou trois UTP,
+
+1602
+00:05:00,198 --> 00:05:00,498
+parce que les UTP chargés l'employeur,
+
+1603
+00:05:00,498 --> 00:05:00,598
+ça en fait l'ensemble,
+
+1604
+00:05:00,598 --> 00:05:00,698
+le rôle lui-même,
+
+1605
+00:05:00,698 --> 00:05:00,798
+sinon,
+
+1606
+00:05:00,798 --> 00:05:00,898
+si,
+
+1607
+00:05:00,898 --> 00:05:00,998
+bon,
+
+1608
+00:05:00,998 --> 00:05:01,198
+ça c'est,
+
+1609
+00:05:01,198 --> 00:05:01,198
+oui,
+
+1610
+00:05:01,198 --> 00:05:01,298
+je pense que,
+
+1611
+00:05:01,298 --> 00:05:01,498
+on a des surtout deux cas,
+
+1612
+00:05:01,498 --> 00:05:01,598
+et ce cas,
+
+1613
+00:05:01,598 --> 00:05:01,698
+oui,
+
+1614
+00:05:01,698 --> 00:05:01,798
+ça peut être,
+
+1615
+00:05:01,798 --> 00:05:01,998
+on pourrait voir si ça peut l'intéresser,
+
+1616
+00:05:01,998 --> 00:05:02,098
+dans les universités,
+
+1617
+00:05:02,098 --> 00:05:02,198
+aussi,
+
+1618
+00:05:02,198 --> 00:05:02,298
+quand ça pourrait l'intéresser,
+
+1619
+00:05:02,298 --> 00:05:02,398
+c'est des questions,
+
+1620
+00:05:02,398 --> 00:05:02,498
+c'est des questions,
+
+1621
+00:05:02,498 --> 00:05:02,598
+c'est des questions,
+
+1622
+00:05:02,598 --> 00:05:02,698
+mais c'est bref,
+
+1623
+00:05:02,698 --> 00:05:02,798
+la question,
+
+1624
+00:05:02,798 --> 00:05:02,898
+c'est qu'à ce qu'on a,
+
+1625
+00:05:02,898 --> 00:05:02,998
+c'est plus en dernier,
+
+1626
+00:05:02,998 --> 00:05:03,098
+il met une organisation,
+
+1627
+00:05:03,098 --> 00:05:03,298
+mais ça peut progresser,
+
+1628
+00:05:03,298 --> 00:05:03,498
+il y a entre les centres de recherche,
+
+1629
+00:05:03,498 --> 00:05:03,598
+après il y a,
+
+1630
+00:05:03,598 --> 00:05:03,698
+il y a,
+
+1631
+00:05:03,698 --> 00:05:03,798
+l'université,
+
+1632
+00:05:03,798 --> 00:05:03,898
+mais,
+
+1633
+00:05:03,898 --> 00:05:03,998
+ce qui est sûr,
+
+1634
+00:05:03,998 --> 00:05:04,198
+c'est qu'il y a un problème du côté de l'université,
+
+1635
+00:05:04,198 --> 00:05:04,298
+il y a un problème du côté de l'université,
+
+1636
+00:05:04,298 --> 00:05:04,498
+il y a un problème du côté de l'université,
+
+1637
+00:05:04,498 --> 00:05:04,598
+il y a un problème du côté de l'université,
+
+1638
+00:05:04,598 --> 00:05:04,698
+il y a un problème du côté de l'université,
+
+1639
+00:05:04,698 --> 00:05:04,798
+il y a un problème du côté de l'université,
+
+1640
+00:05:04,798 --> 00:05:04,898
+il y a un problème du côté de l'université,
+
+1641
+00:05:04,898 --> 00:05:04,998
+il y a un problème du côté de l'université,
+
+1642
+00:05:04,998 --> 00:05:05,098
+il y a un problème du côté de l'université,
+
+1643
+00:05:05,098 --> 00:05:05,198
+il y a un problème du côté de l'université,
+
+1644
+00:05:05,198 --> 00:05:05,298
+il y a un problème du côté de l'université,
+
+1645
+00:05:05,298 --> 00:05:05,398
+c'est un problème du côté de l'université.
+
+1646
+00:05:05,398 --> 00:05:05,498
+Ah non,
+
+1647
+00:05:05,498 --> 00:05:05,598
+on fonctionne toujours en projet.
+
+1648
+00:05:05,598 --> 00:05:05,698
+C'est un problème du côté de l'université.
+
+1649
+00:05:05,698 --> 00:05:05,798
+C'est un problème du côté de l'université.
+
+1650
+00:05:05,798 --> 00:05:05,898
+C'est un problème du côté de l'université.
+
+1651
+00:05:05,898 --> 00:05:05,998
+Ah non,
+
+1652
+00:05:05,998 --> 00:05:06,098
+le référent,
+
+1653
+00:05:06,098 --> 00:05:06,198
+je veux dire,
+
+1654
+00:05:06,198 --> 00:05:06,298
+le référent fonctionnel,
+
+1655
+00:05:06,298 --> 00:05:06,398
+c'est-à-dire,
+
+1656
+00:05:06,398 --> 00:05:06,598
+celui qui va dire,
+
+1657
+00:05:06,598 --> 00:05:06,698
+celui qui va dire,
+
+1658
+00:05:06,698 --> 00:05:06,798
+lui,
+
+1659
+00:05:06,798 --> 00:05:06,898
+il ouvre un projet,
+
+1660
+00:05:06,898 --> 00:05:06,998
+et à ce moment-là,
+
+1661
+00:05:06,998 --> 00:05:07,198
+celui qui ouvre un projet,
+
+1662
+00:05:07,198 --> 00:05:07,298
+c'est c'est le problème du côté.
+
+1663
+00:05:07,298 --> 00:05:07,398
+Ah,
+
+1664
+00:05:07,398 --> 00:05:07,498
+dans les universités,
+
+1665
+00:05:07,498 --> 00:05:07,798
+c'est le débo qui décide d'ouvrir un projet
+
+1666
+00:05:07,798 --> 00:05:07,998
+au sein d'un cerveau.
+
+1667
+00:05:07,998 --> 00:05:08,098
+Dans une université,
+
+1668
+00:05:08,098 --> 00:05:08,298
+quand tu travailles sur des données,
+
+1669
+00:05:08,298 --> 00:05:08,398
+quelles qu'elles soient,
+
+1670
+00:05:08,398 --> 00:05:08,698
+tu dois soumettre ton projet au débo.
+
+1671
+00:05:08,698 --> 00:05:08,898
+Ça, c'est tout organiser.
+
+1672
+00:05:08,898 --> 00:05:08,998
+Mais c'est le faire pour le faire.
+
+1673
+00:05:08,998 --> 00:05:09,098
+Ok,
+
+1674
+00:05:09,098 --> 00:05:09,198
+c'est le cas pour nous.
+
+1675
+00:05:09,198 --> 00:05:09,398
+Tu dois soumettre ton projet au débo,
+
+1676
+00:05:09,398 --> 00:05:09,598
+c'est lui qui évalue
+
+1677
+00:05:09,598 --> 00:05:09,698
+la position unique que toi,
+
+1678
+00:05:09,698 --> 00:05:09,798
+tu lui proposes.
+
+1679
+00:05:09,798 --> 00:05:09,998
+Alors,
+
+1680
+00:05:09,998 --> 00:05:10,098
+après,
+
+1681
+00:05:10,098 --> 00:05:10,198
+c'est là où tu rentres dans le souhaité,
+
+1682
+00:05:10,198 --> 00:05:10,298
+on peut se dire,
+
+1683
+00:05:10,298 --> 00:05:10,398
+il faut faire comme ça,
+
+1684
+00:05:10,398 --> 00:05:10,498
+et tu dis,
+
+1685
+00:05:10,498 --> 00:05:10,598
+il faut faire comme ça.
+
+1686
+00:05:10,598 --> 00:05:10,698
+Donc,
+
+1687
+00:05:10,698 --> 00:05:10,798
+ça va faire ça.
+
+1688
+00:05:10,798 --> 00:05:10,898
+Et généralement,
+
+1689
+00:05:10,898 --> 00:05:10,998
+ce que tu fais,
+
+1690
+00:05:10,998 --> 00:05:11,098
+c'est le débo.
+
+1691
+00:05:11,098 --> 00:05:11,198
+Parce que tu sais qu'il va se dire
+
+1692
+00:05:11,198 --> 00:05:11,298
+il faut faire ça,
+
+1693
+00:05:11,298 --> 00:05:11,398
+et que tu ne peux pas le faire.
+
+1694
+00:05:11,398 --> 00:05:11,498
+Donc,
+
+1695
+00:05:11,498 --> 00:05:11,598
+tu dis que tu n'es pas allé lui demander.
+
+1696
+00:05:11,598 --> 00:05:11,698
+Et le débo dit non.
+
+1697
+00:05:11,698 --> 00:05:11,798
+c'est pas grave,
+
+1698
+00:05:11,798 --> 00:05:11,898
+puis le jour,
+
+1699
+00:05:11,898 --> 00:05:11,998
+il y aura un gage,
+
+1700
+00:05:11,998 --> 00:05:12,298
+je ne serai pas responsable.
+
+1701
+00:05:12,298 --> 00:05:12,798
+C'est aussi parce qu'il n'y a pas de solution.
+
+1702
+00:05:12,798 --> 00:05:12,898
+S'il y a des solutions,
+
+1703
+00:05:12,898 --> 00:05:13,098
+je pense que le débo après,
+
+1704
+00:05:13,098 --> 00:05:13,398
+c'est tout simple.
+
+1705
+00:05:13,398 --> 00:05:13,498
+D'accord.
+
+1706
+00:05:13,498 --> 00:05:13,598
+ça sera eu le référence.
+
+1707
+00:05:13,598 --> 00:05:13,998
+Il s'est dit qu'il est en charge de cette organisation-là.
+
+1708
+00:05:13,998 --> 00:05:14,098
+D'accord.
+
+1709
+00:05:14,098 --> 00:05:14,198
+Enchanté aujourd'hui,
+
+1710
+00:05:14,198 --> 00:05:14,398
+on dit qu'ils n'ont pas les instruments.
+
+1711
+00:05:14,398 --> 00:05:14,498
+C'est le débo,
+
+1712
+00:05:14,498 --> 00:05:14,498
+c'est le débo.
+
+1713
+00:05:14,498 --> 00:05:14,698
+Il y a un jour où le CESRS était supposé faire quelque chose.
+
+1714
+00:05:14,698 --> 00:05:14,898
+Mais moi, j'ai encore un premier arbre.
+
+1715
+00:05:14,898 --> 00:05:15,098
+Je ne sais pas.
+
+1716
+00:05:15,098 --> 00:05:15,198
+Parce qu'il y a des débo,
+
+1717
+00:05:15,198 --> 00:05:15,398
+ils ont ce problème là partout.
+
+1718
+00:05:15,398 --> 00:05:15,498
+D'accord.
+
+1719
+00:05:15,498 --> 00:05:15,598
+D'accord.
+
+1720
+00:05:15,598 --> 00:05:15,698
+D'accord.
+
+1721
+00:05:15,698 --> 00:05:15,798
+D'accord.
+
+1722
+00:05:15,798 --> 00:05:15,898
+D'accord.
+
+1723
+00:05:15,898 --> 00:05:15,998
+D'accord.
+
+1724
+00:05:15,998 --> 00:05:16,098
+D'accord.
+
+1725
+00:05:16,098 --> 00:05:16,198
+D'accord.
+
+1726
+00:05:16,198 --> 00:05:16,298
+D'accord.
+
+1727
+00:05:16,298 --> 00:05:16,398
+D'accord.
+
+1728
+00:05:16,398 --> 00:05:16,498
+D'accord.
+
+1729
+00:05:16,498 --> 00:05:16,598
+D'accord.
+
+1730
+00:05:16,598 --> 00:05:16,698
+D'accord.
+
+1731
+00:05:16,698 --> 00:05:16,798
+D'accord.
+
+1732
+00:05:16,798 --> 00:05:16,898
+D'accord.
+
+1733
+00:05:16,898 --> 00:05:17,198
+Il y a un cas où il y a deux débo et des comités d'éthique
+
+1734
+00:05:17,198 --> 00:05:17,298
+et qui ne disent pas la même chose.
+
+1735
+00:05:17,298 --> 00:05:17,398
+Oui.
+
+1736
+00:05:17,398 --> 00:05:17,598
+Ça peut être un cas où il y a deux.
+
+1737
+00:05:17,598 --> 00:05:17,698
+Je ne sais pas.
+
+1738
+00:05:17,698 --> 00:05:17,998
+Mais c'est vrai que ça peut être complexe.
+
+1739
+00:05:17,998 --> 00:05:18,098
+Non.
+
+1740
+00:05:18,098 --> 00:05:18,398
+Par contre, il y a des...
+
+1741
+00:05:18,398 --> 00:05:18,698
+Il faut peut-être essayer de vous...
+
+1742
+00:05:18,698 --> 00:05:18,798
+Comment dire ?
+
+1743
+00:05:18,798 --> 00:05:19,198
+Vendre une solution pour entrer en contact avec les institutions,
+
+1744
+00:05:19,198 --> 00:05:19,498
+essayer de trouver le bon contact.
+
+1745
+00:05:19,498 --> 00:05:19,998
+Je sais qu'au CNRS, à l'INSH, ils ont créé un comité d'éthique.
+
+1746
+00:05:19,998 --> 00:05:20,398
+Déjà, ça peut être peut-être une fois d'un fait pour le sujet avec eux.
+
+1747
+00:05:20,398 --> 00:05:20,798
+Il y a un problème pour permettre...
+
+1748
+00:05:20,798 --> 00:05:20,998
+Alors, c'est les labos qui sont...
+
+1749
+00:05:20,998 --> 00:05:21,098
+qui sont...
+
+1750
+00:05:21,098 --> 00:05:21,198
+qui sont...
+
+1751
+00:05:21,198 --> 00:05:21,298
+qui sont...
+
+1752
+00:05:21,298 --> 00:05:21,398
+qui sont...
+
+1753
+00:05:21,398 --> 00:05:21,498
+mais...
+
+1754
+00:05:21,498 --> 00:05:21,798
+Après, je ne sais pas du tout s'ils auront la puissance des calculs,
+
+1755
+00:05:21,798 --> 00:05:21,898
+des conseils...
+
+1756
+00:05:21,898 --> 00:05:21,998
+Ces questions-là, en fait.
+
+1757
+00:05:21,998 --> 00:05:22,098
+Absolument.
+
+1758
+00:05:22,098 --> 00:05:22,298
+Et là, ça va changer d'un labo à l'autre.
+
+1759
+00:05:22,298 --> 00:05:22,398
+Et puis, c'est...
+
+1760
+00:05:22,398 --> 00:05:22,498
+Ça, c'est pas...
+
+1761
+00:05:22,498 --> 00:05:22,598
+C'est...
+
+1762
+00:05:22,598 --> 00:05:22,698
+Alors, nous, on n'a pas instruit.
+
+1763
+00:05:22,698 --> 00:05:22,798
+Vraiment, on n'a pas instruit.
+
+1764
+00:05:22,798 --> 00:05:22,898
+Et...
+
+1765
+00:05:22,898 --> 00:05:22,998
+Et...
+
+1766
+00:05:22,998 --> 00:05:23,098
+Et...
+
+1767
+00:05:23,098 --> 00:05:23,198
+Et...
+
+1768
+00:05:23,198 --> 00:05:23,298
+Et...
+
+1769
+00:05:23,298 --> 00:05:23,398
+Il y a déjà échangé...
+
+1770
+00:05:23,398 --> 00:05:23,498
+C'est...
+
+1771
+00:05:23,498 --> 00:05:23,598
+C'est...
+
+1772
+00:05:23,598 --> 00:05:23,698
+C'est...
+
+1773
+00:05:23,698 --> 00:05:23,798
+Déjà, avec...
+
+1774
+00:05:23,798 --> 00:05:23,898
+Parfois, l'université...
+
+1775
+00:05:23,898 --> 00:05:23,998
+L'université...
+
+1776
+00:05:23,998 --> 00:05:24,098
+Je pense que...
+
+1777
+00:05:24,098 --> 00:05:24,298
+Comme elle nous a fixé, elle quand elle parlait de 68,
+
+1778
+00:05:24,298 --> 00:05:24,498
+l'année dernière, il y a un an.
+
+1779
+00:05:24,498 --> 00:05:24,798
+Et donc, effectivement, on va changer avec elle.
+
+1780
+00:05:24,798 --> 00:05:24,998
+Ce qui serait bien, c'est aussi que nous...
+
+1781
+00:05:24,998 --> 00:05:25,098
+C'est pas un sujet...
+
+1782
+00:05:25,098 --> 00:05:25,198
+C'est pas un sujet...
+
+1783
+00:05:25,198 --> 00:05:25,298
+C'est pas un sujet...
+
+1784
+00:05:25,298 --> 00:05:25,398
+On a fait un sujet là...
+
+1785
+00:05:25,398 --> 00:05:25,498
+C'est...
+
+1786
+00:05:25,498 --> 00:05:25,598
+Euh...
+
+1787
+00:05:25,598 --> 00:05:25,698
+C'est...
+
+1788
+00:05:25,698 --> 00:05:25,898
+Il faut qu'on a instruit sur comment...
+
+1789
+00:05:25,898 --> 00:05:26,298
+Ça pourrait être vraiment un peu plus d'un premier université.
+
+1790
+00:05:26,298 --> 00:05:26,698
+Après, nous, ce qui marche bien, côté CSD, on peut quand même s'afficher beaucoup sur ça,
+
+1791
+00:05:26,698 --> 00:05:26,798
+c'est après, c'est du travail.
+
+1792
+00:05:26,798 --> 00:05:26,998
+C'est vraiment ça.
+
+1793
+00:05:26,998 --> 00:05:27,598
+Donc, si on a un truc qui marche bien avec l'université, après, bah, en plus les chercheurs...
+
+1794
+00:05:27,598 --> 00:05:27,998
+Ils sont pas sur une université, ils sont sur un...
+
+1795
+00:05:27,998 --> 00:05:28,198
+Donc, en tout cas, je note le point.
+
+1796
+00:05:28,198 --> 00:05:28,398
+C'est vrai que c'est un vrai sujet.
+
+1797
+00:05:28,398 --> 00:05:28,698
+Moi, ça m'a toujours intrigué et recèdent vraiment très fréquemment.
+
+1798
+00:05:28,698 --> 00:05:28,798
+Euh...
+
+1799
+00:05:28,798 --> 00:05:28,998
+Des données de la recherche.
+
+1800
+00:05:28,998 --> 00:05:29,498
+Il faudra aussi voir, parce que c'était bien CHS, les projets de l'université,
+
+1801
+00:05:29,498 --> 00:05:29,698
+voir aussi comment on se perd en avec eux.
+
+1802
+00:05:29,698 --> 00:05:29,898
+Ah, c'est pas du tout...
+
+1803
+00:05:29,898 --> 00:05:30,098
+C'est pas du tout...
+
+1804
+00:05:30,098 --> 00:05:30,498
+C'est important que ça reste un besoin.
+
+1805
+00:05:30,498 --> 00:05:30,598
+Il y a un besoin qui est si...
+
+1806
+00:05:30,598 --> 00:05:30,698
+Donc, il y a une autre mentalité.
+
+1807
+00:05:30,698 --> 00:05:30,898
+Mais c'est vrai qu'une fois qu'il y avait l'EFTA,
+
+1808
+00:05:30,898 --> 00:05:31,098
+et que vous ne saurez quelque part,
+
+1809
+00:05:31,098 --> 00:05:31,198
+va y avoir des grands discussions,
+
+1810
+00:05:31,198 --> 00:05:31,298
+ou pas ou des...
+
+1811
+00:05:31,298 --> 00:05:31,498
+Donc, c'est quand même intéressant.
+
+1812
+00:05:31,498 --> 00:05:31,598
+Orostate, il exige aussi.
+
+1813
+00:05:31,598 --> 00:05:31,798
+Il exige, pour les données d'orostate,
+
+1814
+00:05:31,798 --> 00:05:31,898
+c'est des solutions fortes,
+
+1815
+00:05:31,898 --> 00:05:31,998
+c'est qu'il faut l'écrire.
+
+1816
+00:05:31,998 --> 00:05:32,198
+Et l'organisme, son...
+
+1817
+00:05:32,198 --> 00:05:32,298
+Son...
+
+1818
+00:05:32,298 --> 00:05:32,498
+Son...
+
+1819
+00:05:32,498 --> 00:05:32,698
+Comment dire ?
+
+1820
+00:05:32,698 --> 00:05:32,898
+L'organisme, si on est...
+
+1821
+00:05:32,898 --> 00:05:32,998
+Oui.
+
+1822
+00:05:32,998 --> 00:05:33,198
+Alors, on voit aussi les procès...
+
+1823
+00:05:33,198 --> 00:05:33,698
+Comme souvent...
+
+1824
+00:05:33,698 --> 00:05:33,898
+Comme souvent, on peut pas répondre aux excuses,
+
+1825
+00:05:33,898 --> 00:05:34,098
+on peut être qu'on répond.
+
+1826
+00:05:34,098 --> 00:05:34,398
+Et les procès, elles ne font pas qu'on répond.
+
+1827
+00:05:34,398 --> 00:05:34,498
+Est-ce qu'il s'appelait ?
+
+1828
+00:05:34,498 --> 00:05:34,598
+Est-ce qu'il s'appelait ?
+
+1829
+00:05:34,598 --> 00:05:34,698
+On peut pas répondre aux excuses.
+
+1830
+00:05:34,698 --> 00:05:34,798
+Et puis,
+
+1831
+00:05:34,798 --> 00:05:34,998
+quand ils nous envoient le mail,
+
+1832
+00:05:34,998 --> 00:05:35,198
+en disant des choses éposées...
+
+1833
+00:05:35,198 --> 00:05:35,298
+Alors,
+
+1834
+00:05:35,298 --> 00:05:35,498
+je pense qu'Alexandre va jouer avec ses bras...
+
+1835
+00:05:35,498 --> 00:05:35,598
+Non, non, mais...
+
+1836
+00:05:35,598 --> 00:05:35,898
+Alors, il y a des choses qu'on peut mettre hors-contre-en-lui.
+
+1837
+00:05:35,898 --> 00:05:36,098
+On enlève les points...
+
+1838
+00:05:36,098 --> 00:05:36,398
+Il y a des points qu'on mettra de...
+
+1839
+00:05:36,398 --> 00:05:36,598
+Non, alors, justement, on peut pas trop le demander,
+
+1840
+00:05:36,598 --> 00:05:36,698
+mais...
+
+1841
+00:05:36,698 --> 00:05:36,898
+C'est un cas imaginaire de personnes que je ne connais pas.
+
+1842
+00:05:36,898 --> 00:05:36,998
+Voilà, on sait pas.
+
+1843
+00:05:36,998 --> 00:05:37,098
+Mais...
+
+1844
+00:05:37,098 --> 00:05:37,298
+C'est quelqu'un que tu connais,
+
+1845
+00:05:37,298 --> 00:05:37,398
+qui t'a dit que...
+
+1846
+00:05:37,398 --> 00:05:37,498
+Voilà.
+
+1847
+00:05:37,498 --> 00:05:37,598
+Pour ramener le point,
+
+1848
+00:05:37,598 --> 00:05:37,998
+on n'est pas le comité de gestion pour revenir à ce qu'il dit tantôt.
+
+1849
+00:05:37,998 --> 00:05:38,398
+Mais s'il y a des synergies entre développer ce sujet-là avec des ministères
+
+1850
+00:05:38,398 --> 00:05:38,598
+qui permettent de développer des nouvelles processus
+
+1851
+00:05:38,598 --> 00:05:38,898
+qui, eux, peuvent profiter à la recherche.
+
+1852
+00:05:38,898 --> 00:05:39,298
+Je pense que ça, c'est dans l'intérêt du comité scientifique de dire,
+
+1853
+00:05:39,298 --> 00:05:39,598
+OK, oui, mais on peut voir où ceci,
+
+1854
+00:05:39,598 --> 00:05:39,898
+qui est une offre de service pour un ministère qui est con,
+
+1855
+00:05:39,898 --> 00:05:40,198
+mais peut être utile pour avancer la recherche,
+
+1856
+00:05:40,198 --> 00:05:40,298
+en fait,
+
+1857
+00:05:40,298 --> 00:05:40,398
+dans l'université,
+
+1858
+00:05:40,398 --> 00:05:40,598
+si cette offre-là puisse exister.
+
+1859
+00:05:40,598 --> 00:05:40,998
+Donc, si on veut la subvention par un ministère
+
+1860
+00:05:40,998 --> 00:05:41,198
+de développer vos processus,
+
+1861
+00:05:41,198 --> 00:05:41,498
+si ça peut se traduire dans une offre universitaire
+
+1862
+00:05:41,498 --> 00:05:41,798
+qui facilite la recherche dans certains contextes.
+
+1863
+00:05:41,798 --> 00:05:42,398
+que je pense que, à ce moment-là, c'est quelque chose qu'on dit qu'est-ce que c'est.
+
+1864
+00:05:42,398 --> 00:05:42,598
+que c'est une offre-là, c'est une offre-là.
+
+1865
+00:05:42,598 --> 00:05:42,798
+C'est une offre-là.
+
+1866
+00:05:42,798 --> 00:05:42,898
+C'est une offre-là.
+
+1867
+00:05:42,898 --> 00:05:42,998
+C'est une offre-là.
+
+1868
+00:05:42,998 --> 00:05:43,098
+C'est une offre-là.
+
+1869
+00:05:43,098 --> 00:05:43,198
+C'est une offre-là.
+
+1870
+00:05:43,198 --> 00:05:43,298
+C'est une offre-là.
+
+1871
+00:05:43,298 --> 00:05:43,398
+C'est une offre-là.
+
+1872
+00:05:43,398 --> 00:05:43,498
+C'est une offre-là.
+
+1873
+00:05:43,498 --> 00:05:43,598
+d'après, effectivement,
+
+1874
+00:05:43,598 --> 00:05:43,898
+où elle aime bien avoir des conclusions.
+
+1875
+00:05:43,898 --> 00:05:44,298
+Donc, j'aime bien ne pas inventer les conclusions quand je fais ça.
+
+1876
+00:05:44,298 --> 00:05:44,498
+Je me suis rendue.
+
+1877
+00:05:44,498 --> 00:05:45,098
+Donc, on a remarqué que ça a décidé que ce que je veux dire, c'est la conduite.
+
+1878
+00:05:45,098 --> 00:05:45,398
+C'est pour dire, elle a besoin d'une pause.
+
+1879
+00:05:45,398 --> 00:05:45,898
+Il faut dire, elle a le nez sous les chouquettes, sur les chouquettes sous le nez.
+
+1880
+00:05:45,898 --> 00:05:46,198
+Non, mais c'est pas pour moi.
+
+1881
+00:05:46,198 --> 00:05:46,598
+On peut faire une distinction entre un avis formal,
+
+1882
+00:05:46,598 --> 00:05:47,198
+qui est effectivement une conclusion quand même à la discussion
+
+1883
+00:05:47,198 --> 00:05:47,798
+et qui permet aussi, effectivement, d'aventurer pour la famille générale, pour le CEL.
+
+1884
+00:05:47,798 --> 00:05:47,898
+Voilà.
+
+1885
+00:05:47,898 --> 00:05:48,298
+Donc, on peut compter cette conclusion.
+
+1886
+00:05:48,298 --> 00:05:48,498
+D'accord.
+
+1887
+00:05:48,498 --> 00:05:48,898
+Donc, là, l'objet de cette...
+
+1888
+00:05:48,898 --> 00:05:49,498
+C'était déjà de vous présenter ce projet qui est quand même un projet
+
+1889
+00:05:49,498 --> 00:05:49,798
+qui peut être structurant pour la suite.
+
+1890
+00:05:49,898 --> 00:05:50,298
+Et effectivement, repris en premier, on est autour.
+
+1891
+00:05:50,298 --> 00:05:50,598
+C'est-à-dire que là, on a une question de la science-tru.
+
+1892
+00:05:50,598 --> 00:05:50,698
+Voilà.
+
+1893
+00:05:50,698 --> 00:05:50,798
+Et puis, dessus dessus,
+
+1894
+00:05:50,798 --> 00:05:51,098
+on a expliqué comment ça évolue.
+
+1895
+00:05:51,098 --> 00:05:51,498
+Et je pense que l'on a aussi des choses en plus de tout à l'heure.
+
+1896
+00:05:51,498 --> 00:05:51,798
+Avec la réelle, c'est mon système.
+
+1897
+00:05:51,798 --> 00:05:51,898
+C'est un peu plus de tout à l'heure.
+
+1898
+00:05:51,898 --> 00:05:51,998
+C'est un peu plus de tout à l'heure.
+
+1899
+00:05:51,998 --> 00:05:52,098
+C'est un peu plus de tout à l'heure.
+
+1900
+00:05:52,098 --> 00:05:52,198
+C'est un peu plus de tout à l'heure.
+
+1901
+00:05:52,198 --> 00:05:52,298
+C'est un peu plus de tout à l'heure.
+
+1902
+00:05:52,298 --> 00:05:52,398
+C'est un peu plus de tout à l'heure.
+
+1903
+00:05:52,398 --> 00:05:52,498
+C'est un peu plus de tout à l'heure.
+
+1904
+00:05:52,498 --> 00:05:52,598
+C'est un peu plus de tout à l'heure.
+
+1905
+00:05:52,598 --> 00:05:52,698
+C'est un peu plus de tout à l'heure.
+
+1906
+00:05:52,698 --> 00:05:52,798
+C'est un peu plus de tout à l'heure.
+
+1907
+00:05:52,798 --> 00:05:52,898
+Alors, c'est pas ça.
+
+1908
+00:05:52,898 --> 00:05:52,998
+Non, mais c'est sinon.
+
+1909
+00:05:52,998 --> 00:05:53,098
+C'est une question.
+
+1910
+00:05:53,098 --> 00:05:53,298
+Après, pour ce qu'il y a, après, nous.
+
+1911
+00:05:53,298 --> 00:05:53,498
+J'avais une question.
+
+1912
+00:05:53,498 --> 00:05:54,098
+Parce qu'il y avait une mention du modèle de langage dans le transfert précédent.
+
+1913
+00:05:54,098 --> 00:05:54,398
+Est-ce que tu vas nous en parler davantage ?
+
+1914
+00:05:54,398 --> 00:05:54,598
+Ou c'est maintenant qu'il faut ?
+
+1915
+00:05:54,598 --> 00:05:54,898
+On en parle, justement, cet après-midi, prévient.
+
+1916
+00:05:54,898 --> 00:05:54,998
+Alors, il n'y a pas de fonds.
+
+1917
+00:05:54,998 --> 00:05:55,098
+D'accord.
+
+1918
+00:05:55,098 --> 00:05:55,698
+On en parle tout à l'heure.
+
+1919
+00:05:55,698 --> 00:05:55,798
+Tout à l'heure.
+
+1920
+00:05:55,798 --> 00:05:55,898
+D'accord.
+
+1921
+00:05:55,898 --> 00:05:56,298
+Louise.
+
+1922
+00:05:56,298 --> 00:05:56,698
+Oui.
+
+1923
+00:05:56,698 --> 00:05:56,898
+Pardon, je vais peut-être enlever le écran.
+
+1924
+00:05:56,898 --> 00:05:56,998
+Alors, c'est ce que j'ai dit.
+
+1925
+00:05:56,998 --> 00:05:57,598
+Je ne sais pas si tu voulais intervenir.
+
+1926
+00:05:57,598 --> 00:05:57,998
+Alors, pour intervenir, le lever de main, on ne le verra pas systématiquement.
+
+1927
+00:05:57,998 --> 00:05:58,298
+Donc, si tu souhaites intervenir sans toi libre, t'interrompre.
+
+1928
+00:05:58,298 --> 00:05:58,398
+Tout à fait.
+
+1929
+00:05:58,398 --> 00:05:58,598
+Je me sens libre d'interrompre.
+
+1930
+00:05:58,598 --> 00:05:58,898
+Mais je n'avais pas particulièrement de fond à raconter.
+
+1931
+00:05:58,898 --> 00:05:58,998
+D'accord.
+
+1932
+00:05:58,998 --> 00:05:59,398
+Écoute, en tout cas, là, comme tu vois, c'est mignon.
+
+1933
+00:05:59,398 --> 00:05:59,698
+Ici, on va faire une...
+
+1934
+00:05:59,698 --> 00:05:59,898
+Alors, on ne peut pas t'offrir le café à distance ?
+
+1935
+00:05:59,898 --> 00:06:00,098
+Oui, j'ai entendu qu'il y avait des chuggets.
+
+1936
+00:06:00,098 --> 00:06:00,198
+Oui, voilà.
+
+1937
+00:06:00,198 --> 00:06:00,298
+Ça, c'est...
+
+1938
+00:06:00,298 --> 00:06:00,398
+Tu vois, donc, c'est comme ça.
+
+1939
+00:06:00,398 --> 00:06:00,898
+On ne voit même plus Roxane, elle est derrière une pile de chuggets.
+
+1940
+00:06:00,898 --> 00:06:01,098
+Ah, mais attendu.
+
+1941
+00:06:01,098 --> 00:06:01,198
+Ok.
+
+1942
+00:06:01,198 --> 00:06:01,398
+Bon, on va alors dans...
+
+1943
+00:06:01,398 --> 00:06:01,698
+Dans 15 minutes, ouais.
+
+1944
+00:06:01,698 --> 00:06:01,798
+On reprend dans 15 minutes.
+
+1945
+00:06:01,798 --> 00:06:02,098
+On va laisser la connexion tourner, le timbre tourner.
+
+1946
+00:06:02,098 --> 00:06:02,198
+On va couper le son.
+
+1947
+00:06:02,198 --> 00:06:02,598
+Et on reprend dans 15 minutes.
+
+1948
+00:06:02,598 --> 00:06:02,798
+Ça veut dire à 38 minutes.
+
+1949
+00:06:02,798 --> 00:06:02,998
+Ok.
+
+1950
+00:06:02,998 --> 00:06:03,098
+Très bien.
+
+1951
+00:06:03,098 --> 00:06:03,198
+Merci.
+
+1952
+00:06:03,198 --> 00:06:03,236
+Bon café.
+
