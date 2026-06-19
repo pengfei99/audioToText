@@ -24,7 +24,32 @@ Voxtral models. If you choose Voxtal, the inference engines must be `vllm` or `H
 
 > There are inference engines(e.g. mlx-audio) developed for MacOS. As we will never use MacOS, we don't evaluate them.
 
-### 2.1 faster-whisper
+### 2.1 Whisper family engine
+
+There are many inference engines developed to run `OpenAI Whisper based models`, for example:
+- faster-whisper: https://github.com/SYSTRAN/faster-whisper
+- whisperx: https://github.com/m-bain/whisperx
+- whisper.cpp: https://github.com/ggml-org/whisper.cpp
+
+Below is a brief comparison between them
+
+| Aspect          | faster-whisper                | WhisperX                    | whisper.cpp                   |
+|-----------------|-------------------------------|-----------------------------|-------------------------------|
+| Backend         | CTranslate2                   | CTranslate2 + alignment/VAD | ggml (C/C++)                  |
+| Speed           | Very fast (CPU or nvidia GPU) | Fast (but extra steps)      | Excellent on CPU/edge; varies |
+| Memory          | Low                           | Moderate                    | Lowest                        |
+| Word Timestamps | Good                          | Best (forced alignment)     | Basic                         |
+| Diarization     | No (add-ons possible)         | Yes (built-in options)      | Limited/no built-in           |
+| Long Audio      | Good                          | Excellent (VAD chunking)    | Good                          |
+| Hardware        | CPU + GPU (strong on NVIDIA)  | CPU + GPU                   | "Broadest (CPU, Apple, edge)" |
+| Ease of Use     | "Python, easy integration"    | "Python, feature-rich"      | "CLI-focused, minimal deps"   |
+| Best Use Case   | General fast transcription    | Timestamps + speakers       | On-device / lightweight       |
+
+> `faster-whisper` will work for most cases. Use `WhisperX` if you need `advance timestamps or speaker identification`.
+> Use whisper.cpp for resource-constrained or cross-platform deployment.
+
+
+#### 2.1.1 faster-whisper
 
 `faster-whisper` is a reimplementation of `OpenAI's Whisper` using `CTranslate2`, which is a `fast inference engine for Transformer models`.
 
@@ -42,15 +67,39 @@ The below metric shows a bench on running `whisper-Large-v2` model on GPU which 
 | faster-whisper | int8 | 5 | 59s | 2926MB |
 | faster-whisper (`batch_size=8`) | int8 | 5 | 16s | 4500MB |
 
-> You can notice it consumes less resources and has better response time
+> Advantage, you can notice it consumes less resources and has better response time compare to openAI, whisper.cpp and hg-transformer
+> The origin whisper model released by OpenAI is in pyTorch(.pt) format, `faster-whisper` requires the model must be in
+> `CTranslate2` format. The conversion can be done via `ct2-transformers-converter` tool. Most of the time you can just
+> download the pre-build model from HF website.
+>
 
+#### 2.1.2 whisper.cpp
+
+`whisper.cpp` is a pure `C/C++` implementation of inference engine of OpenAI's Whisper ASR model. It uses 
+ggml (lightweight tensor library, similar to the one used in `llama.cpp`). It's extremely `light-weight`, `minimal dependencies`, and works on 
+all platform:
+- Mac OS (Intel and Arm)
+- iOS 
+- Android 
+- Windows (MSVC and MinGW)
+- Linux / FreeBSD
+- WebAssembly 
+- Raspberry Pi
+
+> Generally slower on high-end GPUs compared to `CTranslate2-based` options for batch workloads; no built-in advanced 
+> diarization or forced alignment (though community extensions exist); can be trickier to build for some platforms.
+>
+> It only supports the old `GGML binary format(.bin)`, not the GGUF format. So for some models, you need to do the 
+> model format conversion, and it's very painful
 
 ### 2.2 Hugging Face transformers
 
+We can use `Hugging Face transformers` to run all pyTorch model(.pt)
+
+
 ### 2.3 vllm
 
-### 2.4 whisper.cpp 
-
+https://github.com/vllm-project/vllm
 
 ## 3. Automatic Speech Recognition model evaluation
 
@@ -74,10 +123,13 @@ The model name which you can download from hugging face
 
 > our benchmark uses a quantified model(Q5_K_M) from https://huggingface.co/bartowski/mistralai_Voxtral-Mini-3B-2507-GGUF
 
-###
+### 3.2 Whisper models
 
-## 
+### 3.3 Nvidia Canary
 
+### 3.4 Qwen3-ASR
+
+Qwen3-ASR-1.7B
 
 ## Model eval: Voxtral vs Faster-Whisper vs NeMo Canary
 
