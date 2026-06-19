@@ -33,7 +33,7 @@ There are many inference engines developed to run `OpenAI Whisper based models`,
 
 Below is a brief comparison between them
 
-| Aspect          | faster-whisper                | WhisperX                    | whisper.cpp                   |
+| engine name     | faster-whisper                | WhisperX                    | whisper.cpp                   |
 |-----------------|-------------------------------|-----------------------------|-------------------------------|
 | Backend         | CTranslate2                   | CTranslate2 + alignment/VAD | ggml (C/C++)                  |
 | Speed           | Very fast (CPU or nvidia GPU) | Fast (but extra steps)      | Excellent on CPU/edge; varies |
