@@ -64,8 +64,8 @@ def main():
     print(log_dir.as_posix())
     setup_logger(log_dir=log_dir)
     # run_whisper_mp3_example()
-    # run_whisper_wav_example()
-    run_whisper_cpp_example()
+    run_whisper_wav_example()
+    # run_whisper_cpp_example()
 
 
 if __name__ == "__main__":
