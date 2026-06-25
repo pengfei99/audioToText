@@ -8,16 +8,14 @@ The context of the project:
 - the speed is not our primary goal. the accuracy is.
 
 
-
-
-
 ## 2. Inference engine Evaluation
 
 We have few inference engines:
 - faster-whisper
+- whisper.cpp (llama.cpp for arm)
 - Hugging Face Transformers
 - vllm
-- whisper.cpp (llama.cpp for arm)
+- transformer.js
 
 > The choice of inference engine will be highly influenced by the model choice. For example, Faster-Whisper does not support
 Voxtral models. If you choose Voxtal, the inference engines must be `vllm` or `Hugging Face Transformers`
@@ -100,6 +98,33 @@ We can use `Hugging Face transformers` to run all pyTorch model(.pt)
 ### 2.3 vllm
 
 https://github.com/vllm-project/vllm
+
+### 2.4 Transformer.js and AnythingLLM
+
+`Transformers.js`  is a JavaScript library developed by `Xenova (Joshua Lochner)` for Hugging Face. It lets you run 
+many `Transformer-based AI models` directly in the `web browser` or in `Node.js` without needing Python or a separate 
+server. To use transformer.js, the models must be in `ONNX format (a standardized model format)` and runs them using 
+`ONNX Runtime Web (WASM + WebGPU backend)`.
+
+**WASM Environment Limitations**:
+
+Run models in `WebAssembly (WASM)`, is `less efficient than native engine (e.g. PyTorch or faster-whisper in C++/CUDA).
+
+`Memory management` in JS (garbage collection) is `not optimized for large tensor operations` as Python/C++ runtimes.
+
+`AnythingLLM` uses `Transformers.js+Whisper-tiny` as default local provider for speech-to-text tasks. For 
+low-end hardware (<16GB RAM), it can take 4–5+ minutes process time for 1 minute of audio. 
+
+> The official doc specifies don't use it to process audio files > 10MB.
+
+#### 2.4.1 AnythingLLM
+
+AnythingLLM tech stack:
+
+- front end: ViteJS + React 
+- backend: Node.js 
+- Desktop application : Electron
+- local inference engine: Transformers.js (xenova/transformers)
 
 ## 3. Automatic Speech Recognition model evaluation
 
